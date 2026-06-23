@@ -12,6 +12,11 @@ on:
         required: true
         type: boolean
         default: false
+  push:
+    paths:
+      - ".github/workflows/collect-note.yml"
+      - "scripts/collect_note.py"
+      - "requirements.txt"
 
 permissions:
   contents: write
@@ -33,9 +38,12 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Collect articles
+        env:
+          LIMIT: ${{ inputs.limit || '5' }}
+          OVERWRITE: ${{ inputs.overwrite || 'false' }}
         run: |
-          args=(--profile "https://note.com/shirokuma1970" --limit "${{ inputs.limit }}")
-          if [[ "${{ inputs.overwrite }}" == "true" ]]; then
+          args=(--profile "https://note.com/shirokuma1970" --limit "$LIMIT")
+          if [[ "$OVERWRITE" == "true" ]]; then
             args+=(--overwrite)
           fi
           python scripts/collect_note.py "${args[@]}"

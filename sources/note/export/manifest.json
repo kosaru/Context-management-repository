@@ -1,1 +1,33 @@
-PLACEHOLDER
+{
+  "generated_at": "2026-06-24",
+  "source_file": "note-shirokuma1970-1.xml",
+  "article_count": 351,
+  "first_published_at": "2026-01-24 10:49:40",
+  "last_published_at": "2026-06-23 20:14:21",
+  "existing_analyzed_count": 25,
+  "new_unreviewed_count": 326,
+  "published_count": 351,
+  "duplicate_note_id_count": 0,
+  "missing_title_count": 0,
+  "missing_body_count": 0,
+  "body_character_count": 1203520,
+  "articles_with_images": 27,
+  "image_reference_count": 28,
+  "corpus_files": [
+    "2026-01-part01.jsonl",
+    "2026-02-part01.jsonl",
+    "2026-02-part02.jsonl",
+    "2026-03-part01.jsonl",
+    "2026-03-part02.jsonl",
+    "2026-03-part03.jsonl",
+    "2026-03-part04.jsonl",
+    "2026-03-part05.jsonl",
+    "2026-04-part01.jsonl",
+    "2026-05-part01.jsonl",
+    "2026-05-part02.jsonl",
+    "2026-06-part01.jsonl",
+    "2026-06-part02.jsonl"
+  ],
+  "full_article_index": "../../../articles/EXPORT_INDEX.md",
+  "analysis_overview": "../../../analysis/EXPORT_CORPUS_OVERVIEW.md"
+}

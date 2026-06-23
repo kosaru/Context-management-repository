@@ -7,6 +7,10 @@ on:
         description: Maximum articles to collect; 0 means all discovered articles
         required: true
         default: "0"
+      max_pages:
+        description: Safety limit for note creator API pagination
+        required: true
+        default: "100"
       overwrite:
         description: Replace existing unreviewed snapshots and cards
         required: true
@@ -22,9 +26,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: collect-note
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -41,9 +50,10 @@ jobs:
       - name: Collect articles
         env:
           LIMIT: ${{ inputs.limit || '0' }}
+          MAX_PAGES: ${{ inputs.max_pages || '100' }}
           OVERWRITE: ${{ inputs.overwrite || 'false' }}
         run: |
-          args=(--profile "https://note.com/shirokuma1970" --limit "$LIMIT")
+          args=(--profile "https://note.com/shirokuma1970" --limit "$LIMIT" --max-pages "$MAX_PAGES")
           if [[ "$OVERWRITE" == "true" ]]; then
             args+=(--overwrite)
           fi

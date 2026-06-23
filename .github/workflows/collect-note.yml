@@ -1,0 +1,53 @@
+name: Collect note articles
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Number of recent articles to collect; 0 means all entries in RSS
+        required: true
+        default: "5"
+      overwrite:
+        description: Replace existing unreviewed snapshots and cards
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Collect articles
+        run: |
+          args=(--profile "https://note.com/shirokuma1970" --limit "${{ inputs.limit }}")
+          if [[ "${{ inputs.overwrite }}" == "true" ]]; then
+            args+=(--overwrite)
+          fi
+          python scripts/collect_note.py "${args[@]}"
+
+      - name: Commit collected files
+        run: |
+          if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles/INDEX.md articles/cards sources/note
+          git commit -m "Collect recent note articles"
+          git push

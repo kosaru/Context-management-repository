@@ -22,7 +22,11 @@
 <!-- AUTO-GENERATED-ARTICLES:START -->
 | 公開日 | 記事 | 状態 | note |
 |---|---|---|---|
-| - | まだ登録されていません | - | - |
+| 2026-06-23 | [予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで](cards/2026-06-23-nee567e7bf172.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/nee567e7bf172) |
+| 2026-06-21 | [話が飛んでいるようで、飛んでいないー具象を包摂し、上位概念を組み替える思考](cards/2026-06-21-n9189519559b6.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n9189519559b6) |
+| 2026-06-20 | [型をそのままにするな、技を切り離したままにするな](cards/2026-06-20-n8608abc16b0e.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n8608abc16b0e) |
+| 2026-06-20 | [複雑さを知ることは、防御になる](cards/2026-06-20-n11cae8fdcf99.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n11cae8fdcf99) |
+| 2026-06-20 | [活性酸素を悪者にすると、身体の循環が見えなくなる](cards/2026-06-20-n3f1b99d428b4.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n3f1b99d428b4) |
 <!-- AUTO-GENERATED-ARTICLES:END -->
 
 ## 運用

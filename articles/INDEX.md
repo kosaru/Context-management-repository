@@ -8,12 +8,11 @@
 
 - [x] note公開一覧から25記事を取得
 - [x] 本文スナップショットと記事カード雛形を作成
-- [x] 最新5記事を解析
-- [x] 追加10記事を解析
-- [ ] 残り10記事を解析
+- [x] 20記事を解析
+- [ ] 残り5記事を解析
 - [ ] テーマ・問い・概念の横断索引を作成
 
-解析済み：15 / 25記事
+解析済み：20 / 25記事
 
 ## 記事カード一覧
 
@@ -37,14 +36,14 @@
 | 2026-05-31 | [第4回：速さは、誰のゆとりを生むのか――効率化の果実を、世界の競争に吸わせ続けるのか](cards/2026-05-31-nfcaa3e96b4d9.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/nfcaa3e96b4d9) |
 | 2026-05-31 | [第5回：本当に必要なものは、安くてよい−−価格を、公共性と付加価値に分けて考える](cards/2026-05-31-n9a8876ddea24.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n9a8876ddea24) |
 | 2026-05-30 | [第2回：使い捨てから、育てるへ――開拓的欲望と並走する、減速のイノベーション](cards/2026-05-30-n463dc4ed6385.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n463dc4ed6385) |
-| 2026-05-30 | [第1回：緑色の需要喚起では、文明は減速しない――カーボンニュートラルは目的ではなく結果である](cards/2026-05-30-n7f5f65dab91b.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n7f5f65dab91b) |
-| 2026-05-29 | [正義では、減速は発明できない――なぜ左派と環境運動は、文明の着陸を語らないのか](cards/2026-05-29-n56042d3fff1e.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n56042d3fff1e) |
-| 2026-05-29 | [開拓に賭けながら、減速を発明する――地球文明に必要なのは、心地よく遅くなるためのイノベーションである](cards/2026-05-29-na5e015a833ba.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/na5e015a833ba) |
-| 2026-05-29 | [第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す](cards/2026-05-29-ne657d4d1e187.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/ne657d4d1e187) |
+| 2026-05-30 | [第1回：緑色の需要喚起では、文明は減速しない――カーボンニュートラルは目的ではなく結果である](cards/2026-05-30-n7f5f65dab91b.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n7f5f65dab91b) |
+| 2026-05-29 | [正義では、減速は発明できない――なぜ左派と環境運動は、文明の着陸を語らないのか](cards/2026-05-29-n56042d3fff1e.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n56042d3fff1e) |
+| 2026-05-29 | [開拓に賭けながら、減速を発明する――地球文明に必要なのは、心地よく遅くなるためのイノベーションである](cards/2026-05-29-na5e015a833ba.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/na5e015a833ba) |
+| 2026-05-29 | [第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す](cards/2026-05-29-ne657d4d1e187.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/ne657d4d1e187) |
 | 2026-05-22 | [生成AIは、あなたの「正しさ」を強くしすぎる](cards/2026-05-22-n7f7b19894103.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n7f7b19894103) |
 | 2026-05-21 | [AIは文献を読める。しかし、文献同士の関係を保てるとは限らない](cards/2026-05-21-n709593502973.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n709593502973) |
 | 2026-05-15 | [ドルの外周で、湾岸が動き始めた](cards/2026-05-15-n4d7ce6fc1a3e.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n4d7ce6fc1a3e) |
-| 2026-05-06 | [財政を守る主体はいる。だが、財政を生む景気を誰が守るのかーー国の帳簿ではなく、税源を生む生活循環から考える](cards/2026-05-06-ne93c5cbf00aa.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/ne93c5cbf00aa) |
+| 2026-05-06 | [財政を守る主体はいる。だが、財政を生む景気を誰が守るのかーー国の帳簿ではなく、税源を生む生活循環から考える](cards/2026-05-06-ne93c5cbf00aa.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/ne93c5cbf00aa) |
 | 2026-05-06 | [AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている](cards/2026-05-06-neb3fdedccd79.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/neb3fdedccd79) |
 | 2026-05-05 | [AIとの対話には、プロンプトの技より先に「稽古」がいる](cards/2026-05-05-ne689a6405eba.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/ne689a6405eba) |
 <!-- AUTO-GENERATED-ARTICLES:END -->

@@ -21,6 +21,7 @@ on:
       - ".github/workflows/collect-note.yml"
       - "scripts/collect_note.py"
       - "scripts/collect_note_api.py"
+      - "scripts/dedupe_note_cards.py"
       - "requirements.txt"
 
 permissions:
@@ -58,6 +59,9 @@ jobs:
             args+=(--overwrite)
           fi
           python scripts/collect_note_api.py "${args[@]}"
+
+      - name: Deduplicate cards by note ID
+        run: python scripts/dedupe_note_cards.py
 
       - name: Commit collected files
         run: |

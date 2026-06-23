@@ -6,7 +6,7 @@ on:
       limit:
         description: Number of recent articles to collect; 0 means all entries in RSS
         required: true
-        default: "5"
+        default: "0"
       overwrite:
         description: Replace existing unreviewed snapshots and cards
         required: true
@@ -39,7 +39,7 @@ jobs:
 
       - name: Collect articles
         env:
-          LIMIT: ${{ inputs.limit || '5' }}
+          LIMIT: ${{ inputs.limit || '0' }}
           OVERWRITE: ${{ inputs.overwrite || 'false' }}
         run: |
           args=(--profile "https://note.com/shirokuma1970" --limit "$LIMIT")
@@ -57,5 +57,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add articles/INDEX.md articles/cards sources/note
-          git commit -m "Collect recent note articles"
+          git commit -m "Collect note articles from RSS"
           git push

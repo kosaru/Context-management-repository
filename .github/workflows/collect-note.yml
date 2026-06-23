@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       limit:
-        description: Number of recent articles to collect; 0 means all entries in RSS
+        description: Maximum articles to collect; 0 means all discovered articles
         required: true
         default: "0"
       overwrite:
@@ -16,6 +16,7 @@ on:
     paths:
       - ".github/workflows/collect-note.yml"
       - "scripts/collect_note.py"
+      - "scripts/collect_note_api.py"
       - "requirements.txt"
 
 permissions:
@@ -46,7 +47,7 @@ jobs:
           if [[ "$OVERWRITE" == "true" ]]; then
             args+=(--overwrite)
           fi
-          python scripts/collect_note.py "${args[@]}"
+          python scripts/collect_note_api.py "${args[@]}"
 
       - name: Commit collected files
         run: |
@@ -57,5 +58,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add articles/INDEX.md articles/cards sources/note
-          git commit -m "Collect note articles from RSS"
+          git commit -m "Collect note articles"
           git push

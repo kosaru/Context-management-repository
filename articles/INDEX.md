@@ -8,11 +8,10 @@
 
 - [x] note公開一覧から25記事を取得
 - [x] 本文スナップショットと記事カード雛形を作成
-- [x] 24記事を解析
-- [ ] 残り1記事を解析
+- [x] 25記事を解析
 - [ ] テーマ・問い・概念の横断索引を作成
 
-解析済み：24 / 25記事
+解析済み：25 / 25記事
 
 ## 記事カード一覧
 
@@ -42,7 +41,7 @@
 | 2026-05-29 | [第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す](cards/2026-05-29-ne657d4d1e187.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/ne657d4d1e187) |
 | 2026-05-22 | [生成AIは、あなたの「正しさ」を強くしすぎる](cards/2026-05-22-n7f7b19894103.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n7f7b19894103) |
 | 2026-05-21 | [AIは文献を読める。しかし、文献同士の関係を保てるとは限らない](cards/2026-05-21-n709593502973.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n709593502973) |
-| 2026-05-15 | [ドルの外周で、湾岸が動き始めた](cards/2026-05-15-n4d7ce6fc1a3e.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n4d7ce6fc1a3e) |
+| 2026-05-15 | [ドルの外周で、湾岸が動き始めた](cards/2026-05-15-n4d7ce6fc1a3e.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n4d7ce6fc1a3e) |
 | 2026-05-06 | [財政を守る主体はいる。だが、財政を生む景気を誰が守るのかーー国の帳簿ではなく、税源を生む生活循環から考える](cards/2026-05-06-ne93c5cbf00aa.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/ne93c5cbf00aa) |
 | 2026-05-06 | [AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている](cards/2026-05-06-neb3fdedccd79.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/neb3fdedccd79) |
 | 2026-05-05 | [AIとの対話には、プロンプトの技より先に「稽古」がいる](cards/2026-05-05-ne689a6405eba.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/ne689a6405eba) |

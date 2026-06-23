@@ -9,11 +9,11 @@
 - [x] note公開一覧から24記事を取得
 - [x] 本文スナップショットと記事カード雛形を作成
 - [x] 最新5記事を解析
-- [x] 追加5記事を解析
-- [ ] 残り14記事を解析
+- [x] 追加10記事を解析
+- [ ] 残り9記事を解析
 - [ ] テーマ・問い・概念の横断索引を作成
 
-解析済み：10 / 24記事
+解析済み：15 / 24記事
 
 ## 記事カード一覧
 
@@ -32,11 +32,11 @@
 | 2026-06-02 | [第9回：内部SLAは、日本の良さを壊すのではない――「当たり前」を、持続可能な条件へ戻す](cards/2026-06-02-n89b15f5116d8.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n89b15f5116d8) |
 | 2026-06-01 | [第6回：景気とは、拡大のことなのか――金融市場ではなく、一般市場に円が回るということ](cards/2026-06-01-nd46b0cc03d81.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/nd46b0cc03d81) |
 | 2026-06-01 | [第8回：人が動ける社会と、人を動かせる社会は違う――労働力の流動性を、安心の土台から考える](cards/2026-06-01-n83282ab66f38.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n83282ab66f38) |
-| 2026-06-01 | [第7回：不安ではなく、安心を土台にする――Security と Comfort が一般市場を回す](cards/2026-06-01-n44292915f6fa.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n44292915f6fa) |
-| 2026-05-31 | [第3回：無駄を削ったつもりで、逃げ道を削っていないか――選択肢・やり直し・複数役割から考える文明の伸縮性](cards/2026-05-31-n5ea51050843d.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n5ea51050843d) |
-| 2026-05-31 | [第4回：速さは、誰のゆとりを生むのか――効率化の果実を、世界の競争に吸わせ続けるのか](cards/2026-05-31-nfcaa3e96b4d9.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/nfcaa3e96b4d9) |
-| 2026-05-31 | [第5回：本当に必要なものは、安くてよい−−価格を、公共性と付加価値に分けて考える](cards/2026-05-31-n9a8876ddea24.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n9a8876ddea24) |
-| 2026-05-30 | [第2回：使い捨てから、育てるへ――開拓的欲望と並走する、減速のイノベーション](cards/2026-05-30-n463dc4ed6385.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n463dc4ed6385) |
+| 2026-06-01 | [第7回：不安ではなく、安心を土台にする――Security と Comfort が一般市場を回す](cards/2026-06-01-n44292915f6fa.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n44292915f6fa) |
+| 2026-05-31 | [第3回：無駄を削ったつもりで、逃げ道を削っていないか――選択肢・やり直し・複数役割から考える文明の伸縮性](cards/2026-05-31-n5ea51050843d.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n5ea51050843d) |
+| 2026-05-31 | [第4回：速さは、誰のゆとりを生むのか――効率化の果実を、世界の競争に吸わせ続けるのか](cards/2026-05-31-nfcaa3e96b4d9.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/nfcaa3e96b4d9) |
+| 2026-05-31 | [第5回：本当に必要なものは、安くてよい−−価格を、公共性と付加価値に分けて考える](cards/2026-05-31-n9a8876ddea24.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n9a8876ddea24) |
+| 2026-05-30 | [第2回：使い捨てから、育てるへ――開拓的欲望と並走する、減速のイノベーション](cards/2026-05-30-n463dc4ed6385.md) | analyzed | [公開本文](https://note.com/shirokuma1970/n/n463dc4ed6385) |
 | 2026-05-30 | [第1回：緑色の需要喚起では、文明は減速しない――カーボンニュートラルは目的ではなく結果である](cards/2026-05-30-n7f5f65dab91b.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n7f5f65dab91b) |
 | 2026-05-29 | [正義では、減速は発明できない――なぜ左派と環境運動は、文明の着陸を語らないのか](cards/2026-05-29-n56042d3fff1e.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/n56042d3fff1e) |
 | 2026-05-29 | [開拓に賭けながら、減速を発明する――地球文明に必要なのは、心地よく遅くなるためのイノベーションである](cards/2026-05-29-na5e015a833ba.md) | unreviewed | [公開本文](https://note.com/shirokuma1970/n/na5e015a833ba) |

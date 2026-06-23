@@ -13,21 +13,9 @@
   "body_character_count": 1203520,
   "articles_with_images": 27,
   "image_reference_count": 28,
-  "corpus_files": [
-    "2026-01-part01.jsonl",
-    "2026-02-part01.jsonl",
-    "2026-02-part02.jsonl",
-    "2026-03-part01.jsonl",
-    "2026-03-part02.jsonl",
-    "2026-03-part03.jsonl",
-    "2026-03-part04.jsonl",
-    "2026-03-part05.jsonl",
-    "2026-04-part01.jsonl",
-    "2026-05-part01.jsonl",
-    "2026-05-part02.jsonl",
-    "2026-06-part01.jsonl",
-    "2026-06-part02.jsonl"
-  ],
-  "full_article_index": "../../../articles/EXPORT_INDEX.md",
-  "analysis_overview": "../../../analysis/EXPORT_CORPUS_OVERVIEW.md"
+  "raw_xml_committed": false,
+  "normalized_body_corpus_committed": false,
+  "reproduction_script": "../../../scripts/import_note_export.py",
+  "analysis_overview": "../../../analysis/EXPORT_CORPUS_OVERVIEW.md",
+  "first_analysis_unit": "../../../analysis/PHASE_01_2026-01-24_TO_02-10.md"
 }

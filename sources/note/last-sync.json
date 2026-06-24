@@ -1,0 +1,440 @@
+{
+  "bootstrapped_catalog_records": 351,
+  "complete_discovery": true,
+  "discovered_count": 351,
+  "discovery": {
+    "complete": true,
+    "discovered_count": 351,
+    "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
+    "method": "creator-api",
+    "pages": [
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 1,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 2,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 3,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 4,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 5,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 6,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 7,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 8,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 9,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 10,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 11,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 12,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 13,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 14,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 15,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 16,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 17,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 18,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 19,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 20,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 21,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 22,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 23,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 24,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 25,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 26,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 27,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 28,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 29,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 30,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 31,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 32,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 33,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 34,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 35,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 36,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 37,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 38,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 39,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 40,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 41,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 42,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 43,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 44,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 45,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 46,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 47,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 48,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 49,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 50,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 51,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 52,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 53,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 54,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 55,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 56,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 57,
+        "status_code": 200
+      },
+      {
+        "is_last_page": false,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 58,
+        "status_code": 200
+      },
+      {
+        "is_last_page": true,
+        "items_found": 3,
+        "new_note_ids": 3,
+        "page": 59,
+        "status_code": 200
+      }
+    ],
+    "termination_reason": "explicit_last_page"
+  },
+  "events_written": 4,
+  "failure_count": 0,
+  "failures": [],
+  "fetched_count": 4,
+  "limit": 0,
+  "metadata_change_count": 4,
+  "missing_from_public_index_count": 0,
+  "new_card_count": 0,
+  "profile": "https://note.com/shirokuma1970",
+  "recorded_at": "2026-06-24T01:41:08+00:00",
+  "seen_note_ids": 351,
+  "source_changed_count": 0,
+  "verify_all": false
+}

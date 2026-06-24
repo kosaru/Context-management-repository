@@ -16,19 +16,19 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：70件
-- コンパクト地図のみ：281件
+- 詳細な個別カード：72件
+- コンパクト地図のみ：279件
 - 空の未解析カード：0件
 
 ```text
 時期別資料束
-  → 成立順、試行、修正、合流を読む
+→ 成立順、試行、修正、合流を読む
 
 コンパクト記事地図
-  → 全記事の所在、冒頭要旨、接続候補を探す
+→ 全記事の所在と接続候補を探す
 
 詳細な個別カード
-  → 転換点、統合稿、修正、反例を記事単位で詳しく読む
+→ 転換点、統合稿、修正、反例を記事単位で読む
 ```
 
 全351記事を長文カードへ変換することは目標にしない。
@@ -37,134 +37,103 @@
 
 ```text
 第A段階：収集と初期解析
-  → 完了
+→ 完了
 
 第B段階：縦読み・横断再構築
-  → 完了
+→ 完了
 
-第B-2段階：一次選定30件の詳細カード化
-  → 完了
+第B-2段階：一次選定30件の詳細化
+→ 完了
 
 第B-3段階：B群・抵抗記事の再判定
-  → 現在の作業
+→ 現在の作業
 
 第C段階：新着・更新の継続運用
-  → 稼働中
-
-第D段階：未解決問題から理論・制度・記事を作る
-  → 準備稿。未開始
+→ 稼働中
 ```
 
-## 一次選定30件の詳細化
+## 完了したB群再判定
 
-5バッチで完了した。
-
-1. 方法論：7件
-2. 責任／決定／退出：7件
-3. 継続／文明／Security：6件
-4. AI／情報／Repair：5件
-5. 政治機能／国際秩序：5件
-
-## B群再判定1――AI企業の方向
-
-2記事を詳細カードへ昇格した。
-
-- `n9ebf441f85ab`　AIはどこに入り込もうとしているのか
-- `ne5105ace2279`　OpenAIはポピュリズムに寄っているのではないか
+### 1．AI企業の方向
 
 ```text
-観測されたAI出力
-→ 公開された製品変更
-→ 推定される設計評価指標
-→ 市場・事業上の報酬
+AI出力
+→ 公開製品変更
+→ 設計評価指標
+→ 市場報酬
 → 企業利益・組織制約
-→ 企業・設計者の意図
+→ 企業意図
 ```
 
-出力から意図へ直接飛ばない。ただし意図が未確認でも、予見可能で変更可能な反復効果への設計責任は残る。
+出力から意図へ直接飛ばない。ただし、予見可能で変更可能な反復効果への設計責任は残る。
 
-## B群再判定2――二項対立とAI
-
-3記事を詳細カードへ昇格した。
-
-- `nd77d3ea83d56`　二項対立はなくならない
-- `n360b7b29f068`　語る場と決める場を分ける
-- `necfb29c22f74`　AIは二項対立から抜け出せるか
-
-### 二項対立の変質
+### 2．二項対立とAI
 
 ```text
 仮の補助線
-→ 論点を立てる
-
-配属線
-→ 発言より所属を先に読む
-
-動員的固定
-→ 怒り・恐怖・正義へ接続し、修正不能化する
+→ 配属線
+→ 動員的固定
 ```
 
-二項対立そのものを消すのではなく、仮の切断が配属・動員・固定化へ変わる回路を止める。
-
-### 語る場と決める場
+二項対立そのものを消すのではなく、仮の切断が所属確認・動員・固定化へ変わる回路を止める。
 
 ```text
 語る場
-→ 複雑さ・別軸・未確認点を保持する
+→ 複雑さを保持する
 
 決める場
-→ 暫定的に線を引き、負担と責任を引き受ける
+→ 暫定決定と負担を引き受ける
 ```
+
+役割を分け、決定後に再び語る場へ戻す。
+
+AIでは保存・再設計・回転を分ける。回転は中間化・両論併記・均衡ではない。
+
+### 3．Security・帰還可能性
 
 ```text
-役割は分ける
-＋ 回路はつなぐ
-＋ 決定後に再び語る場へ戻す
+主観的な安心感
+≠ 制度上の非崩壊保障
+≠ 失敗後に別の選択を試せる安心の床
 ```
 
-### AIの三機能
+国家基盤は不安を消すのでなく、致命的崩壊を防ぎ、保障の限界を示し、行き過ぎを止められるようにする。
 
 ```text
-保存
-→ 問いの芯・共有前提・暫定固定を保持する
-
-再設計
-→ 文脈の内側から別軸・弱点・可能性を押し広げる
-
-回転
-→ 保存の教義化と再設計の無限攪拌を防ぎ、往復可能性を保つ
+停止
+→ 退出
+→ 生活維持
+→ 回復・再評価
+→ 別の選択を試す
+→ 再参加
 ```
 
-回転は中間化・両論併記・均衡ではない。
+帰還は元の場所への復帰だけではなく、別の仕事、地域、関係、役割への再接続を含む。
 
 ## 現在の主要モデル
 
 1. `indexes/RESPONSIBILITY_MODEL.md`
 2. `indexes/CONTINUITY_MODEL.md`
-3. `indexes/AI_REPAIR_MODEL.md`
-4. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
-5. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+3. `indexes/SECURITY_RETURNABILITY_MODEL.md`
+4. `indexes/AI_REPAIR_MODEL.md`
+5. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
 6. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
+7. `indexes/ORDER_RENEGOTIATION_MODEL.md`
 
-これらは完成理論ではない。記事群から抽出した仮置きであり、B群・抵抗記事によって修正される可能性がある。
+すべて完成理論ではなく、記事群から抽出した仮置きです。
 
 ## 次の作業
 
-B-01「Security・帰還可能性」の2記事を再判定する。
+B-02「犠牲を設計しない初期規範」を再判定します。
 
-- `n2f379dd24aa9`
-- `n5968f6dee1ef`
+- `ndcca526034cf`
 
 ```text
-生活の底を保障する
-と
-失敗・移動・関係変更後に戻れる
-を分ける
+負担を引き受ける
+≠ 特定の人を犠牲として前提化する
 
-制度上の保障
-と
-心理的安心
-を混同しない
+人類・制度の継続
+≠ 現在の個人の資源化
 ```
 
 ## 読む順番
@@ -173,27 +142,25 @@ B-01「Security・帰還可能性」の2記事を再判定する。
 2. `context/NEXT.md`
 3. `analysis/KEY_ARTICLE_SELECTION.md`
 4. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-5. `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md`
-6. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
-7. `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
-8. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
-9. `indexes/AI_REPAIR_MODEL.md`
-10. `indexes/RESPONSIBILITY_MODEL.md`
-11. `indexes/CONTINUITY_MODEL.md`
-12. `indexes/ORDER_RENEGOTIATION_MODEL.md`
-13. `indexes/CROSS_RECONSTRUCTION.md`
-14. `indexes/LINEAGES.md`
-15. `indexes/CURRENT_POSITIONS.md`
-16. `indexes/UNRESOLVED_QUESTIONS.md`
-17. `articles/COMPACT_MAP.md`
-18. `articles/INDEX.md`
-19. 必要な時期別資料束・個別カード
+5. `analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md`
+6. `indexes/SECURITY_RETURNABILITY_MODEL.md`
+7. `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md`
+8. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
+9. `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
+10. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
+11. `indexes/AI_REPAIR_MODEL.md`
+12. `indexes/RESPONSIBILITY_MODEL.md`
+13. `indexes/CONTINUITY_MODEL.md`
+14. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+15. `indexes/UNRESOLVED_QUESTIONS.md`
+16. `articles/COMPACT_MAP.md`
+17. `articles/INDEX.md`
 
 ## 六系譜
 
 1. 生活が壊れない条件から、人類継続・文明保存・減速へ
 2. 社会を止めずに変える――保存・再設計・回転・責任配置
-3. 負荷を一人へ集中させない――Security・Comfort・内部条件・退出可能性
+3. 負荷を一人へ集中させない――Security・Comfort・退出・帰還可能性
 4. 倫理と主体を人格から生成構造へ戻す
 5. 単線化された説明を、検証可能な場所へ戻す
 6. AIとの関係を、答えから読解・修復・製品統治へ移す

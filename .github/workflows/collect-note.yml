@@ -30,6 +30,7 @@ on:
       - "scripts/build_compact_article_map.py"
       - "scripts/dedupe_note_cards.py"
       - "scripts/prune_empty_note_cards.py"
+      - "scripts/refresh_card_coverage.py"
       - "scripts/update_analysis_coverage.py"
       - "scripts/finalize_analysis_coverage.py"
       - "scripts/sync_review_issue.py"
@@ -71,6 +72,7 @@ jobs:
             scripts/build_compact_article_map.py \
             scripts/dedupe_note_cards.py \
             scripts/prune_empty_note_cards.py \
+            scripts/refresh_card_coverage.py \
             scripts/update_analysis_coverage.py \
             scripts/finalize_analysis_coverage.py \
             scripts/sync_review_issue.py \
@@ -100,6 +102,9 @@ jobs:
 
       - name: Protect initial analyzed corpus
         run: python scripts/finalize_analysis_coverage.py
+
+      - name: Promote unchanged covered articles to detailed-card references
+        run: python scripts/refresh_card_coverage.py
 
       - name: Regenerate coverage summary and review queue
         run: python scripts/update_analysis_coverage.py

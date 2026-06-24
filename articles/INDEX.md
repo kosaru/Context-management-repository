@@ -22,8 +22,8 @@
 - 公開記事：351件
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：72件
-- コンパクト地図のみ：279件
+- 詳細な個別カード：73件
+- コンパクト地図のみ：278件
 - 文脈未解析：0件
 - 文脈判定保留：0件
 
@@ -33,6 +33,8 @@
 - [記事・解析索引](CARD_INDEX.md)
 - [重要記事の選定台帳](../analysis/KEY_ARTICLE_SELECTION.md)
 - [個別記事解析の進捗](../analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md)
+- [B群再判定4――犠牲を設計しない](../analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md)
+- [負担・犠牲化モデル](../indexes/BURDEN_SACRIFICE_MODEL.md)
 - [B群再判定3――Securityと帰還可能性](../analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md)
 - [Security・帰還可能性モデル](../indexes/SECURITY_RETURNABILITY_MODEL.md)
 - [B群再判定2――二項対立とAI](../analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md)
@@ -62,7 +64,7 @@
 
 ---
 
-# 詳細な個別カード　72件
+# 詳細な個別カード　73件
 
 ## 後期の統合稿・適用稿　25件
 
@@ -115,15 +117,23 @@
 | 2026-02-02 | [安心を約束しないという選択](cards/2026-02-02-n2f379dd24aa9.md) | 非崩壊保障、限界表示、専門知と民主的停止点 |
 | 2026-02-02 | [やり直せる余地が、社会を強くする](cards/2026-02-02-n5968f6dee1ef.md) | 安心の床、環境適合、退出後の試行・再参加 |
 
-横断関係は[B群再判定3](../analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md)と[Security・帰還可能性モデル](../indexes/SECURITY_RETURNABILITY_MODEL.md)を参照する。
+## B群再判定4――犠牲を設計しない1件
+
+| 公開日 | 記事 | 独立して残したもの |
+|---|---|---|
+| 2026-02-03 | [犠牲を設計しないという選択](cards/2026-02-03-ndcca526034cf.md) | 負担と犠牲化の分離、遠位目的による現在の資源化への拒否線 |
+
+宗教・科学の大きな一般化は採用せず、意味づけや数値化が負担者を不可視化していないかという監査質問を残した。
+
+横断関係は[B群再判定4](../analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md)と[負担・犠牲化モデル](../indexes/BURDEN_SACRIFICE_MODEL.md)を参照する。
 
 ---
 
 # 次の段階
 
-一次選定30件の詳細化とB群再判定1〜3を完了した。
+一次選定30件の詳細化とB群再判定1〜4を完了した。
 
-次はB-02「犠牲を設計しない初期規範」を再判定する。
+次はB-03「メディア自己観察」の2記事を再判定する。
 
 カード数を増やすことではなく、既存モデルへ回収すると消える差分、初期の誤り、分岐、破棄、反例を残すことを目的とする。
 

@@ -1,26 +1,33 @@
-name: Collect note articles
+name: Synchronize note articles
 
 on:
   workflow_dispatch:
     inputs:
       limit:
-        description: Maximum articles to collect; 0 means all discovered articles
+        description: Maximum discovered articles to process; 0 means all
         required: true
         default: "0"
       max_pages:
         description: Safety limit for note creator API pagination
         required: true
         default: "100"
-      overwrite:
-        description: Replace existing unreviewed snapshots and cards
+      verify_all:
+        description: Fetch every discovered article and compare body hashes
         required: true
         type: boolean
         default: false
+  schedule:
+    # Weekly metadata/new-article synchronization: Sunday 12:17 JST.
+    - cron: "17 3 * * 0"
+    # Monthly full-body verification: first day of month, 12:47 JST.
+    - cron: "47 3 1 * *"
   push:
     paths:
       - ".github/workflows/collect-note.yml"
       - "scripts/collect_note.py"
       - "scripts/collect_note_api.py"
+      - "scripts/sync_note.py"
+      - "scripts/note_index.py"
       - "scripts/dedupe_note_cards.py"
       - "requirements.txt"
 
@@ -28,13 +35,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: collect-note
+  group: synchronize-note
   cancel-in-progress: false
 
 jobs:
-  collect:
+  synchronize:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -48,22 +55,32 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Collect articles
+      - name: Validate synchronization scripts
+        run: |
+          python -m py_compile \
+            scripts/collect_note.py \
+            scripts/collect_note_api.py \
+            scripts/sync_note.py \
+            scripts/note_index.py \
+            scripts/dedupe_note_cards.py
+
+      - name: Synchronize articles
         env:
           LIMIT: ${{ inputs.limit || '0' }}
           MAX_PAGES: ${{ inputs.max_pages || '100' }}
-          OVERWRITE: ${{ inputs.overwrite || 'false' }}
+          VERIFY_ALL: ${{ inputs.verify_all || 'false' }}
+          SCHEDULE: ${{ github.event.schedule || '' }}
         run: |
           args=(--profile "https://note.com/shirokuma1970" --limit "$LIMIT" --max-pages "$MAX_PAGES")
-          if [[ "$OVERWRITE" == "true" ]]; then
-            args+=(--overwrite)
+          if [[ "$VERIFY_ALL" == "true" || "$SCHEDULE" == "47 3 1 * *" ]]; then
+            args+=(--verify-all)
           fi
-          python scripts/collect_note_api.py "${args[@]}"
+          python scripts/sync_note.py "${args[@]}"
 
       - name: Deduplicate cards by note ID
         run: python scripts/dedupe_note_cards.py
 
-      - name: Commit collected files
+      - name: Commit synchronization results
         run: |
           if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
             echo "No changes"
@@ -71,6 +88,10 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add articles/INDEX.md articles/cards sources/note
-          git commit -m "Collect note articles"
+          git add \
+            articles/CARD_INDEX.md \
+            articles/cards \
+            sources/note
+          git commit -m "Synchronize note articles"
+          git pull --rebase
           git push

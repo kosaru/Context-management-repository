@@ -31,10 +31,12 @@ on:
       - "scripts/dedupe_note_cards.py"
       - "scripts/update_analysis_coverage.py"
       - "scripts/finalize_analysis_coverage.py"
+      - "scripts/sync_review_issue.py"
       - "requirements.txt"
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: synchronize-note
@@ -66,7 +68,8 @@ jobs:
             scripts/note_index.py \
             scripts/dedupe_note_cards.py \
             scripts/update_analysis_coverage.py \
-            scripts/finalize_analysis_coverage.py
+            scripts/finalize_analysis_coverage.py \
+            scripts/sync_review_issue.py
 
       - name: Synchronize articles
         env:
@@ -96,19 +99,24 @@ jobs:
       - name: Commit synchronization results
         run: |
           if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
-            echo "No changes"
-            exit 0
+            echo "No content changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add \
+              articles/CARD_INDEX.md \
+              articles/cards \
+              analysis/BASELINE_NOTE_IDS.json \
+              analysis/COVERAGE.json \
+              analysis/COVERAGE.md \
+              review/INBOX.md \
+              sources/note
+            git commit -m "Synchronize note articles"
+            git pull --rebase
+            git push
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add \
-            articles/CARD_INDEX.md \
-            articles/cards \
-            analysis/BASELINE_NOTE_IDS.json \
-            analysis/COVERAGE.json \
-            analysis/COVERAGE.md \
-            review/INBOX.md \
-            sources/note
-          git commit -m "Synchronize note articles"
-          git pull --rebase
-          git push
+
+      - name: Synchronize review issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_review_issue.py

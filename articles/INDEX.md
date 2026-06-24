@@ -25,8 +25,8 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：65件
-- コンパクト地図のみ：286件
+- 詳細な個別カード：67件
+- コンパクト地図のみ：284件
 - 空の未解析カード：0件
 - 文脈未解析：0件
 - 文脈判定保留：0件
@@ -37,14 +37,14 @@
 - [記事・解析索引](CARD_INDEX.md)
 - [重要記事の選定台帳](../analysis/KEY_ARTICLE_SELECTION.md)
 - [個別記事解析の進捗](../analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md)
-- [責任・決定・退出の横断解析](../analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md)
-- [責任配置モデル](../indexes/RESPONSIBILITY_MODEL.md)
-- [継続・文明・Securityの横断解析](../analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md)
-- [継続モデル](../indexes/CONTINUITY_MODEL.md)
+- [B群再判定1――AI企業の方向](../analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md)
+- [AI製品統治モデル](../indexes/AI_PRODUCT_GOVERNANCE_MODEL.md)
 - [AI・情報・Repairの横断解析](../analysis/BATCH_04_AI_INFORMATION_REPAIR.md)
 - [AI Repairモデル](../indexes/AI_REPAIR_MODEL.md)
 - [政治機能と国際秩序の横断解析](../analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md)
 - [秩序再交渉モデル](../indexes/ORDER_RENEGOTIATION_MODEL.md)
+- [責任配置モデル](../indexes/RESPONSIBILITY_MODEL.md)
+- [継続モデル](../indexes/CONTINUITY_MODEL.md)
 - [詳細カードの横断的役割](CROSS_ROLES.md)
 - [六系譜](../indexes/LINEAGES.md)
 
@@ -64,7 +64,7 @@
 
 ---
 
-# 詳細な個別カード　65件
+# 詳細な個別カード　67件
 
 ## 後期の統合稿・適用稿　25件
 
@@ -136,21 +136,28 @@
 |---|---|---|
 | 2026-03-24 | [右翼・左翼・中道を、属性ではなく機能として読む](cards/2026-03-24-n92914e74d15f.md) | 政治ラベルを保存・再設計・回転条件へ移す |
 | 2026-03-24 | [機能として定義した先に見える未来](cards/2026-03-24-n78132143c93f.md) | 正しさより修正可能性を制度価値へ置く |
-| 2026-04-01 | [文明保存型の国連](cards/2026-04-01-n93854c948132.md) | 異なる利用目的を、継承回路の最低線へ接続する |
+| 2026-04-01 | [文明保存型の国連](cards/2026-04-01-n93854c948132.md) | 異なる利用目的を継承回路の最低線へ接続する |
 | 2026-04-03 | [ドルの核は外周で支えられていた](cards/2026-04-03-n017615f6812a.md) | 中心通貨を支える安全保障・物流・資金還流の外周条件 |
 | 2026-04-03 | [基地は誰を守るのか](cards/2026-04-03-nec0c450f182e.md) | 保険から巻き込まれ装置への反転と再交渉 |
 
-横断関係は[政治機能と国際秩序の横断解析](../analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md)と[秩序再交渉モデル](../indexes/ORDER_RENEGOTIATION_MODEL.md)を参照する。
+## B群再判定1――AI企業の方向2件
+
+| 公開日 | 記事 | 独立して残したもの |
+|---|---|---|
+| 2026-03-09 | [AIはどこに入り込もうとしているのか](cards/2026-03-09-n9ebf441f85ab.md) | 企業ごとの生活導線・既存事業・収益回路の比較 |
+| 2026-03-09 | [OpenAIはポピュリズムに寄っているのではないか](cards/2026-03-09-ne5105ace2279.md) | 修正可能性と中央値収束、理念と運用のずれ |
+
+横断関係は[B群再判定1](../analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md)と[AI製品統治モデル](../indexes/AI_PRODUCT_GOVERNANCE_MODEL.md)を参照する。
 
 ---
 
 # 次の段階
 
-一次選定30件の詳細化は完了した。
+一次選定30件の詳細化とB群再判定1を完了した。
 
-次はB群9区分17記事と、現在体系へ抵抗する記事を再判定する。
+次はB-06「二項対立とAI」の3記事を再判定する。
 
-カード数を増やすことではなく、既存モデルへ回収すると消える差分・初期の誤り・分岐・破棄・反例を残すことを目的とする。
+カード数を増やすことではなく、既存モデルへ回収すると消える差分、初期の誤り、分岐、破棄、反例を残すことを目的とする。
 
 # コンパクト地図の精度
 

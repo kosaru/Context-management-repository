@@ -21,8 +21,8 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：49件
-- コンパクト地図のみ：302件
+- 詳細な個別カード：55件
+- コンパクト地図のみ：296件
 - 空の未解析カード：0件
 
 ```text
@@ -63,46 +63,49 @@
 
 - バッチ1・方法論束：7件完了
 - バッチ2・責任／決定／退出：7件完了
-- 詳細カード：35件から49件へ増加
-- 残る昇格候補：16件
+- バッチ3・継続／文明／Security：6件完了
+- 詳細カード：35件から55件へ増加
+- 残る昇格候補：10件
 - 周辺記事として束で保持：28件
 
-バッチ1：
+### バッチ1
 
 ```text
-型による立ち位置確認
-→ 思考の主権
-→ 役割の回転
-→ 複線化
-→ 変更経路の維持
-→ 観測による分岐保存
-→ 仮説の差異から共通地盤を抽出
+型 → 思考の主権 → 回転 → 複線化 → 変更経路 → 観測 → 仮説の輪郭
 ```
 
-バッチ2：
+### バッチ2
 
 ```text
-責任の範囲と受け渡し点
-→ 決定・実行・見直しの時間分割
-→ 判断の鎖を記録
-→ 匿名相談から中間調整への導線
-→ 距離・運用・配置転換
-→ 修復・継承を始める責任連結
-→ 批判者も設計と負担を引き受ける
+責任境界 → 決定時間 → 判断の鎖 → 中間退出 → 配置変更 → 修復・継承 → 設計責任
 ```
 
-現在の方法論は、複雑さを残すだけでは閉じない。
+### バッチ3
 
 ```text
-複雑さを残す
-＋ 決定時間
-＋ 判断の記録
-＋ 負担主体
-＋ 退出・停止
-＋ 修復・継承主体
+生活の底と破滅的リスクを分ける
+→ 人類継続という上位主語
+→ 文明を未来への冗長性として保存
+→ 形式知と暗黙知の循環
+→ Securityから長期思考・信頼・倫理を生成
+→ 担い手の自己消耗による延命を継続から除外
 ```
 
-次は継続・文明・Securityの束へ進む。
+現在の到達点：
+
+```text
+継続
+＝ 外形が残ること
+ではない
+
+生活が破綻しない
+＋ 担い手が再生産される
+＋ 知識が循環する
+＋ 失敗から修復できる
+＋ 異議・退出・変更が可能
+```
+
+次はAI・情報・Repairの束へ進む。
 
 参照：
 
@@ -110,7 +113,9 @@
 - `analysis/KEY_ARTICLE_SELECTION.md`
 - `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
 - `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
-- `roadmaps/PHASE_B2_KEY_ARTICLE_SELECTION.md`
+- `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`
+- `indexes/RESPONSIBILITY_MODEL.md`
+- `indexes/CONTINUITY_MODEL.md`
 
 ## 第D段階との関係
 
@@ -119,15 +124,7 @@
 - `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
 - `research/CONTINUITY_DESIGN_KERNEL.md`
 
-ただし、現在の作業ではない。
-
-```text
-重要記事を選ぶ
-→ 記事単位で根拠・修正・抵抗点を確認する
-→ 必要な詳細カードを増やす
-→ 六系譜・現在地・未解決問題を必要に応じて修正する
-→ 第D段階へ進む
-```
+現在は、重要記事を選び、記事単位の根拠・修正・反例を揃える第B-2段階を続ける。
 
 ## 読む順番
 
@@ -136,18 +133,20 @@
 3. `analysis/KEY_ARTICLE_SELECTION.md`
 4. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
 5. `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
-6. `roadmaps/PHASE_B2_KEY_ARTICLE_SELECTION.md`
-7. `indexes/CROSS_RECONSTRUCTION.md`
-8. `indexes/LINEAGES.md`
-9. `indexes/CURRENT_POSITIONS.md`
-10. `indexes/THEMES.md`
-11. `indexes/CONCEPTS.md`
-12. `indexes/QUESTIONS.md`
-13. `indexes/UNRESOLVED_QUESTIONS.md`
-14. `articles/COMPACT_MAP.md`
-15. `articles/INDEX.md`
-16. 必要な時期別資料束・個別カード
-17. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
+6. `indexes/RESPONSIBILITY_MODEL.md`
+7. `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`
+8. `indexes/CONTINUITY_MODEL.md`
+9. `indexes/CROSS_RECONSTRUCTION.md`
+10. `indexes/LINEAGES.md`
+11. `indexes/CURRENT_POSITIONS.md`
+12. `indexes/THEMES.md`
+13. `indexes/CONCEPTS.md`
+14. `indexes/QUESTIONS.md`
+15. `indexes/UNRESOLVED_QUESTIONS.md`
+16. `articles/COMPACT_MAP.md`
+17. `articles/INDEX.md`
+18. 必要な時期別資料束・個別カード
+19. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
 
 ## 六系譜
 

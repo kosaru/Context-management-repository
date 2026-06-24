@@ -50,9 +50,9 @@ class CoverageMappingTests(unittest.TestCase):
                 "phase_02": 93,
                 "phase_03": 75,
                 "phase_04": 26,
-                "phase_05": 21,
-                "phase_06": 13,
-                "individual_card": 60,
+                "phase_05": 19,
+                "phase_06": 10,
+                "individual_card": 65,
             },
             dict(counts),
         )

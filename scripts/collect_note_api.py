@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Discover all public note articles through the creator contents endpoint.
 
-The existing collect_note.py remains responsible for article-page extraction,
-source snapshots, card stubs, and index generation. This file only extends URL
-discovery beyond the small RSS window. If the endpoint changes, it falls back
-to RSS and records the failure in sources/note/discovery.json.
+This module provides discovery for sync_note.py and retains a compatibility CLI.
+The creator API is treated as complete only when pagination reaches an explicit
+last page or an empty page. RSS fallback is always incomplete and must never be
+used to infer deletion/non-publication.
 """
 
 from __future__ import annotations
@@ -14,13 +14,13 @@ import json
 import sys
 import time
 from datetime import datetime, timezone
-from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
 import requests
 
 import collect_note as base
+import note_index
 
 DIAGNOSTIC_PATH = base.SOURCE_DIR / "discovery.json"
 
@@ -53,7 +53,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--overwrite",
         action="store_true",
-        help="replace existing source snapshots and unreviewed cards",
+        help="replace existing source snapshots; analyzed cards remain protected",
     )
     return parser.parse_args()
 
@@ -139,6 +139,7 @@ def api_item_to_entry(item: dict[str, Any], profile: str) -> dict[str, Any] | No
     if "/n/" not in url:
         return None
 
+    note_id = key or base.note_id_from_url(url)
     title = first_string(item, "name", "title") or "無題"
     published = first_string(
         item,
@@ -148,6 +149,14 @@ def api_item_to_entry(item: dict[str, Any], profile: str) -> dict[str, Any] | No
         "createdAt",
         "created_at",
     )
+    updated = first_string(
+        item,
+        "updateAt",
+        "updatedAt",
+        "updated_at",
+        "modifiedAt",
+        "modified_at",
+    )
     date = normalize_date(published)
     parsed = None
     if date != "unknown-date":
@@ -156,8 +165,10 @@ def api_item_to_entry(item: dict[str, Any], profile: str) -> dict[str, Any] | No
     return {
         "link": url,
         "title": title,
+        "note_id": note_id,
         "published_parsed": parsed,
-        "api_raw_date": published,
+        "api_published_at": published,
+        "api_updated_at": updated,
     }
 
 
@@ -167,8 +178,10 @@ def discover_from_api(
     creator = creator_name(profile)
     endpoint = f"https://note.com/api/v2/creators/{creator}/contents"
     entries: list[dict[str, Any]] = []
-    seen_urls: set[str] = set()
+    seen_ids: set[str] = set()
     page_stats: list[dict[str, Any]] = []
+    complete = False
+    termination_reason = "max_pages_reached"
 
     for page in range(1, max_pages + 1):
         response = session.get(endpoint, params={"kind": "note", "page": page}, timeout=30)
@@ -180,9 +193,9 @@ def discover_from_api(
 
         for item in contents:
             entry = api_item_to_entry(item, profile)
-            if entry is None or entry["link"] in seen_urls:
+            if entry is None or entry["note_id"] in seen_ids:
                 continue
-            seen_urls.add(entry["link"])
+            seen_ids.add(entry["note_id"])
             entries.append(entry)
             new_count += 1
 
@@ -190,13 +203,22 @@ def discover_from_api(
             {
                 "page": page,
                 "items_found": len(contents),
-                "new_urls": new_count,
+                "new_note_ids": new_count,
                 "is_last_page": last_page,
                 "status_code": response.status_code,
             }
         )
 
-        if last_page is True or not contents or new_count == 0:
+        if last_page is True:
+            complete = True
+            termination_reason = "explicit_last_page"
+            break
+        if not contents:
+            complete = True
+            termination_reason = "empty_page"
+            break
+        if new_count == 0:
+            termination_reason = "no_new_note_ids"
             break
 
     if not entries:
@@ -207,6 +229,8 @@ def discover_from_api(
         "endpoint": endpoint,
         "pages": page_stats,
         "discovered_count": len(entries),
+        "complete": complete,
+        "termination_reason": termination_reason,
     }
 
 
@@ -218,6 +242,8 @@ def discover_from_rss(
         "method": "rss-fallback",
         "endpoint": f"{profile.rstrip('/')}/rss",
         "discovered_count": len(entries),
+        "complete": False,
+        "termination_reason": "rss_window_is_not_complete",
     }
 
 
@@ -233,6 +259,7 @@ def write_diagnostic(data: dict[str, Any]) -> None:
 
 
 def main() -> int:
+    """Compatibility collector. Prefer sync_note.py for scheduled operation."""
     args = parse_args()
     if args.limit < 0 or args.max_pages < 1 or args.request_interval < 0:
         print("Invalid numeric argument", file=sys.stderr)
@@ -246,7 +273,6 @@ def main() -> int:
         {"User-Agent": base.USER_AGENT, "Accept-Language": "ja,en;q=0.8"}
     )
 
-    diagnostic: dict[str, Any]
     try:
         entries, diagnostic = discover_from_api(args.profile, session, args.max_pages)
     except Exception as exc:
@@ -265,7 +291,8 @@ def main() -> int:
         try:
             article = base.build_article(entry, session)
             changed_sources += int(base.write_source(article, args.overwrite))
-            changed_cards += int(base.write_card(article, args.overwrite))
+            if note_index.canonical_card(article.note_id) is None:
+                changed_cards += int(base.write_card(article, overwrite=False))
             print(f"collected: {article.published_at} {article.title}")
         except Exception as exc:
             failures += 1
@@ -282,7 +309,7 @@ def main() -> int:
         }
     )
     write_diagnostic(diagnostic)
-    base.update_index()
+    note_index.write_index()
 
     print(
         f"done: discovered={diagnostic.get('discovered_count')} processed={len(entries)} "

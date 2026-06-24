@@ -1,0 +1,156 @@
+name: Apply note review decision
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: Review action to apply
+        required: true
+        type: choice
+        options:
+          - accept
+          - defer
+          - reopen
+      note_id:
+        description: note article ID, for example n1234abcd
+        required: true
+        type: string
+      analysis_ref:
+        description: Repository-relative analysis reference; optional when a canonical card exists
+        required: false
+        default: ""
+        type: string
+      coverage_type:
+        description: Coverage type used when accepting
+        required: true
+        default: individual_card
+        type: choice
+        options:
+          - individual_card
+          - phase_bundle
+          - cross_index
+          - other
+      role:
+        description: Article role, such as 初出・試行・修正・統合稿・適用・反例・分岐・破棄
+        required: false
+        default: ""
+        type: string
+      defer_reason:
+        description: Required when action is defer
+        required: false
+        default: ""
+        type: string
+      recheck_after:
+        description: Recheck date or timing; optional when action is defer
+        required: false
+        default: ""
+        type: string
+      recheck_condition:
+        description: Condition that should reopen the review; optional when action is defer
+        required: false
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: note-review-decision
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Validate inputs
+        env:
+          ACTION: ${{ inputs.action }}
+          NOTE_ID: ${{ inputs.note_id }}
+          DEFER_REASON: ${{ inputs.defer_reason }}
+        run: |
+          if [[ ! "$NOTE_ID" =~ ^n[0-9A-Za-z_-]+$ ]]; then
+            echo "Invalid note ID: $NOTE_ID" >&2
+            exit 2
+          fi
+          if [[ "$ACTION" == "defer" && -z "$DEFER_REASON" ]]; then
+            echo "defer_reason is required for defer" >&2
+            exit 2
+          fi
+
+      - name: Apply decision
+        env:
+          ACTION: ${{ inputs.action }}
+          NOTE_ID: ${{ inputs.note_id }}
+          ANALYSIS_REF: ${{ inputs.analysis_ref }}
+          COVERAGE_TYPE: ${{ inputs.coverage_type }}
+          ROLE: ${{ inputs.role }}
+          DEFER_REASON: ${{ inputs.defer_reason }}
+          RECHECK_AFTER: ${{ inputs.recheck_after }}
+          RECHECK_CONDITION: ${{ inputs.recheck_condition }}
+        run: |
+          case "$ACTION" in
+            accept)
+              args=(--accept "$NOTE_ID" --coverage-type "$COVERAGE_TYPE")
+              if [[ -n "$ANALYSIS_REF" ]]; then
+                args+=(--analysis-ref "$ANALYSIS_REF")
+              fi
+              if [[ -n "$ROLE" ]]; then
+                args+=(--role "$ROLE")
+              fi
+              ;;
+            defer)
+              args=(--defer "$NOTE_ID" --defer-reason "$DEFER_REASON")
+              if [[ -n "$RECHECK_AFTER" ]]; then
+                args+=(--recheck-after "$RECHECK_AFTER")
+              fi
+              if [[ -n "$RECHECK_CONDITION" ]]; then
+                args+=(--recheck-condition "$RECHECK_CONDITION")
+              fi
+              ;;
+            reopen)
+              args=(--reopen "$NOTE_ID")
+              ;;
+            *)
+              echo "Unsupported action: $ACTION" >&2
+              exit 2
+              ;;
+          esac
+          python scripts/update_analysis_coverage.py "${args[@]}"
+
+      - name: Regenerate coverage and inbox
+        run: python scripts/update_analysis_coverage.py
+
+      - name: Commit decision
+        env:
+          ACTION: ${{ inputs.action }}
+          NOTE_ID: ${{ inputs.note_id }}
+        run: |
+          if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add analysis/COVERAGE.json analysis/COVERAGE.md review/INBOX.md
+          git commit -m "Apply note review decision: $ACTION $NOTE_ID"
+          git pull --rebase
+          git push
+
+      - name: Synchronize review issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_review_issue.py

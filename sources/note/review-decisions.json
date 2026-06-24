@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "events": {
+    "a14969423273bc47": {
+      "status": "no_context_impact",
+      "reviewed_at": "2026-06-24",
+      "reviewer": "initial-corpus-crosscheck",
+      "note": "APIと既存カードの公開日が1日ずれているが、本文ハッシュは同一。note IDを主キーとして処理済み。"
+    },
+    "9ee797bd13f1c096": {
+      "status": "no_context_impact",
+      "reviewed_at": "2026-06-24",
+      "reviewer": "initial-corpus-crosscheck",
+      "note": "APIと既存カードの公開日が1日ずれているが、本文ハッシュは同一。note IDを主キーとして処理済み。"
+    },
+    "8d72072a536dd06a": {
+      "status": "no_context_impact",
+      "reviewed_at": "2026-06-24",
+      "reviewer": "initial-corpus-crosscheck",
+      "note": "APIと既存カードの公開日が1日ずれているが、本文ハッシュは同一。note IDを主キーとして処理済み。"
+    },
+    "5bbf6538042c35c2": {
+      "status": "no_context_impact",
+      "reviewed_at": "2026-06-24",
+      "reviewer": "initial-corpus-crosscheck",
+      "note": "APIと既存カードの公開日が1日ずれているが、本文ハッシュは同一。note IDを主キーとして処理済み。"
+    }
+  }
+}

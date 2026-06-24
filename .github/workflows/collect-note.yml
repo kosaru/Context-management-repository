@@ -30,6 +30,7 @@ on:
       - "scripts/note_index.py"
       - "scripts/dedupe_note_cards.py"
       - "scripts/update_analysis_coverage.py"
+      - "scripts/finalize_analysis_coverage.py"
       - "requirements.txt"
 
 permissions:
@@ -64,7 +65,8 @@ jobs:
             scripts/sync_note.py \
             scripts/note_index.py \
             scripts/dedupe_note_cards.py \
-            scripts/update_analysis_coverage.py
+            scripts/update_analysis_coverage.py \
+            scripts/finalize_analysis_coverage.py
 
       - name: Synchronize articles
         env:
@@ -82,7 +84,13 @@ jobs:
       - name: Deduplicate cards by note ID
         run: python scripts/dedupe_note_cards.py
 
-      - name: Update analysis coverage and review queue
+      - name: Update analysis coverage
+        run: python scripts/update_analysis_coverage.py
+
+      - name: Protect initial analyzed corpus
+        run: python scripts/finalize_analysis_coverage.py
+
+      - name: Regenerate coverage summary and review queue
         run: python scripts/update_analysis_coverage.py
 
       - name: Commit synchronization results
@@ -96,6 +104,7 @@ jobs:
           git add \
             articles/CARD_INDEX.md \
             articles/cards \
+            analysis/BASELINE_NOTE_IDS.json \
             analysis/COVERAGE.json \
             analysis/COVERAGE.md \
             review/INBOX.md \

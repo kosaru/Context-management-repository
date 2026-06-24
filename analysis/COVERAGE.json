@@ -5084,11 +5084,11 @@
       "role": ""
     },
     "ndcca526034cf": {
-      "analysis_label": "第1期：2026-01-24〜02-10",
-      "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
+      "analysis_label": "個別記事カード",
+      "analysis_ref": "articles/cards/2026-02-03-ndcca526034cf.md",
       "analysis_state": "covered",
-      "analysis_unit": "phase_01",
-      "coverage_type": "phase_bundle",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
       "covered_at": "2026-06-24T01:56:51+00:00",
       "covered_content_hash": "4ed1390e3c44e2c8bc3b69a5f5292d3fa8f88c1a4df22ea74ba44c1c452046d8",
       "covered_public_status": "public",
@@ -5969,5 +5969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-06-24T21:02:20+00:00"
+  "updated_at": "2026-06-24T21:57:34+00:00"
 }

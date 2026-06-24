@@ -1,33 +1,13 @@
 {
   "promoted": [
     {
-      "analysis_ref": "articles/cards/2026-02-02-n2f379dd24aa9.md",
-      "note_id": "n2f379dd24aa9",
+      "analysis_ref": "articles/cards/2026-02-03-ndcca526034cf.md",
+      "note_id": "ndcca526034cf",
       "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
-    },
-    {
-      "analysis_ref": "articles/cards/2026-03-25-n360b7b29f068.md",
-      "note_id": "n360b7b29f068",
-      "previous_analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md"
-    },
-    {
-      "analysis_ref": "articles/cards/2026-02-02-n5968f6dee1ef.md",
-      "note_id": "n5968f6dee1ef",
-      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
-    },
-    {
-      "analysis_ref": "articles/cards/2026-03-25-nd77d3ea83d56.md",
-      "note_id": "nd77d3ea83d56",
-      "previous_analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md"
-    },
-    {
-      "analysis_ref": "articles/cards/2026-03-25-necfb29c22f74.md",
-      "note_id": "necfb29c22f74",
-      "previous_analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md"
     }
   ],
-  "promoted_count": 5,
-  "recorded_at": "2026-06-24T21:02:20+00:00",
+  "promoted_count": 1,
+  "recorded_at": "2026-06-24T21:57:34+00:00",
   "skipped_changed_body": [],
   "skipped_changed_body_count": 0
 }

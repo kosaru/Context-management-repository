@@ -7,17 +7,17 @@
 - 詳細な判断が必要な記事だけ個別カードへ昇格する。
 
 - 全記事：351件
-- 個別カードあり：72件
-- コンパクト地図のみ：279件
+- 個別カードあり：73件
+- コンパクト地図のみ：278件
 
 | 区分 | 記事数 | 地図 | 詳細解析 |
 |---|---:|---|---|
-| 第1期：2026-01-24〜02-10 | 61 | [PHASE_01.md](maps/PHASE_01.md) | [PHASE_01_2026-01-24_TO_02-10.md](../analysis/PHASE_01_2026-01-24_TO_02-10.md) |
+| 第1期：2026-01-24〜02-10 | 60 | [PHASE_01.md](maps/PHASE_01.md) | [PHASE_01_2026-01-24_TO_02-10.md](../analysis/PHASE_01_2026-01-24_TO_02-10.md) |
 | 第2期：2026-02-11〜02-27 | 93 | [PHASE_02.md](maps/PHASE_02.md) | [PHASE_02_2026-02-11_TO_02-27.md](../analysis/PHASE_02_2026-02-11_TO_02-27.md) |
 | 第3期：2026-03-02〜03-13 | 73 | [PHASE_03.md](maps/PHASE_03.md) | [PHASE_03_2026-03-02_TO_03-13.md](../analysis/PHASE_03_2026-03-02_TO_03-13.md) |
 | 第4期：2026-03-14〜03-21 | 26 | [PHASE_04.md](maps/PHASE_04.md) | [PHASE_04_2026-03-14_TO_03-21.md](../analysis/PHASE_04_2026-03-14_TO_03-21.md) |
 | 第5期：2026-03-24〜03-31 | 16 | [PHASE_05.md](maps/PHASE_05.md) | [PHASE_05_2026-03-24_TO_03-31.md](../analysis/PHASE_05_2026-03-24_TO_03-31.md) |
 | 第6期：2026-03-23／04-01〜05-01 | 10 | [PHASE_06.md](maps/PHASE_06.md) | [PHASE_06_2026-03-23_TO_05-01.md](../analysis/PHASE_06_2026-03-23_TO_05-01.md) |
-| 後期個別記事：2026-05-05〜06-23 | 72 | [INDIVIDUAL_2026-05_TO_06.md](maps/INDIVIDUAL_2026-05_TO_06.md) | [CROSS_ROLES.md](../articles/CROSS_ROLES.md) |
+| 後期個別記事：2026-05-05〜06-23 | 73 | [INDIVIDUAL_2026-05_TO_06.md](maps/INDIVIDUAL_2026-05_TO_06.md) | [CROSS_ROLES.md](../articles/CROSS_ROLES.md) |
 
 個別カードへ昇格する対象：概念・問いの初出、既存系譜を変える修正・反例、複数系譜の統合稿、事実と推論の厳密な分離が必要な記事。

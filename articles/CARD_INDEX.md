@@ -19,9 +19,9 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 - 文脈解析済み：351件
 - 文脈未解析：0件
 - 文脈判定保留：0件
-- 個別カードあり：72件
-- 個別カード精査済み：72件
-- 個別カードなし：279件
+- 個別カードあり：73件
+- 個別カード精査済み：73件
+- 個別カードなし：278件
 
 | 公開日 | note ID | 記事 | 文脈解析 | 個別カード | 公開状態 | note |
 |---|---|---|---|---|---|---|
@@ -348,7 +348,7 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 | 2026-02-04 | `n7f59beab5c89` | [ビジョンを語るということについての思考メモ](https://note.com/shirokuma1970/n/n7f59beab5c89) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n7f59beab5c89) |
 | 2026-02-04 | `n58995f0813b3` | [匿名で語ることの政治的意味](https://note.com/shirokuma1970/n/n58995f0813b3) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n58995f0813b3) |
 | 2026-02-04 | `n3372ea6941af` | [利益団体と政党を切り離すとは、どういう思想か](https://note.com/shirokuma1970/n/n3372ea6941af) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n3372ea6941af) |
-| 2026-02-03 | `ndcca526034cf` | [犠牲を設計しないという選択](https://note.com/shirokuma1970/n/ndcca526034cf) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/ndcca526034cf) |
+| 2026-02-03 | `ndcca526034cf` | [犠牲を設計しないという選択](cards/2026-02-03-ndcca526034cf.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-02-03-ndcca526034cf.md)） | [個別カード精査済み](cards/2026-02-03-ndcca526034cf.md) | public | [公開本文](https://note.com/shirokuma1970/n/ndcca526034cf) |
 | 2026-02-03 | `na16ed2d7ea8c` | [民主主義は「納得」を生む制度ではない](https://note.com/shirokuma1970/n/na16ed2d7ea8c) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/na16ed2d7ea8c) |
 | 2026-02-02 | `nc09f9d6c6e1a` | [政治思想が構造論に移行する地点についてのメモ](https://note.com/shirokuma1970/n/nc09f9d6c6e1a) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nc09f9d6c6e1a) |
 | 2026-02-02 | `nc04cb0dd9db4` | [社会をどう良くするかの前に、何を前提にしているか──不安ではなく安心を、社会設計の前提に置くという思考実験](https://note.com/shirokuma1970/n/nc04cb0dd9db4) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nc04cb0dd9db4) |

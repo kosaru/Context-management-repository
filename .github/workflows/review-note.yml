@@ -47,6 +47,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: review-note-${{ inputs.note_id }}
@@ -73,7 +74,8 @@ jobs:
           python -m py_compile \
             scripts/collect_note.py \
             scripts/note_index.py \
-            scripts/update_analysis_coverage.py
+            scripts/update_analysis_coverage.py \
+            scripts/sync_review_issue.py
 
       - name: Apply review decision
         env:
@@ -122,15 +124,20 @@ jobs:
       - name: Commit review decision
         run: |
           if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
-            echo "No changes"
-            exit 0
+            echo "No content changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add \
+              analysis/COVERAGE.json \
+              analysis/COVERAGE.md \
+              review/INBOX.md
+            git commit -m "Apply note review decision for ${{ inputs.note_id }}"
+            git pull --rebase
+            git push
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add \
-            analysis/COVERAGE.json \
-            analysis/COVERAGE.md \
-            review/INBOX.md
-          git commit -m "Apply note review decision for ${{ inputs.note_id }}"
-          git pull --rebase
-          git push
+
+      - name: Synchronize review issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_review_issue.py

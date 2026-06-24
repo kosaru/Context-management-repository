@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Remove auto-generated duplicate note cards that share the same note ID.
 
-The collector names cards with the published date. If note's API/export reports a
-different calendar date from an existing card, a second unreviewed stub can be
-created for the same note ID. The note ID is the primary key; an analyzed card
-must always win over an automatically generated unreviewed stub.
+The collector may observe a different calendar date from an existing card.
+The note ID is the primary key; an analyzed card always wins over an
+automatically generated unreviewed stub. Protected duplicates are reported
+and left untouched for human review.
 """
 
 from __future__ import annotations
@@ -15,14 +15,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import collect_note as base
+import note_index
 
-STATUS_RANK = {
-    "analyzed": 30,
-    "reviewed": 30,
-    "proposed": 20,
-    "unreviewed": 10,
-    "unknown": 0,
-}
+STATUS_RANK = note_index.STATUS_RANK
 DIAGNOSTIC_PATH = base.SOURCE_DIR / "card-deduplication.json"
 
 
@@ -96,7 +91,7 @@ def main() -> int:
                 }
             )
 
-    base.update_index()
+    note_index.write_index()
     diagnostic = {
         "recorded_at": datetime.now(timezone.utc).isoformat(),
         "deleted_count": len(deleted),

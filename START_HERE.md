@@ -1,160 +1,87 @@
 # START HERE
 
-このリポジトリは、匿名noteの記事本文を再保管するためではなく、記事同士のつながり、そこから育った思考、今後の更新判断を共有するための場所です。
+## 重要――現在は安定化監査中
 
-## 正本の切り分け
+既存の詳細カード73件、時期別解析、横断分析、派生モデルについて、**元文章の強さを保持したかは未確認**です。
 
-- 公開中の最新本文：note公開ページ
-- 初期コーパスと過去記事目録：noteエクスポート
-- 新着・更新・公開状態の差分：定期同期
-- 文脈・系譜・現在地・選定判断：このリポジトリ
-- 作業中の解釈：暫定。確認済み事実と混同しない
+```text
+カードが存在する
+≠ 内容が正確である
+≠ 元文章の強度を保持している
+≠ 信頼済みの分析である
+```
 
-## コーパスと解析構造
+現在の状態：
 
 - 公開記事：351件
-- 対象期間：2026-01-24〜2026-06-23
-- 時期別資料束で文脈読解済み：351件
-- コンパクト地図へ掲載：351件
-- 詳細な個別カード：73件
-- コンパクト地図のみ：278件
-- 空の未解析カード：0件
+- 全記事の収集・所在確認：完了
+- コンパクト地図：351件
+- 個別カードあり：73件
+- 強度監査通過：0件
+- 新しいB群再判定：停止
+- 派生モデル：利用停止。監査対象
+
+## 正本の優先順位
+
+1. note公開ページの原文
+2. 取得時スナップショット
+3. 安定化監査台帳
+4. 強度監査を通過した個別カード
+5. 未監査のカード・横断分析・モデル
+
+未監査の分析文書は、原文を読むための補助線としても慎重に扱う。原文と衝突した場合は原文を優先する。
+
+## 監査の入口
+
+1. `analysis/STABILIZATION_AUDIT_REGISTER.md`
+2. `analysis/STABILIZATION_AUDIT_METHOD.md`
+3. `analysis/stabilization_audit/CARDS_01_LATE.md`
+4. `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`
+5. `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`
+6. `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`
+7. `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
+8. `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
+9. `analysis/stabilization_audit/OPERATIONS.md`
+
+## 確認済みの問題
+
+少なくとも、次の安定化はすでに確認されています。
+
+- 原文の拒否を、条件付きで運用できる制度案へ変えた
+- 名指しされた企業・制度の責任を、市場圧力や一般構造へ移した
+- 非対称な権限と負担を、各主体の役割分担へ均した
+- 初期記事を、後期体系へ向かう未成熟な前史として位置づけた
+- 強い構造的抽象化を、注意書きによって丸めた
+- 未解決の緊張を、段階・層・モデル・チェックリストへ閉じた
+- 提供者側の責任を、利用者の稽古や使い方へ移した
+
+## 現在の作業
+
+新しい記事選定・横断モデル化は行いません。
 
 ```text
-時期別資料束
-→ 成立順、試行、修正、合流を読む
-
-コンパクト記事地図
-→ 全記事の所在と接続候補を探す
-
-詳細な個別カード
-→ 転換点、統合稿、修正、反例を記事単位で読む
+原文を読む
+→ 原文の最強命題を抜く
+→ 拒否したものを抜く
+→ 選ぼうとしたものを抜く
+→ 未解決の緊張を残す
+→ 既存カードが何を弱めたかを特定する
+→ 改稿または廃棄を判定する
 ```
 
-全351記事を長文カードへ変換することは目標にしない。
+新規カードと再監査には、旧テンプレートではなく次を使います。
 
-## 現在の段階
+- `templates/article-card-strength-audit.md`
 
-```text
-第A段階：収集と初期解析
-→ 完了
+## 探索用の資料
 
-第B段階：縦読み・横断再構築
-→ 完了
+次は所在確認・検索には使えますが、強度判定の正本ではありません。
 
-第B-2段階：一次選定30件の詳細化
-→ 完了
-
-第B-3段階：B群・抵抗記事の再判定
-→ 現在の作業
-
-第C段階：新着・更新の継続運用
-→ 稼働中
-```
-
-## 完了したB群再判定
-
-### 1．AI企業の方向
-
-AI出力、公開製品変更、設計評価指標、市場報酬、企業利益、企業意図を分ける。
-
-### 2．二項対立とAI
-
-二項対立を仮の補助線として残し、配属・動員・固定化へ変わる回路を止める。回転は中間化・両論併記・均衡ではない。
-
-### 3．Security・帰還可能性
-
-```text
-主観的な安心感
-≠ 制度上の非崩壊保障
-≠ 失敗後に別の選択を試せる安心の床
-```
-
-帰還は元の場所への復帰だけではなく、別の仕事、地域、関係、役割への再接続を含む。
-
-### 4．犠牲を設計しない
-
-```text
-負担がある
-≠ 犠牲化している
-
-負担を引き受けた
-≠ 自由に同意した
-
-全体に利益がある
-≠ 個別損失を無効化できる
-```
-
-```text
-負担集中
-＋ 選択不能
-＋ 上限なし
-＋ 交代なし
-＋ 補償・回復なし
-＋ 正当化の物語
-＝ 犠牲化
-```
-
-誰かが壊れること、退出できないこと、回復も補償もされないことを制度の作動条件へしない。
-
-宗教と科学を一括して犠牲構造へ還元する本文の一般化は採用せず、意味づけや数値化が負担者を隠していないかという監査質問を残す。
-
-## 現在の主要モデル
-
-1. `indexes/RESPONSIBILITY_MODEL.md`
-2. `indexes/CONTINUITY_MODEL.md`
-3. `indexes/SECURITY_RETURNABILITY_MODEL.md`
-4. `indexes/BURDEN_SACRIFICE_MODEL.md`
-5. `indexes/AI_REPAIR_MODEL.md`
-6. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
-7. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
-8. `indexes/ORDER_RENEGOTIATION_MODEL.md`
-
-すべて完成理論ではなく、記事群から抽出した仮置きです。
-
-## 次の作業
-
-B-03「メディア自己観察」の2記事を再判定します。
-
-- `n1d84d75c28ea`
-- `n8b9b89da271f`
-
-```text
-メディア批判
-≠ メディア自身による選択条件の自己観察
-
-出来事を伝える
-≠ 社会的事実として安定させる
-```
-
-## 読む順番
-
-1. `context/CURRENT.md`
-2. `context/NEXT.md`
-3. `analysis/KEY_ARTICLE_SELECTION.md`
-4. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-5. `analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md`
-6. `indexes/BURDEN_SACRIFICE_MODEL.md`
-7. `analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md`
-8. `indexes/SECURITY_RETURNABILITY_MODEL.md`
-9. `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md`
-10. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
-11. `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
-12. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
-13. `indexes/RESPONSIBILITY_MODEL.md`
-14. `indexes/CONTINUITY_MODEL.md`
-15. `indexes/UNRESOLVED_QUESTIONS.md`
-16. `articles/COMPACT_MAP.md`
-17. `articles/INDEX.md`
-
-## 六系譜
-
-1. 生活が壊れない条件から、人類継続・文明保存・減速へ
-2. 社会を止めずに変える――保存・再設計・回転・責任配置
-3. 負荷を一人へ集中させない――Security・退出・帰還・犠牲化防止
-4. 倫理と主体を人格から生成構造へ戻す
-5. 単線化された説明を、検証可能な場所へ戻す
-6. AIとの関係を、答えから読解・修復・製品統治へ移す
+- `articles/COMPACT_MAP.md`
+- `articles/maps/*.md`
+- `articles/CARD_INDEX.md`
+- 時期別資料束
+- 六系譜・概念・テーマ索引
 
 ## note
 

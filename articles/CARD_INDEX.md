@@ -19,9 +19,9 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 - 文脈解析済み：351件
 - 文脈未解析：0件
 - 文脈判定保留：0件
-- 個別カードあり：42件
-- 個別カード精査済み：42件
-- 個別カードなし：309件
+- 個別カードあり：49件
+- 個別カード精査済み：49件
+- 個別カードなし：302件
 
 | 公開日 | note ID | 記事 | 文脈解析 | 個別カード | 公開状態 | note |
 |---|---|---|---|---|---|---|
@@ -52,8 +52,8 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 | 2026-05-05 | `ne689a6405eba` | [AIとの対話には、プロンプトの技より先に「稽古」がいる](cards/2026-05-05-ne689a6405eba.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-05-05-ne689a6405eba.md)） | [個別カード精査済み](cards/2026-05-05-ne689a6405eba.md) | public | [公開本文](https://note.com/shirokuma1970/n/ne689a6405eba) |
 | 2026-05-01 | `n03f382a2f025` | [不安を煽るAI報道を、どう読めばいいのか――怖さを、条件のない物語に預けないために](https://note.com/shirokuma1970/n/n03f382a2f025) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n03f382a2f025) |
 | 2026-04-25 | `n4e7fe52fe4e4` | [「よく分からないから怖い」を、誰かに預けないーーAIが脆弱性を見つけたニュースから考える、不安を確認順に戻す力](https://note.com/shirokuma1970/n/n4e7fe52fe4e4) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n4e7fe52fe4e4) |
-| 2026-04-08 | `ne9a567f98d25` | [なぜ現代のリベラルは土台を定義できないのか](https://note.com/shirokuma1970/n/ne9a567f98d25) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/ne9a567f98d25) |
-| 2026-04-08 | `n57ddc084732b` | [私はなぜ責任配置をそこまで気にするのか](https://note.com/shirokuma1970/n/n57ddc084732b) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n57ddc084732b) |
+| 2026-04-08 | `ne9a567f98d25` | [なぜ現代のリベラルは土台を定義できないのか](cards/2026-04-08-ne9a567f98d25.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-04-08-ne9a567f98d25.md)） | [個別カード精査済み](cards/2026-04-08-ne9a567f98d25.md) | public | [公開本文](https://note.com/shirokuma1970/n/ne9a567f98d25) |
+| 2026-04-08 | `n57ddc084732b` | [私はなぜ責任配置をそこまで気にするのか](cards/2026-04-08-n57ddc084732b.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-04-08-n57ddc084732b.md)） | [個別カード精査済み](cards/2026-04-08-n57ddc084732b.md) | public | [公開本文](https://note.com/shirokuma1970/n/n57ddc084732b) |
 | 2026-04-07 | `nf31f8f683359` | [手段が目的の顔をし始めた国](https://note.com/shirokuma1970/n/nf31f8f683359) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nf31f8f683359) |
 | 2026-04-07 | `n519ffb4416b0` | [私の思考のOSはどこで作られたのか](https://note.com/shirokuma1970/n/n519ffb4416b0) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n519ffb4416b0) |
 | 2026-04-06 | `nc7ae2d738aca` | [ワルプルギスの廻天で本当に起きるべきことは何か](https://note.com/shirokuma1970/n/nc7ae2d738aca) | 文脈解析済み（[第6期：2026-03-23〜05-01の残り16記事](../analysis/PHASE_06_2026-03-23_TO_05-01.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nc7ae2d738aca) |
@@ -166,12 +166,12 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 | 2026-03-06 | `n9f9742e775f8` | [アドラー心理学の全体像](https://note.com/shirokuma1970/n/n9f9742e775f8) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n9f9742e775f8) |
 | 2026-03-06 | `n994f8ea93894` | [目的論は「批判の刃」ではなく「更新の座標」だ](https://note.com/shirokuma1970/n/n994f8ea93894) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n994f8ea93894) |
 | 2026-03-06 | `n8e25c63c135c` | [制度はある。運用がない。](https://note.com/shirokuma1970/n/n8e25c63c135c) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n8e25c63c135c) |
-| 2026-03-06 | `n76a3521b3b86` | [寛解は「心」ではなく「配置」で起こる](https://note.com/shirokuma1970/n/n76a3521b3b86) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n76a3521b3b86) |
-| 2026-03-06 | `n665904cda2c6` | [決定ログテンプレという提案](https://note.com/shirokuma1970/n/n665904cda2c6) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n665904cda2c6) |
+| 2026-03-06 | `n76a3521b3b86` | [寛解は「心」ではなく「配置」で起こる](cards/2026-03-06-n76a3521b3b86.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-06-n76a3521b3b86.md)） | [個別カード精査済み](cards/2026-03-06-n76a3521b3b86.md) | public | [公開本文](https://note.com/shirokuma1970/n/n76a3521b3b86) |
+| 2026-03-06 | `n665904cda2c6` | [決定ログテンプレという提案](cards/2026-03-06-n665904cda2c6.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-06-n665904cda2c6.md)） | [個別カード精査済み](cards/2026-03-06-n665904cda2c6.md) | public | [公開本文](https://note.com/shirokuma1970/n/n665904cda2c6) |
 | 2026-03-06 | `n5492c786ecdb` | [医療陰謀論は「内容」ではなく「空白」に宿る](https://note.com/shirokuma1970/n/n5492c786ecdb) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n5492c786ecdb) |
 | 2026-03-06 | `n540843a60d8f` | [海苔弁は、透明化の失敗の象徴だ](https://note.com/shirokuma1970/n/n540843a60d8f) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n540843a60d8f) |
 | 2026-03-06 | `n5230b2f0d086` | [2) 部下がいなくなって、さらに楽になった](https://note.com/shirokuma1970/n/n5230b2f0d086) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n5230b2f0d086) |
-| 2026-03-06 | `n3b786b239e77` | [上司が原因のメンタル不調には、制度としての「逃げ道」が必要だ](https://note.com/shirokuma1970/n/n3b786b239e77) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n3b786b239e77) |
+| 2026-03-06 | `n3b786b239e77` | [上司が原因のメンタル不調には、制度としての「逃げ道」が必要だ](cards/2026-03-06-n3b786b239e77.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-06-n3b786b239e77.md)） | [個別カード精査済み](cards/2026-03-06-n3b786b239e77.md) | public | [公開本文](https://note.com/shirokuma1970/n/n3b786b239e77) |
 | 2026-03-06 | `n16ad0408ec0d` | [1) フリーランスになって、精神的に楽になった](https://note.com/shirokuma1970/n/n16ad0408ec0d) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n16ad0408ec0d) |
 | 2026-03-05 | `nedb7d0540a0f` | [自由という難問](https://note.com/shirokuma1970/n/nedb7d0540a0f) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nedb7d0540a0f) |
 | 2026-03-05 | `ne54b5cfe19e0` | [あなたらしく生きるためのヒントとしての老荘思想](https://note.com/shirokuma1970/n/ne54b5cfe19e0) | 文脈解析済み（[第3期：2026-03-02〜03-13](../analysis/PHASE_03_2026-03-02_TO_03-13.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/ne54b5cfe19e0) |
@@ -290,8 +290,8 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 | 2026-02-12 | `n449805fb7720` | [正しさより、壊れにくさ](https://note.com/shirokuma1970/n/n449805fb7720) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n449805fb7720) |
 | 2026-02-11 | `ne9a5e5b2a82f` | [決める人をどう守るか](https://note.com/shirokuma1970/n/ne9a5e5b2a82f) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/ne9a5e5b2a82f) |
 | 2026-02-11 | `nde5b7a4c660b` | [理想は、どこに置かれるべきか](https://note.com/shirokuma1970/n/nde5b7a4c660b) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nde5b7a4c660b) |
-| 2026-02-11 | `nd61ed4150882` | [決定の時間軸を設計する](https://note.com/shirokuma1970/n/nd61ed4150882) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nd61ed4150882) |
-| 2026-02-11 | `nb28671217aba` | [責任分界点とは何か](https://note.com/shirokuma1970/n/nb28671217aba) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nb28671217aba) |
+| 2026-02-11 | `nd61ed4150882` | [決定の時間軸を設計する](cards/2026-02-11-nd61ed4150882.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-02-11-nd61ed4150882.md)） | [個別カード精査済み](cards/2026-02-11-nd61ed4150882.md) | public | [公開本文](https://note.com/shirokuma1970/n/nd61ed4150882) |
+| 2026-02-11 | `nb28671217aba` | [責任分界点とは何か](cards/2026-02-11-nb28671217aba.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-02-11-nb28671217aba.md)） | [個別カード精査済み](cards/2026-02-11-nb28671217aba.md) | public | [公開本文](https://note.com/shirokuma1970/n/nb28671217aba) |
 | 2026-02-11 | `n9b73c13e1118` | [アドラーが本当にやりたかったことは、何だったのか](https://note.com/shirokuma1970/n/n9b73c13e1118) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n9b73c13e1118) |
 | 2026-02-11 | `n91953326da8f` | [正しさの先にあるものについて](https://note.com/shirokuma1970/n/n91953326da8f) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n91953326da8f) |
 | 2026-02-11 | `n82246fc7776a` | [なぜ「失敗の扱い」が核心なのか](https://note.com/shirokuma1970/n/n82246fc7776a) | 文脈解析済み（[第2期：2026-02-11〜02-27](../analysis/PHASE_02_2026-02-11_TO_02-27.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n82246fc7776a) |

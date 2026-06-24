@@ -21,8 +21,8 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：55件
-- コンパクト地図のみ：296件
+- 詳細な個別カード：60件
+- コンパクト地図のみ：291件
 - 空の未解析カード：0件
 
 ```text
@@ -64,8 +64,9 @@
 - バッチ1・方法論束：7件完了
 - バッチ2・責任／決定／退出：7件完了
 - バッチ3・継続／文明／Security：6件完了
-- 詳細カード：35件から55件へ増加
-- 残る昇格候補：10件
+- バッチ4・AI／情報／Repair：5件完了
+- 詳細カード：35件から60件へ増加
+- 残る昇格候補：5件
 - 周辺記事として束で保持：28件
 
 ### バッチ1
@@ -91,21 +92,29 @@
 → 担い手の自己消耗による延命を継続から除外
 ```
 
-現在の到達点：
+### バッチ4
 
 ```text
-継続
-＝ 外形が残ること
-ではない
-
-生活が破綻しない
-＋ 担い手が再生産される
-＋ 知識が循環する
-＋ 失敗から修復できる
-＋ 異議・退出・変更が可能
+揺れを担保されない大人
+→ AIによる整えすぎ
+→ 主語と非対称性を消す安定化
+→ 関係修復による論点修復の代替
+→ すり寄りによる学習可能性の喪失
+→ 目的階層と質問可能性の支配
 ```
 
-次はAI・情報・Repairの束へ進む。
+現在のAI対話の仮モデル：
+
+```text
+揺れを保持する
+＋ 採用解釈を表示する
+＋ 追加前提・省略を分ける
+＋ 消えた主語・負担を戻す
+＋ 関係修復と論点修復を分ける
+＋ 最終判断を人間へ返す
+```
+
+次は政治機能と国際秩序の束へ進む。
 
 参照：
 
@@ -114,8 +123,10 @@
 - `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
 - `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
 - `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`
+- `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
 - `indexes/RESPONSIBILITY_MODEL.md`
 - `indexes/CONTINUITY_MODEL.md`
+- `indexes/AI_REPAIR_MODEL.md`
 
 ## 第D段階との関係
 
@@ -136,17 +147,19 @@
 6. `indexes/RESPONSIBILITY_MODEL.md`
 7. `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`
 8. `indexes/CONTINUITY_MODEL.md`
-9. `indexes/CROSS_RECONSTRUCTION.md`
-10. `indexes/LINEAGES.md`
-11. `indexes/CURRENT_POSITIONS.md`
-12. `indexes/THEMES.md`
-13. `indexes/CONCEPTS.md`
-14. `indexes/QUESTIONS.md`
-15. `indexes/UNRESOLVED_QUESTIONS.md`
-16. `articles/COMPACT_MAP.md`
-17. `articles/INDEX.md`
-18. 必要な時期別資料束・個別カード
-19. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
+9. `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
+10. `indexes/AI_REPAIR_MODEL.md`
+11. `indexes/CROSS_RECONSTRUCTION.md`
+12. `indexes/LINEAGES.md`
+13. `indexes/CURRENT_POSITIONS.md`
+14. `indexes/THEMES.md`
+15. `indexes/CONCEPTS.md`
+16. `indexes/QUESTIONS.md`
+17. `indexes/UNRESOLVED_QUESTIONS.md`
+18. `articles/COMPACT_MAP.md`
+19. `articles/INDEX.md`
+20. 必要な時期別資料束・個別カード
+21. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
 
 ## 六系譜
 

@@ -16,10 +16,14 @@
 
 ## 正本
 
+- 初期解析済み集合：`analysis/BASELINE_NOTE_IDS.json`
 - 現在の公開状態・本文ハッシュ：`sources/note/catalog.json`
 - どの本文まで解析したか：`analysis/COVERAGE.json`
 - 人間向けカバレッジ概要：`analysis/COVERAGE.md`
 - 現在の確認待ち：`review/INBOX.md`
+- 判断用テンプレート：`review/DECISION_TEMPLATE.md`
+
+初期基準集合に含まれないnote IDは、公開日が過去であっても自動的に旧フェーズへ割り当てない。
 
 ## レビュー対象
 
@@ -61,9 +65,44 @@
 - 分岐
 - 破棄
 
+## GitHub画面から判断を反映する
+
+GitHub Actionsの **Apply note review decision** を手動実行する。
+
+入力項目：
+
+- `action`：`accept` / `defer` / `reopen`
+- `note_id`
+- `analysis_ref`
+- `coverage_type`
+- `role`
+- `defer_reason`
+- `recheck_after`
+- `recheck_condition`
+
+ワークフローは次を更新してコミットする。
+
+- `analysis/COVERAGE.json`
+- `analysis/COVERAGE.md`
+- `review/INBOX.md`
+
+記事カードや系譜の本文は自動変更しない。必要な文脈文書を先に更新してから、最後に判断を反映する。
+
 ## 解析済みとして受け入れる
 
 現在の公開本文を読み、必要なカード・系譜・概念・問いを更新した後に実行する。
+
+GitHub Actionsでは：
+
+```text
+action = accept
+note_id = 対象ID
+analysis_ref = articles/cards/... または indexes/...
+coverage_type = individual_card / cross_index / phase_bundle / other
+role = 修正 / 反例 / 統合稿 など
+```
+
+ローカルでは：
 
 ```bash
 python scripts/update_analysis_coverage.py \
@@ -81,6 +120,17 @@ python scripts/update_analysis_coverage.py \
 
 今すぐ結論を出さない場合も、単なる放置にしない。
 
+GitHub Actionsでは：
+
+```text
+action = defer
+defer_reason = 一次資料の確認が必要
+recheck_after = 2026-07-01
+recheck_condition = 公的資料が公開されたら再確認
+```
+
+ローカルでは：
+
 ```bash
 python scripts/update_analysis_coverage.py \
   --defer <NOTE_ID> \
@@ -92,6 +142,10 @@ python scripts/update_analysis_coverage.py \
 保留中に本文や公開状態がさらに変わった場合、その差分も`INBOX.md`へ表示される。
 
 ## 保留を再開する
+
+GitHub Actionsでは`action = reopen`を選ぶ。
+
+ローカルでは：
 
 ```bash
 python scripts/update_analysis_coverage.py --reopen <NOTE_ID>
@@ -108,6 +162,7 @@ python scripts/update_analysis_coverage.py
 ## してはいけないこと
 
 - 新着記事を自動的に既存六系譜へ押し込む
+- 過去日付だからという理由で旧フェーズへ回収する
 - 本文変更時に`covered_content_hash`を自動更新する
 - 解析済みカードをスクレイピング結果で上書きする
 - 保留理由・再確認条件なしに確認待ちから消す

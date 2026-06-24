@@ -10,19 +10,14 @@
 - 文脈・系譜・現在地・選定判断：このリポジトリ
 - 作業中の解釈：暫定。確認済み事実と混同しない
 
-運用の詳細：
-
-- `docs/INGESTION_WORKFLOW.md`
-- `docs/REVIEW_WORKFLOW.md`
-
 ## コーパスと解析構造
 
 - 公開記事：351件
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：60件
-- コンパクト地図のみ：291件
+- 詳細な個別カード：65件
+- コンパクト地図のみ：286件
 - 空の未解析カード：0件
 
 ```text
@@ -47,7 +42,10 @@
 第B段階：縦読み・横断再構築
   → 完了
 
-第B-2段階：重要記事の選定と詳細カードへの昇格
+第B-2段階：一次選定30件の詳細カード化
+  → 完了
+
+第B-3段階：B群・抵抗記事の再判定
   → 現在の作業
 
 第C段階：新着・更新の継続運用
@@ -57,17 +55,16 @@
   → 準備稿。未開始
 ```
 
-## 第B-2段階の現在地
+## 一次選定30件の詳細化
 
-横断再構築から18の重要記事群を一次選定し、30件を詳細カードへの昇格候補とした。
+横断再構築から18の重要記事群を選び、30件を5バッチで詳細化した。
 
-- バッチ1・方法論束：7件完了
-- バッチ2・責任／決定／退出：7件完了
-- バッチ3・継続／文明／Security：6件完了
-- バッチ4・AI／情報／Repair：5件完了
-- 詳細カード：35件から60件へ増加
-- 残る昇格候補：5件
-- 周辺記事として束で保持：28件
+- バッチ1・方法論：7件
+- バッチ2・責任／決定／退出：7件
+- バッチ3・継続／文明／Security：6件
+- バッチ4・AI／情報／Repair：5件
+- バッチ5・政治機能／国際秩序：5件
+- 詳細カード：35件から65件へ増加
 
 ### バッチ1
 
@@ -84,58 +81,85 @@
 ### バッチ3
 
 ```text
-生活の底と破滅的リスクを分ける
-→ 人類継続という上位主語
-→ 文明を未来への冗長性として保存
-→ 形式知と暗黙知の循環
-→ Securityから長期思考・信頼・倫理を生成
-→ 担い手の自己消耗による延命を継続から除外
+生活の底と破滅的リスク
+→ 人類継続
+→ 文明冗長性
+→ 知識循環
+→ 倫理生成
+→ 継続と延命の分離
 ```
 
 ### バッチ4
 
 ```text
-揺れを担保されない大人
-→ AIによる整えすぎ
-→ 主語と非対称性を消す安定化
-→ 関係修復による論点修復の代替
-→ すり寄りによる学習可能性の喪失
-→ 目的階層と質問可能性の支配
+揺れの無担保
+→ 整えすぎ
+→ 安定化
+→ 関係修復による代替
+→ 学習可能性の喪失
+→ 目的階層・質問可能性
 ```
 
-現在のAI対話の仮モデル：
+### バッチ5
 
 ```text
-揺れを保持する
-＋ 採用解釈を表示する
-＋ 追加前提・省略を分ける
-＋ 消えた主語・負担を戻す
-＋ 関係修復と論点修復を分ける
-＋ 最終判断を人間へ返す
+政治ラベルを機能へ
+→ 保存・再設計・回転条件
+→ 修正可能性を制度価値へ
+→ 文明保存を異なる利用目的の接続制度へ
+→ 中心を支える外周担保
+→ 用途反転と秩序再交渉
 ```
 
-次は政治機能と国際秩序の束へ進む。
+## 現在の主要モデル
 
-参照：
+1. `indexes/RESPONSIBILITY_MODEL.md`
+2. `indexes/CONTINUITY_MODEL.md`
+3. `indexes/AI_REPAIR_MODEL.md`
+4. `indexes/ORDER_RENEGOTIATION_MODEL.md`
 
-- `context/NEXT.md`
-- `analysis/KEY_ARTICLE_SELECTION.md`
-- `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-- `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
-- `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`
-- `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
-- `indexes/RESPONSIBILITY_MODEL.md`
-- `indexes/CONTINUITY_MODEL.md`
-- `indexes/AI_REPAIR_MODEL.md`
+四モデルは完成理論ではない。記事群から抽出した仮置きであり、B群・抵抗記事によって修正される可能性がある。
 
-## 第D段階との関係
+## 現在の到達点
 
-次期研究プログラムは準備稿として保持する。
+```text
+責任配置
+→ 誰が決め、負担し、止め、直すか
 
-- `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
-- `research/CONTINUITY_DESIGN_KERNEL.md`
+継続
+→ 担い手・知識・修復能力が再生産されるか
 
-現在は、重要記事を選び、記事単位の根拠・修正・反例を揃える第B-2段階を続ける。
+AI Repair
+→ 解釈・補完・省略・目的階層が検証可能か
+
+秩序再交渉
+→ 中心を支える外周担保と用途変更を誰が再交渉できるか
+```
+
+共通制度への参加と、目的・意図・利益の一致を混同しない。
+
+```text
+同じ制度へ参加する
+≠ 目的が一致する
+≠ 意図が一致する
+≠ 利益が一致する
+```
+
+## 次の作業
+
+B群9区分17記事と、現在体系へ抵抗する記事を再判定する。
+
+最初はAI企業の方向を扱うB-05から読む。
+
+```text
+AI出力
+製品設計
+市場報酬
+企業利益
+企業意図
+```
+
+を分け、初期記事の確認済み部分、構造推論、意図帰属を切り分ける。
 
 ## 読む順番
 
@@ -149,17 +173,15 @@
 8. `indexes/CONTINUITY_MODEL.md`
 9. `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
 10. `indexes/AI_REPAIR_MODEL.md`
-11. `indexes/CROSS_RECONSTRUCTION.md`
-12. `indexes/LINEAGES.md`
-13. `indexes/CURRENT_POSITIONS.md`
-14. `indexes/THEMES.md`
-15. `indexes/CONCEPTS.md`
-16. `indexes/QUESTIONS.md`
-17. `indexes/UNRESOLVED_QUESTIONS.md`
-18. `articles/COMPACT_MAP.md`
-19. `articles/INDEX.md`
-20. 必要な時期別資料束・個別カード
-21. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
+11. `analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md`
+12. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+13. `indexes/CROSS_RECONSTRUCTION.md`
+14. `indexes/LINEAGES.md`
+15. `indexes/CURRENT_POSITIONS.md`
+16. `indexes/UNRESOLVED_QUESTIONS.md`
+17. `articles/COMPACT_MAP.md`
+18. `articles/INDEX.md`
+19. 必要な時期別資料束・個別カード
 
 ## 六系譜
 
@@ -171,8 +193,6 @@
 6. AIとの関係を、答えから読解・修復へ移す
 
 ## 継続運用
-
-稼働中：
 
 - `scripts/sync_note.py`：note ID単位の増分同期
 - `scripts/update_analysis_coverage.py`：解析済み本文ハッシュの台帳

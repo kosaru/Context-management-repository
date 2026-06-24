@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-06-24T06:51:11.972828+00:00",
+  "recorded_at": "2026-06-24T06:52:12.327485+00:00",
   "method": "creator-api",
   "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
   "pages": [
@@ -421,7 +421,7 @@
   "complete": true,
   "termination_reason": "explicit_last_page",
   "sync_report": {
-    "recorded_at": "2026-06-24T06:50:57+00:00",
+    "recorded_at": "2026-06-24T06:51:56+00:00",
     "profile": "https://note.com/shirokuma1970",
     "discovery": {
       "method": "creator-api",

@@ -1,167 +1,44 @@
-# 次の文脈――重要記事の選定と詳細化
+# 次の文脈
 
-更新日：2026-06-24
+更新日：2026-06-25
 
-## 現在の移行
+## 現在の作業
 
-```text
-過去記事の収集・整理
-→ 完了
+既存分析の安定化監査を行う。
 
-縦読み・横断再構築
-→ 完了
+停止中：
 
-一次選定30件の詳細化
-→ 完了
+- B-03以降の再判定
+- 詳細カードの追加
+- 新しい横断モデルの作成
 
-B群再判定1「AI企業の方向」
-→ 完了
+監査対象：
 
-B群再判定2「二項対立とAI」
-→ 完了
+- 個別カード73件
+- 時期別解析6件
+- バッチ・B群分析
+- 横断索引
+- 派生モデル
+- テンプレートと自動索引
 
-B群再判定3「Security・帰還可能性」
-→ 完了
+強度監査通過は0件である。
 
-B群再判定4「犠牲を設計しない」
-→ 完了
+## 監査台帳
 
-B群・抵抗記事の再判定
-→ 現在の作業
+- `analysis/STABILIZATION_AUDIT_METHOD.md`
+- `analysis/STABILIZATION_AUDIT_REGISTER.md`
+- `analysis/stabilization_audit/CARDS_01_LATE.md`
+- `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`
+- `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`
+- `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`
+- `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
+- `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
+- `analysis/stabilization_audit/OPERATIONS.md`
 
-新着・更新の継続運用
-→ 稼働中
-```
+## 最初の基準ケース
 
-## 現在の中心課題
+1. `ndcca526034cf`
+2. `ne5105ace2279`
+3. `nee567e7bf172`
 
-> 既存モデルへ記事を回収するのではなく、回収すると消える差分、初期の誤り、分岐、破棄、反例を確認する。
-
-## 現在の件数
-
-- 全記事：351件
-- 詳細カード：73件
-- コンパクト地図のみ：278件
-- 一次選定30件の詳細化：完了
-- B群再判定完了：4区分8記事
-- 次の再判定対象：5区分9記事
-
-## 現在の正本
-
-- `analysis/KEY_ARTICLE_SELECTION.md`
-- `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-- `analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md`
-- `indexes/BURDEN_SACRIFICE_MODEL.md`
-- `analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md`
-- `indexes/SECURITY_RETURNABILITY_MODEL.md`
-- `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md`
-- `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
-- `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
-- `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
-- `indexes/RESPONSIBILITY_MODEL.md`
-- `indexes/CONTINUITY_MODEL.md`
-
-## 完了したB群再判定4――犠牲を設計しない
-
-対象：
-
-- `ndcca526034cf`　犠牲を設計しないという選択
-
-判定：詳細カードへ昇格。
-
-### 残した拒否線
-
-```text
-誰かが壊れること
-誰かが退出できないこと
-誰かが回復も補償もされないこと
-を制度の作動条件へしない
-```
-
-### 修正した一般化
-
-本文の宗教・科学対置は思想的な問題提起として残すが、宗教と科学が本質的に犠牲を必要とするという歴史的説明にはしない。
-
-### 負担と犠牲化
-
-```text
-負担がある
-≠ 犠牲化している
-
-負担を引き受けた
-≠ 自由に同意した
-
-全体に利益がある
-≠ 個別損失を無効化できる
-```
-
-```text
-負担集中
-＋ 選択不能
-＋ 上限なし
-＋ 交代なし
-＋ 補償・回復なし
-＋ 正当化の物語
-＝ 犠牲化
-```
-
-### 遠位目的
-
-人類、国家、文明、組織、未来世代という目的が大きいほど、現在負担の説明責任は重くなる。
-
-## 直近の作業――B-03「メディア自己観察」
-
-対象：
-
-- `n1d84d75c28ea`
-- `n8b9b89da271f`
-
-確認する問い：
-
-```text
-メディアは社会の外から監視する
-のではなく
-社会の雰囲気・価値・利害の内部で選択し配置する
-
-メディア批判
-と
-メディア自身が自らの選択条件を観測すること
-を分ける
-
-出来事を伝える
-と
-何を社会的事実として安定させたか
-を分ける
-```
-
-後期の社会的事実論へ回収すると、初期記事が持つメディア自身への自己観察要求が消えないかを検査する。
-
-## その後の再判定対象
-
-### B-04　社会の時間軸・老荘
-
-- `ne47b0eaecece`
-- `n71ac07ed20e6`
-
-### B-07　身体への方法論適用
-
-- `nb5168c4aa573`
-
-### B-08　AI脆弱性報道
-
-- `n4e7fe52fe4e4`
-- `n03f382a2f025`
-
-### B-09　思考OSの初期自己整理
-
-- `n519ffb4416b0`
-
-## 再判定の出力
-
-- 詳細カードへ昇格
-- 既存カードの周辺として保持
-- 独立分岐として残す
-- 責任ある保留
-- 棄却済み仮説として保存
-
-カード数を増やすこと自体は進捗とみなさない。
+この3件で原文比較と改稿方法を確定し、残る70件へ適用する。

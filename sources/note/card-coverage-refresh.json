@@ -1,0 +1,93 @@
+{
+  "promoted": [
+    {
+      "analysis_ref": "articles/cards/2026-02-13-n0558bfba8335.md",
+      "note_id": "n0558bfba8335",
+      "previous_analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-n0eb19d6eb0e4.md",
+      "note_id": "n0eb19d6eb0e4",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-03-10-n11bb14d378f5.md",
+      "note_id": "n11bb14d378f5",
+      "previous_analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-03-02-n20eb29737e9d.md",
+      "note_id": "n20eb29737e9d",
+      "previous_analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-02-21-n279cc0d198ff.md",
+      "note_id": "n279cc0d198ff",
+      "previous_analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-24-n2c75453fc841.md",
+      "note_id": "n2c75453fc841",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-n3b396bfeb4f2.md",
+      "note_id": "n3b396bfeb4f2",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-n3c1766637717.md",
+      "note_id": "n3c1766637717",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-n3ecee088fde8.md",
+      "note_id": "n3ecee088fde8",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-n3f891f9f7933.md",
+      "note_id": "n3f891f9f7933",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-02-12-n5a4fe222a45d.md",
+      "note_id": "n5a4fe222a45d",
+      "previous_analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-n5a96b6ac0e9a.md",
+      "note_id": "n5a96b6ac0e9a",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-03-03-n5abd1ec38b8d.md",
+      "note_id": "n5abd1ec38b8d",
+      "previous_analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-29-n7a4aa09d8385.md",
+      "note_id": "n7a4aa09d8385",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-29-n950cb90fbdda.md",
+      "note_id": "n950cb90fbdda",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-03-03-na5ae900600e8.md",
+      "note_id": "na5ae900600e8",
+      "previous_analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md"
+    },
+    {
+      "analysis_ref": "articles/cards/2026-01-31-nbe506f1f292b.md",
+      "note_id": "nbe506f1f292b",
+      "previous_analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md"
+    }
+  ],
+  "promoted_count": 17,
+  "recorded_at": "2026-06-24T07:00:04+00:00",
+  "skipped_changed_body": [],
+  "skipped_changed_body_count": 0
+}

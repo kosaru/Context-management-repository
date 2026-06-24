@@ -19,9 +19,9 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 - 文脈解析済み：351件
 - 文脈未解析：0件
 - 文脈判定保留：0件
-- 個別カードあり：67件
-- 個別カード精査済み：67件
-- 個別カードなし：284件
+- 個別カードあり：72件
+- 個別カード精査済み：72件
+- 個別カードなし：279件
 
 | 公開日 | note ID | 記事 | 文脈解析 | 個別カード | 公開状態 | note |
 |---|---|---|---|---|---|---|
@@ -76,10 +76,10 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 | 2026-03-28 | `n86983a65b829` | [文明の衝突から文明の保存へ](https://note.com/shirokuma1970/n/n86983a65b829) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n86983a65b829) |
 | 2026-03-27 | `nd9ad1a5b36e6` | [高市政権の半年を、外交と内政を分けずに読む](https://note.com/shirokuma1970/n/nd9ad1a5b36e6) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nd9ad1a5b36e6) |
 | 2026-03-27 | `na39ea3cb444a` | [日米首脳会談で見えた高市首相の国際外交とエネルギー戦略](https://note.com/shirokuma1970/n/na39ea3cb444a) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/na39ea3cb444a) |
-| 2026-03-25 | `necfb29c22f74` | [AIは二項対立から抜け出せるか](https://note.com/shirokuma1970/n/necfb29c22f74) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/necfb29c22f74) |
-| 2026-03-25 | `nd77d3ea83d56` | [二項対立はなくならない](https://note.com/shirokuma1970/n/nd77d3ea83d56) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nd77d3ea83d56) |
+| 2026-03-25 | `necfb29c22f74` | [AIは二項対立から抜け出せるか](cards/2026-03-25-necfb29c22f74.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-25-necfb29c22f74.md)） | [個別カード精査済み](cards/2026-03-25-necfb29c22f74.md) | public | [公開本文](https://note.com/shirokuma1970/n/necfb29c22f74) |
+| 2026-03-25 | `nd77d3ea83d56` | [二項対立はなくならない](cards/2026-03-25-nd77d3ea83d56.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-25-nd77d3ea83d56.md)） | [個別カード精査済み](cards/2026-03-25-nd77d3ea83d56.md) | public | [公開本文](https://note.com/shirokuma1970/n/nd77d3ea83d56) |
 | 2026-03-25 | `n80ffc5dacb83` | [OpenAI・Anthropic・Googleは現在どこへ向かっているのか](https://note.com/shirokuma1970/n/n80ffc5dacb83) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n80ffc5dacb83) |
-| 2026-03-25 | `n360b7b29f068` | [語る場と決める場を分ける](https://note.com/shirokuma1970/n/n360b7b29f068) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n360b7b29f068) |
+| 2026-03-25 | `n360b7b29f068` | [語る場と決める場を分ける](cards/2026-03-25-n360b7b29f068.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-25-n360b7b29f068.md)） | [個別カード精査済み](cards/2026-03-25-n360b7b29f068.md) | public | [公開本文](https://note.com/shirokuma1970/n/n360b7b29f068) |
 | 2026-03-24 | `na2c6825717e7` | [プロンプトエンジニアリングとユーザーの稽古法は対立しない](https://note.com/shirokuma1970/n/na2c6825717e7) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/na2c6825717e7) |
 | 2026-03-24 | `n92914e74d15f` | [右翼・左翼・中道を、属性ではなく機能として読む](cards/2026-03-24-n92914e74d15f.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-03-24-n92914e74d15f.md)） | [個別カード精査済み](cards/2026-03-24-n92914e74d15f.md) | public | [公開本文](https://note.com/shirokuma1970/n/n92914e74d15f) |
 | 2026-03-24 | `n898d73e0167d` | [中道を、属性ではなく機能として読む](https://note.com/shirokuma1970/n/n898d73e0167d) | 文脈解析済み（[第5期：2026-03-24〜03-31](../analysis/PHASE_05_2026-03-24_TO_03-31.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n898d73e0167d) |
@@ -354,10 +354,10 @@ note IDを主キーとする。公開日・タイトル・公開状態は状態�
 | 2026-02-02 | `nc04cb0dd9db4` | [社会をどう良くするかの前に、何を前提にしているか──不安ではなく安心を、社会設計の前提に置くという思考実験](https://note.com/shirokuma1970/n/nc04cb0dd9db4) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nc04cb0dd9db4) |
 | 2026-02-02 | `nabe108057bb9` | [民主主義には、なぜ「導き手」がいないのか](https://note.com/shirokuma1970/n/nabe108057bb9) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/nabe108057bb9) |
 | 2026-02-02 | `n6c7b5ee0ddc2` | [安心して考えられると、人は速くなる](https://note.com/shirokuma1970/n/n6c7b5ee0ddc2) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n6c7b5ee0ddc2) |
-| 2026-02-02 | `n5968f6dee1ef` | [やり直せる余地が、社会を強くする](https://note.com/shirokuma1970/n/n5968f6dee1ef) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n5968f6dee1ef) |
+| 2026-02-02 | `n5968f6dee1ef` | [やり直せる余地が、社会を強くする](cards/2026-02-02-n5968f6dee1ef.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-02-02-n5968f6dee1ef.md)） | [個別カード精査済み](cards/2026-02-02-n5968f6dee1ef.md) | public | [公開本文](https://note.com/shirokuma1970/n/n5968f6dee1ef) |
 | 2026-02-02 | `n488c1c4addf0` | [SNSと政治はいま、どこですれ違っているのか](https://note.com/shirokuma1970/n/n488c1c4addf0) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n488c1c4addf0) |
 | 2026-02-02 | `n395462f885b7` | [安心はコストではない。投資である。](https://note.com/shirokuma1970/n/n395462f885b7) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n395462f885b7) |
-| 2026-02-02 | `n2f379dd24aa9` | [安心を約束しないという選択](https://note.com/shirokuma1970/n/n2f379dd24aa9) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n2f379dd24aa9) |
+| 2026-02-02 | `n2f379dd24aa9` | [安心を約束しないという選択](cards/2026-02-02-n2f379dd24aa9.md) | 文脈解析済み（[個別記事カード](../articles/cards/2026-02-02-n2f379dd24aa9.md)） | [個別カード精査済み](cards/2026-02-02-n2f379dd24aa9.md) | public | [公開本文](https://note.com/shirokuma1970/n/n2f379dd24aa9) |
 | 2026-02-02 | `n19d37337d7d2` | [ソフトウェア開発論メモ](https://note.com/shirokuma1970/n/n19d37337d7d2) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n19d37337d7d2) |
 | 2026-02-02 | `n15e424043797` | [AIに流されないための、個人的な使い方メモ](https://note.com/shirokuma1970/n/n15e424043797) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/n15e424043797) |
 | 2026-02-01 | `ncc5ce1babd25` | [第五弾：街区レベルで考える都市実験](https://note.com/shirokuma1970/n/ncc5ce1babd25) | 文脈解析済み（[第1期：2026-01-24〜02-10](../analysis/PHASE_01_2026-01-24_TO_02-10.md)） | 個別カードなし（資料束・横断索引で解析） | public | [公開本文](https://note.com/shirokuma1970/n/ncc5ce1babd25) |

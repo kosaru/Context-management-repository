@@ -919,11 +919,11 @@
       "role": ""
     },
     "n2f379dd24aa9": {
-      "analysis_label": "第1期：2026-01-24〜02-10",
-      "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
+      "analysis_label": "個別記事カード",
+      "analysis_ref": "articles/cards/2026-02-02-n2f379dd24aa9.md",
       "analysis_state": "covered",
-      "analysis_unit": "phase_01",
-      "coverage_type": "phase_bundle",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
       "covered_at": "2026-06-24T01:56:51+00:00",
       "covered_content_hash": "2a65fa3a65ebbbbb7edf4cc6dae011358bf2570c31b957241e2bae25293355eb",
       "covered_public_status": "public",
@@ -1123,11 +1123,11 @@
       "role": ""
     },
     "n360b7b29f068": {
-      "analysis_label": "第5期：2026-03-24〜03-31",
-      "analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md",
+      "analysis_label": "個別記事カード",
+      "analysis_ref": "articles/cards/2026-03-25-n360b7b29f068.md",
       "analysis_state": "covered",
-      "analysis_unit": "phase_05",
-      "coverage_type": "phase_bundle",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
       "covered_at": "2026-06-24T01:56:51+00:00",
       "covered_content_hash": "275f864f22585d667cb3a1f6b2c399c9c9285f03ee6cccb2044f11872eab1cb6",
       "covered_public_status": "public",
@@ -2211,11 +2211,11 @@
       "role": ""
     },
     "n5968f6dee1ef": {
-      "analysis_label": "第1期：2026-01-24〜02-10",
-      "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
+      "analysis_label": "個別記事カード",
+      "analysis_ref": "articles/cards/2026-02-02-n5968f6dee1ef.md",
       "analysis_state": "covered",
-      "analysis_unit": "phase_01",
-      "coverage_type": "phase_bundle",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
       "covered_at": "2026-06-24T01:56:51+00:00",
       "covered_content_hash": "93f2524abf13e80eac35690efc41fdfea61ff714d43c94179fa48ed77814f677",
       "covered_public_status": "public",
@@ -4965,11 +4965,11 @@
       "role": ""
     },
     "nd77d3ea83d56": {
-      "analysis_label": "第5期：2026-03-24〜03-31",
-      "analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md",
+      "analysis_label": "個別記事カード",
+      "analysis_ref": "articles/cards/2026-03-25-nd77d3ea83d56.md",
       "analysis_state": "covered",
-      "analysis_unit": "phase_05",
-      "coverage_type": "phase_bundle",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
       "covered_at": "2026-06-24T01:56:51+00:00",
       "covered_content_hash": "1f53108d227ba6a8c65912484f5c7534252ca0bd0b933bd997ae8c1504b8fc31",
       "covered_public_status": "public",
@@ -5509,11 +5509,11 @@
       "role": ""
     },
     "necfb29c22f74": {
-      "analysis_label": "第5期：2026-03-24〜03-31",
-      "analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md",
+      "analysis_label": "個別記事カード",
+      "analysis_ref": "articles/cards/2026-03-25-necfb29c22f74.md",
       "analysis_state": "covered",
-      "analysis_unit": "phase_05",
-      "coverage_type": "phase_bundle",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
       "covered_at": "2026-06-24T01:56:51+00:00",
       "covered_content_hash": "4091cfb0ab0cecb954c05be928ebffb3039f0fa13b6352a9e68187cd57e76638",
       "covered_public_status": "public",
@@ -5969,5 +5969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-06-24T14:36:24+00:00"
+  "updated_at": "2026-06-24T21:02:20+00:00"
 }

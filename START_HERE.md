@@ -16,8 +16,8 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：65件
-- コンパクト地図のみ：286件
+- 詳細な個別カード：67件
+- コンパクト地図のみ：284件
 - 空の未解析カード：0件
 
 ```text
@@ -57,109 +57,77 @@
 
 ## 一次選定30件の詳細化
 
-横断再構築から18の重要記事群を選び、30件を5バッチで詳細化した。
+5バッチで完了した。
 
-- バッチ1・方法論：7件
-- バッチ2・責任／決定／退出：7件
-- バッチ3・継続／文明／Security：6件
-- バッチ4・AI／情報／Repair：5件
-- バッチ5・政治機能／国際秩序：5件
-- 詳細カード：35件から65件へ増加
+1. 方法論：7件
+2. 責任／決定／退出：7件
+3. 継続／文明／Security：6件
+4. AI／情報／Repair：5件
+5. 政治機能／国際秩序：5件
 
-### バッチ1
+詳細カードは35件から65件へ増加した。
 
-```text
-型 → 思考の主権 → 回転 → 複線化 → 変更経路 → 観測 → 仮説の輪郭
-```
+## B群再判定1――AI企業の方向
 
-### バッチ2
+2記事を詳細カードへ昇格した。
 
-```text
-責任境界 → 決定時間 → 判断の鎖 → 中間退出 → 配置変更 → 修復・継承 → 設計責任
-```
+- `n9ebf441f85ab`　AIはどこに入り込もうとしているのか
+- `ne5105ace2279`　OpenAIはポピュリズムに寄っているのではないか
 
-### バッチ3
+### 残した独自層
 
 ```text
-生活の底と破滅的リスク
-→ 人類継続
-→ 文明冗長性
-→ 知識循環
-→ 倫理生成
-→ 継続と延命の分離
+AI Repair
+→ 対話内部の誤読・安定化・関係修復
+
+AI製品統治
+→ 応答特性がどの評価・市場・事業回路で選ばれるか
 ```
 
-### バッチ4
+### 批評時の分離
 
 ```text
-揺れの無担保
-→ 整えすぎ
-→ 安定化
-→ 関係修復による代替
-→ 学習可能性の喪失
-→ 目的階層・質問可能性
+観測されたAI出力
+→ 公開された製品変更
+→ 推定される設計評価指標
+→ 市場・事業上の報酬
+→ 企業利益・組織制約
+→ 企業・設計者の意図
 ```
 
-### バッチ5
+出力から意図へ直接飛ばない。
 
-```text
-政治ラベルを機能へ
-→ 保存・再設計・回転条件
-→ 修正可能性を制度価値へ
-→ 文明保存を異なる利用目的の接続制度へ
-→ 中心を支える外周担保
-→ 用途反転と秩序再交渉
-```
+ただし意図が未確認でも、企業が変更可能で、反復効果を予見でき、利用者が回避できない設計には説明責任が残る。
 
 ## 現在の主要モデル
 
 1. `indexes/RESPONSIBILITY_MODEL.md`
 2. `indexes/CONTINUITY_MODEL.md`
 3. `indexes/AI_REPAIR_MODEL.md`
-4. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+4. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
+5. `indexes/ORDER_RENEGOTIATION_MODEL.md`
 
-四モデルは完成理論ではない。記事群から抽出した仮置きであり、B群・抵抗記事によって修正される可能性がある。
-
-## 現在の到達点
-
-```text
-責任配置
-→ 誰が決め、負担し、止め、直すか
-
-継続
-→ 担い手・知識・修復能力が再生産されるか
-
-AI Repair
-→ 解釈・補完・省略・目的階層が検証可能か
-
-秩序再交渉
-→ 中心を支える外周担保と用途変更を誰が再交渉できるか
-```
-
-共通制度への参加と、目的・意図・利益の一致を混同しない。
-
-```text
-同じ制度へ参加する
-≠ 目的が一致する
-≠ 意図が一致する
-≠ 利益が一致する
-```
+これらは完成理論ではない。記事群から抽出した仮置きであり、B群・抵抗記事によって修正される可能性がある。
 
 ## 次の作業
 
-B群9区分17記事と、現在体系へ抵抗する記事を再判定する。
+B-06「二項対立とAI」の3記事を再判定する。
 
-最初はAI企業の方向を扱うB-05から読む。
+- `n360b7b29f068`
+- `nd77d3ea83d56`
+- `necfb29c22f74`
 
 ```text
-AI出力
-製品設計
-市場報酬
-企業利益
-企業意図
-```
+二項対立を思考道具として使う
+と
+二項対立へ居付く
+を分ける
 
-を分け、初期記事の確認済み部分、構造推論、意図帰属を切り分ける。
+対立を消さない
+と
+AIが双方を均衡化して論点を薄める
+を分ける
+```
 
 ## 読む順番
 
@@ -167,21 +135,19 @@ AI出力
 2. `context/NEXT.md`
 3. `analysis/KEY_ARTICLE_SELECTION.md`
 4. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-5. `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
-6. `indexes/RESPONSIBILITY_MODEL.md`
-7. `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`
-8. `indexes/CONTINUITY_MODEL.md`
-9. `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
-10. `indexes/AI_REPAIR_MODEL.md`
-11. `analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md`
-12. `indexes/ORDER_RENEGOTIATION_MODEL.md`
-13. `indexes/CROSS_RECONSTRUCTION.md`
-14. `indexes/LINEAGES.md`
-15. `indexes/CURRENT_POSITIONS.md`
-16. `indexes/UNRESOLVED_QUESTIONS.md`
-17. `articles/COMPACT_MAP.md`
-18. `articles/INDEX.md`
-19. 必要な時期別資料束・個別カード
+5. `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
+6. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
+7. `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
+8. `indexes/AI_REPAIR_MODEL.md`
+9. `analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md`
+10. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+11. `indexes/CROSS_RECONSTRUCTION.md`
+12. `indexes/LINEAGES.md`
+13. `indexes/CURRENT_POSITIONS.md`
+14. `indexes/UNRESOLVED_QUESTIONS.md`
+15. `articles/COMPACT_MAP.md`
+16. `articles/INDEX.md`
+17. 必要な時期別資料束・個別カード
 
 ## 六系譜
 
@@ -190,7 +156,7 @@ AI出力
 3. 負荷を一人へ集中させない――Security・Comfort・内部条件・退出可能性
 4. 倫理と主体を人格から生成構造へ戻す
 5. 単線化された説明を、検証可能な場所へ戻す
-6. AIとの関係を、答えから読解・修復へ移す
+6. AIとの関係を、答えから読解・修復・製品統治へ移す
 
 ## 継続運用
 
@@ -202,14 +168,6 @@ AI出力
 - `.github/workflows/collect-note.yml`：週次同期・月次全件検証・カード変更時の索引更新
 
 新着・変更記事も既存六系譜へ自動回収しない。
-
-```text
-差分を検出
-→ 公開本文を確認
-→ 初出・試行・修正・統合・適用・反例・分岐・破棄を判定
-→ 必要な記事だけ詳細カードへ昇格
-→ 系譜・現在地への影響を反映
-```
 
 ## note
 

@@ -17,9 +17,7 @@ on:
         type: boolean
         default: false
   schedule:
-    # Weekly metadata/new-article synchronization: Sunday 12:17 JST.
     - cron: "17 3 * * 0"
-    # Monthly full-body verification: first day of month, 12:47 JST.
     - cron: "47 3 1 * *"
   push:
     paths:
@@ -28,6 +26,7 @@ on:
       - "scripts/collect_note_api.py"
       - "scripts/sync_note.py"
       - "scripts/note_index.py"
+      - "scripts/build_compact_article_map.py"
       - "scripts/dedupe_note_cards.py"
       - "scripts/prune_empty_note_cards.py"
       - "scripts/update_analysis_coverage.py"
@@ -68,6 +67,7 @@ jobs:
             scripts/collect_note_api.py \
             scripts/sync_note.py \
             scripts/note_index.py \
+            scripts/build_compact_article_map.py \
             scripts/dedupe_note_cards.py \
             scripts/prune_empty_note_cards.py \
             scripts/update_analysis_coverage.py \
@@ -106,6 +106,9 @@ jobs:
       - name: Remove empty cards already covered by bundles
         run: python scripts/prune_empty_note_cards.py
 
+      - name: Regenerate compact article maps
+        run: python scripts/build_compact_article_map.py
+
       - name: Regenerate article and analysis index
         run: python scripts/note_index.py
 
@@ -118,6 +121,8 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add \
               articles/CARD_INDEX.md \
+              articles/COMPACT_MAP.md \
+              articles/maps \
               articles/cards \
               analysis/BASELINE_NOTE_IDS.json \
               analysis/COVERAGE.json \

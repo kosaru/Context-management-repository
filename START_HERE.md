@@ -33,10 +33,10 @@
 
 1. `context/CURRENT.md`
 2. `indexes/CROSS_RECONSTRUCTION.md`
-3. `analysis/EXPORT_CORPUS_OVERVIEW.md`
-4. `analysis/PHASE_01_...` から `analysis/PHASE_06_...`
-5. `indexes/CURRENT_POSITIONS.md`
-6. `indexes/LINEAGES.md`
+3. `indexes/LINEAGES.md`
+4. `analysis/EXPORT_CORPUS_OVERVIEW.md`
+5. `analysis/PHASE_01_...` から `analysis/PHASE_06_...`
+6. `indexes/CURRENT_POSITIONS.md`
 7. 必要に応じて既存のテーマ・概念・問い索引と記事カード
 
 ## 縦読みと横断読み
@@ -81,6 +81,15 @@
 9. 未解決の緊張
 10. 縦読み索引の更新候補
 
+`indexes/LINEAGES.md`は、横断再構築を六本の幹へまとめる。
+
+1. 生活が壊れない条件から、人類継続・文明保存・減速へ
+2. 社会を止めずに変える――保存・再設計・回転・責任配置
+3. 負荷を一人へ集中させない――Security・Comfort・内部条件・退出可能性
+4. 倫理と主体を人格から生成構造へ戻す
+5. 単線化された説明を、検証可能な場所へ戻す
+6. AIとの関係を、答えから読解・修復へ移す
+
 後から見えた体系を初期記事へ遡及して書き込まず、縦読みと横断読みを照合して更新する。
 
 ## 既存の横断索引
@@ -92,8 +101,9 @@
 - `indexes/QUESTIONS.md`
 - `indexes/UNRESOLVED_QUESTIONS.md`
 - `indexes/CURRENT_POSITIONS.md`
-- `indexes/LINEAGES.md`
 - `articles/INDEX.md`
+
+`indexes/LINEAGES.md`は全351記事版へ更新済み。
 
 ## 現在の作業
 
@@ -106,9 +116,9 @@
 ### フェーズB：横断再構築
 
 1. 横断再構築インデックス初版を作る。完了。
-2. 主要系譜候補について、初出・分岐・合流・統合稿を確定する。
-3. 既存25記事カードへ、初出・前史・統合稿・一般読者向け再構成などの役割を追記する。
-4. `LINEAGES.md`を全351記事版へ再構築する。
+2. 主要系譜候補について、初出・分岐・合流・統合稿を整理する。完了。
+3. `LINEAGES.md`を全351記事版へ再構築する。完了。
+4. 既存25記事カードへ、初出・前史・統合稿・一般読者向け再構成などの役割を追記する。
 5. `CURRENT_POSITIONS.md`、`THEMES.md`、`CONCEPTS.md`、`QUESTIONS.md`、`UNRESOLVED_QUESTIONS.md`を更新する。
 6. 横断整理から見えた修正を、必要な時期別文書へ補記として戻す。
 
@@ -153,7 +163,8 @@
 - 後期記事の多くが初出ではなく、前史を統合した再構成稿であることを確認済み
 - 保存・再設計・回転、文明保存、Security・Comfort、責任配置、翻訳層、AI稽古論の形成過程を確認済み
 - 横断再構築インデックス初版を作成済み
-- 全351記事版の系譜・索引再構築へ移行済み
+- 全351記事版の六系譜を再構築済み
+- 次は記事役割と他の横断索引を全記事版へ更新する段階
 - 全体索引完成後の定期スクレイピング運用方針は確定済み
 
 ## note

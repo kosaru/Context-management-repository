@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Generate a machine-maintained index of canonical note article cards.
+"""Generate a machine-maintained article and analysis index.
 
-Card paths and individual-card status come from article cards. Current public
-metadata comes from sources/note/catalog.json. Corpus-level analysis coverage
-comes from analysis/COVERAGE.json. These are deliberately shown separately so
-an unreviewed auto-generated card is not mistaken for an unanalyzed article.
+The index covers every catalogued note article. Public metadata comes from
+sources/note/catalog.json, corpus-level analysis coverage comes from
+analysis/COVERAGE.json, and an individual card is linked only when one actually
+exists. Articles analyzed through a phase bundle do not need empty placeholder
+cards.
 """
 
 from __future__ import annotations
@@ -31,12 +32,14 @@ CARD_STATUS_LABELS = {
     "reviewed": "個別カード精査済み",
     "proposed": "個別カード案",
     "unreviewed": "個別カード未精査",
+    "missing": "個別カードなし",
     "unknown": "個別カード状態不明",
 }
 ANALYSIS_STATE_LABELS = {
     "covered": "文脈解析済み",
     "pending": "文脈未解析",
     "deferred": "文脈判定保留",
+    "unknown": "文脈状態不明",
 }
 
 
@@ -48,10 +51,6 @@ def card_info(path: Path) -> dict[str, str]:
         "status": data.get("status", "unknown"),
         "published_at": data.get("published_at", ""),
         "note_url": data.get("note_url", ""),
-        "public_status": "unknown",
-        "analysis_state": "unknown",
-        "analysis_label": "",
-        "analysis_ref": "",
         "relative_path": path.relative_to(INDEX_PATH.parent).as_posix(),
         "absolute_path": path.as_posix(),
     }
@@ -93,37 +92,54 @@ def load_articles(path: Path) -> dict[str, dict[str, Any]]:
     return articles if isinstance(articles, dict) else {}
 
 
-def canonical_cards() -> list[dict[str, str]]:
+def coverage_for(note_id: str) -> dict[str, Any] | None:
+    value = load_articles(COVERAGE_PATH).get(note_id)
+    return value if isinstance(value, dict) else None
+
+
+def indexed_articles() -> list[dict[str, str]]:
     catalog = load_articles(CATALOG_PATH)
     coverage = load_articles(COVERAGE_PATH)
-    cards: list[dict[str, str]] = []
-    for items in grouped_cards().values():
-        card = dict(choose_canonical(items))
-        current = catalog.get(card["id"])
-        if isinstance(current, dict):
-            for key in ("title", "published_at", "note_url", "public_status"):
-                value = current.get(key)
-                if isinstance(value, str) and value:
-                    card[key] = value
-        covered = coverage.get(card["id"])
-        if isinstance(covered, dict):
-            for key in ("analysis_state", "analysis_label", "analysis_ref"):
-                value = covered.get(key)
-                if isinstance(value, str) and value:
-                    card[key] = value
-        cards.append(card)
-    cards.sort(
-        key=lambda item: (item["published_at"], item["id"]),
-        reverse=True,
-    )
-    return cards
+    cards = grouped_cards()
+    note_ids = set(catalog) | set(coverage) | set(cards)
+    rows: list[dict[str, str]] = []
+
+    for note_id in note_ids:
+        current = catalog.get(note_id, {})
+        covered = coverage.get(note_id, {})
+        card_items = cards.get(note_id, [])
+        card = choose_canonical(card_items) if card_items else None
+
+        row = {
+            "id": note_id,
+            "title": str(current.get("title") or (card or {}).get("title") or note_id),
+            "published_at": str(
+                current.get("published_at") or (card or {}).get("published_at") or ""
+            ),
+            "note_url": str(current.get("note_url") or (card or {}).get("note_url") or ""),
+            "public_status": str(current.get("public_status") or "unknown"),
+            "analysis_state": str(covered.get("analysis_state") or "unknown"),
+            "analysis_label": str(covered.get("analysis_label") or ""),
+            "analysis_ref": str(covered.get("analysis_ref") or ""),
+            "card_status": str((card or {}).get("status") or "missing"),
+            "card_path": str((card or {}).get("relative_path") or ""),
+        }
+        rows.append(row)
+
+    rows.sort(key=lambda item: (item["published_at"], item["id"]), reverse=True)
+    return rows
 
 
-def analysis_cell(card: dict[str, str]) -> str:
-    state = card.get("analysis_state", "unknown")
+def canonical_cards() -> list[dict[str, str]]:
+    """Backward-compatible alias for callers expecting the generated rows."""
+    return indexed_articles()
+
+
+def analysis_cell(article: dict[str, str]) -> str:
+    state = article.get("analysis_state", "unknown")
     state_label = ANALYSIS_STATE_LABELS.get(state, f"文脈状態：{state}")
-    label = card.get("analysis_label", "")
-    ref = card.get("analysis_ref", "")
+    label = article.get("analysis_label", "")
+    ref = article.get("analysis_ref", "")
     if label and ref:
         return f"{state_label}（[{label}](../{ref})）"
     if label:
@@ -131,56 +147,76 @@ def analysis_cell(card: dict[str, str]) -> str:
     return state_label
 
 
-def card_status_label(status: str) -> str:
-    return CARD_STATUS_LABELS.get(status, f"個別カード：{status}")
+def card_cell(article: dict[str, str]) -> str:
+    status = article.get("card_status", "missing")
+    label = CARD_STATUS_LABELS.get(status, f"個別カード：{status}")
+    path = article.get("card_path", "")
+    if path:
+        return f"[{label}]({path})"
+    if article.get("analysis_state") == "covered":
+        return "個別カードなし（資料束・横断索引で解析）"
+    return label
+
+
+def article_cell(article: dict[str, str]) -> str:
+    title = article["title"].replace("|", "\\|")
+    card_path = article.get("card_path", "")
+    note_url = article.get("note_url", "")
+    if card_path:
+        return f"[{title}]({card_path})"
+    if note_url:
+        return f"[{title}]({note_url})"
+    return title
 
 
 def write_index() -> None:
-    cards = canonical_cards()
-    analysis_counts = Counter(card.get("analysis_state", "unknown") for card in cards)
-    card_counts = Counter(card.get("status", "unknown") for card in cards)
+    articles = indexed_articles()
+    analysis_counts = Counter(
+        article.get("analysis_state", "unknown") for article in articles
+    )
+    card_counts = Counter(article.get("card_status", "missing") for article in articles)
     individually_reviewed = card_counts.get("analyzed", 0) + card_counts.get("reviewed", 0)
-    individually_unreviewed = card_counts.get("unreviewed", 0)
+    cards_present = len(articles) - card_counts.get("missing", 0)
 
     lines = [
-        "# 記事カード索引",
+        "# 記事・解析索引",
         "",
         "このファイルは収集処理が自動生成する。人間が編集する全体案内は `INDEX.md` を参照する。",
         "",
-        "**ここでいう「個別カード未精査」は、記事本文が未分析という意味ではない。**",
-        "第1〜第6期の資料束で文脈解析済みの記事でも、自動生成された個別カードを一件ずつ整えていなければ「個別カード未精査」と表示する。",
+        "全記事を一覧化するが、全記事へ個別カードを作ることはしない。",
+        "時期別資料束や横断索引で解析済みの記事は、その解析単位へ直接リンクする。個別カードは、一件単位で独立した分析が必要な記事と、新着の確認待ち記事だけに置く。",
         "",
         "```text",
         "文脈解析状態",
         "  → 記事本文が、どの解析単位で読まれているか",
         "",
-        "個別カード状態",
-        "  → その記事専用のカードが、一件単位で精査されているか",
+        "個別カード",
+        "  → 記事専用の分析文書が存在するか",
         "```",
         "",
-        "note IDを主キーとする。公開日・タイトル・公開状態は状態目録、文脈解析状態はカバレッジ台帳、個別カード状態は記事カードを正本とする。",
+        "note IDを主キーとする。公開日・タイトル・公開状態は状態目録、文脈解析状態はカバレッジ台帳、個別カードの有無と状態は記事カードを正本とする。",
         "",
-        "公開日が変わっても、解析済みカードを自動改名・上書きしない。",
-        "",
-        f"- 登録記事：{len(cards)}件",
+        f"- 登録記事：{len(articles)}件",
         f"- 文脈解析済み：{analysis_counts.get('covered', 0)}件",
         f"- 文脈未解析：{analysis_counts.get('pending', 0)}件",
         f"- 文脈判定保留：{analysis_counts.get('deferred', 0)}件",
+        f"- 個別カードあり：{cards_present}件",
         f"- 個別カード精査済み：{individually_reviewed}件",
-        f"- 個別カード未精査：{individually_unreviewed}件",
+        f"- 個別カードなし：{card_counts.get('missing', 0)}件",
         "",
         "| 公開日 | note ID | 記事 | 文脈解析 | 個別カード | 公開状態 | note |",
         "|---|---|---|---|---|---|---|",
     ]
-    for card in cards:
-        title = card["title"].replace("|", "\\|")
-        url_cell = f"[公開本文]({card['note_url']})" if card["note_url"] else "-"
-        lines.append(
-            f"| {card['published_at']} | `{card['id']}` | "
-            f"[{title}]({card['relative_path']}) | {analysis_cell(card)} | "
-            f"{card_status_label(card['status'])} | {card['public_status']} | {url_cell} |"
+    for article in articles:
+        url_cell = (
+            f"[公開本文]({article['note_url']})" if article["note_url"] else "-"
         )
-    if not cards:
+        lines.append(
+            f"| {article['published_at']} | `{article['id']}` | "
+            f"{article_cell(article)} | {analysis_cell(article)} | "
+            f"{card_cell(article)} | {article['public_status']} | {url_cell} |"
+        )
+    if not articles:
         lines.append("| - | - | まだ登録されていません | - | - | - | - |")
     INDEX_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 

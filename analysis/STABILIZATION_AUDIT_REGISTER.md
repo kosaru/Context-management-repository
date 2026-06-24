@@ -11,6 +11,15 @@
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
+## 個別カード73件の一次洗い出し
+
+- `CONFIRMED`：3件
+- `HIGH-RISK`：67件
+- `PENDING`：3件
+- `PASSED`：0件
+
+HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
+
 ## リスク記号
 
 - `R1` 拒否を条件付き許容へ変えた
@@ -27,3 +36,26 @@
 - `R12` 矛盾・撤回・飛躍を発展史へ整えた
 - `R13` 強い表現を柔らかい機能語へ置き換えた
 - `R14` 目的・意図・利害の区別を過剰適用した
+
+## 分割台帳
+
+- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件
+- `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件
+- `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件
+- `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件
+- `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
+- `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
+- `analysis/stabilization_audit/OPERATIONS.md`
+
+## 確認済み3件
+
+- `nee567e7bf172`：社会的事実・企業利益・意図の区別を過剰適用し、元文章の構造批判を弱めた
+- `ne5105ace2279`：OpenAIの設計思想への批判を、市場圧力と意図未確認へ移した
+- `ndcca526034cf`：世界そのものへの拒否を、負担管理の条件へ変えた
+
+## 監査方法
+
+- `analysis/STABILIZATION_AUDIT_METHOD.md`
+- `templates/article-card-strength-audit.md`
+
+カードの存在・内容記入と、強度監査通過を分ける。PASSEDになるまで信頼済み分析として扱わない。

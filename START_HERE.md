@@ -1,13 +1,13 @@
 # START HERE
 
-このリポジトリは、匿名noteの記事本文を再保管するためではなく、記事同士のつながりと、そこから育った思考の文脈を共有するための場所です。
+このリポジトリは、匿名noteの記事本文を再保管するためではなく、記事同士のつながりと、そこから育った思考の文脈を共有し、次の思考と設計を生み出すための場所です。
 
 ## 正本の切り分け
 
 - 公開中の最新本文：note公開ページ
 - 初期コーパスと過去記事目録：noteエクスポート
 - 新着・更新・公開状態の差分：定期同期
-- 文脈・系譜・現在地：このリポジトリ
+- 文脈・系譜・現在地・次期研究：このリポジトリ
 - 作業中の解釈：暫定。確認済み事実と混同しない
 
 運用の詳細：
@@ -45,23 +45,101 @@
 - コンパクト地図：全記事の所在、冒頭要旨、接続候補を探す
 - 個別カード：転換点、統合稿、修正、反例などを詳しく読む
 
+## 現在の段階
+
+```text
+第A段階：収集と初期解析
+  → 完了
+
+第B段階：縦読み・横断再構築
+  → 完了
+
+第C段階：新着・更新の継続運用
+  → 稼働中
+
+第D段階：未解決問題から理論・制度・記事を作る
+  → 開始
+```
+
+第D段階の中心課題：
+
+> 必要な機能を継続させながら、その維持コストを現在の個人・家庭・現場へ固定しない設計は可能か。
+
+参照：
+
+- `context/NEXT.md`
+- `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
+- `research/CONTINUITY_DESIGN_KERNEL.md`
+
 ## 読む順番
 
 1. `context/CURRENT.md`
-2. `indexes/CROSS_RECONSTRUCTION.md`
-3. `indexes/LINEAGES.md`
-4. `indexes/CURRENT_POSITIONS.md`
-5. `indexes/THEMES.md`
-6. `indexes/CONCEPTS.md`
-7. `indexes/QUESTIONS.md`
-8. `indexes/UNRESOLVED_QUESTIONS.md`
-9. `articles/COMPACT_MAP.md`
-10. `articles/INDEX.md`
-11. `articles/CROSS_ROLES.md`
-12. `analysis/VERTICAL_HORIZONTAL_CROSSCHECK.md`
-13. 必要な時期別資料束・個別カード
+2. `context/NEXT.md`
+3. `research/CONTINUITY_DESIGN_KERNEL.md`
+4. `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
+5. `indexes/CROSS_RECONSTRUCTION.md`
+6. `indexes/LINEAGES.md`
+7. `indexes/CURRENT_POSITIONS.md`
+8. `indexes/THEMES.md`
+9. `indexes/CONCEPTS.md`
+10. `indexes/QUESTIONS.md`
+11. `indexes/UNRESOLVED_QUESTIONS.md`
+12. `articles/COMPACT_MAP.md`
+13. `articles/INDEX.md`
+14. `articles/CROSS_ROLES.md`
+15. `analysis/VERTICAL_HORIZONTAL_CROSSCHECK.md`
+16. 必要な時期別資料束・個別カード
 
 機械的な全件一覧は `articles/CARD_INDEX.md` を参照する。
+
+---
+
+# 第D段階――次の思考を生む
+
+過去記事の整理を続けるだけではなく、整理によって見えた緊張を、規範、事実、制度、運用へ分解する。
+
+```text
+整理された概念
+→ 未解決の緊張を選ぶ
+→ 設計原則を作る
+→ 具体領域へ適用する
+→ 抵抗した具象で原則を修正する
+→ 新しい記事・研究・道具へ戻す
+```
+
+## 四本柱
+
+### 継続の規範核
+
+人類継続、文明保存、自由、離脱権、修正可能性の関係を明示する。
+
+### 制度の作動核
+
+保存・再設計・回転、責任配置、決定、監査、退出を制度部品へ降ろす。
+
+### 生活と経済の内部条件
+
+Security、Comfort、内部SLA、減速を、担当配置、契約、指標、報酬へ変換する。
+
+### 情報・AI・修復の統治
+
+検証可能性、質問可能性、社会的事実、Repairを情報環境の監査と再設計へ降ろす。
+
+## 最初の成果物
+
+1. `research/SACRIFICE_FIXATION_AUDIT.md`
+2. `research/RESPONSIBILITY_ALLOCATION_MATRIX.md`
+3. `research/VERIFIABLE_PROVISIONAL_DECISION.md`
+4. `research/SECURITY_COMFORT_ALLOCATION.md`
+5. `research/SOCIAL_FACT_REVERSE_FLOW.md`
+
+## 最初の適用領域
+
+1. 組織と仕事
+2. 都市と生活圏
+3. メディアとAI
+
+三領域で壊れた原則を修正してから、減速、文明保存、国際秩序へ戻す。
 
 ---
 

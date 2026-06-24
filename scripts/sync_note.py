@@ -2,8 +2,10 @@
 """Incrementally synchronize public note articles into the context repository.
 
 The note ID is the primary key. The collector keeps public-page snapshots,
-creates cards only for previously unseen articles, records metadata/body changes,
-and never rewrites analyzed cards.
+creates a pending card only for a previously unseen or currently unassigned
+article, records metadata/body changes, and never rewrites analyzed cards.
+Articles already covered by a phase bundle or cross index do not need empty
+individual-card placeholders.
 
 Normal runs fetch article pages only when:
 - the note ID is new,
@@ -12,7 +14,7 @@ Normal runs fetch article pages only when:
 - --verify-all is requested.
 
 A complete creator-API discovery may mark previously known articles as
-missing-from-public-index, but it never deletes snapshots or cards.
+missing-from-public-index, but it never deletes snapshots or analyzed cards.
 """
 
 from __future__ import annotations
@@ -130,6 +132,7 @@ def bootstrap_catalog(catalog: dict[str, Any], now: str) -> int:
         if not note_id or note_id in articles:
             continue
         card = note_index.canonical_card(note_id)
+        coverage = note_index.coverage_for(note_id) or {}
         first_seen = record["fetched_at"] or now
         articles[note_id] = {
             "note_id": note_id,
@@ -144,7 +147,11 @@ def bootstrap_catalog(catalog: dict[str, Any], now: str) -> int:
             "public_status": "public",
             "snapshot_path": record["snapshot_path"],
             "card_path": card["relative_path"] if card else "",
-            "analysis_status": card["status"] if card else "missing",
+            "analysis_status": (
+                card["status"]
+                if card
+                else str(coverage.get("analysis_state") or "missing")
+            ),
         }
         added += 1
     return added
@@ -192,10 +199,18 @@ def source_hash(article: base.Article) -> str:
 
 
 def ensure_card(article: base.Article) -> tuple[str, str, bool]:
-    """Return card path/status and create an unreviewed card only when absent."""
+    """Create an individual card only when coverage does not already exist."""
     existing = note_index.canonical_card(article.note_id)
     if existing:
         return existing["relative_path"], existing["status"], False
+
+    coverage = note_index.coverage_for(article.note_id) or {}
+    if (
+        coverage.get("analysis_state") == "covered"
+        and coverage.get("coverage_type") != "individual_card"
+    ):
+        return "", str(coverage.get("analysis_state") or "covered"), False
+
     created = base.write_card(article, overwrite=False)
     card = note_index.canonical_card(article.note_id)
     if card is None:

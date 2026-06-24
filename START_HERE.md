@@ -35,10 +35,14 @@
 2. `indexes/CROSS_RECONSTRUCTION.md`
 3. `indexes/LINEAGES.md`
 4. `indexes/CURRENT_POSITIONS.md`
-5. `articles/CROSS_ROLES.md`
-6. `analysis/EXPORT_CORPUS_OVERVIEW.md`
-7. `analysis/PHASE_01_...` から `analysis/PHASE_06_...`
-8. 必要に応じて既存のテーマ・概念・問い索引と記事カード
+5. `indexes/THEMES.md`
+6. `indexes/CONCEPTS.md`
+7. `indexes/QUESTIONS.md`
+8. `indexes/UNRESOLVED_QUESTIONS.md`
+9. `articles/CROSS_ROLES.md`
+10. `analysis/EXPORT_CORPUS_OVERVIEW.md`
+11. `analysis/PHASE_01_...` から `analysis/PHASE_06_...`
+12. 必要に応じて記事カード
 
 ## 縦読みと横断読み
 
@@ -106,18 +110,16 @@
 
 後から見えた体系を初期記事へ遡及して書き込まず、縦読みと横断読みを照合して更新する。
 
-## 既存の横断索引
-
-以下は全351記事版への更新状況である。
+## 横断索引の更新状況
 
 - `indexes/CROSS_RECONSTRUCTION.md`：全記事版初版を作成済み
 - `indexes/LINEAGES.md`：全351記事版へ更新済み
 - `indexes/CURRENT_POSITIONS.md`：全351記事版へ更新済み
+- `indexes/THEMES.md`：全351記事版へ更新済み
+- `indexes/CONCEPTS.md`：全351記事版へ更新済み
+- `indexes/QUESTIONS.md`：全351記事版へ更新済み
+- `indexes/UNRESOLVED_QUESTIONS.md`：全351記事版へ更新済み
 - `articles/CROSS_ROLES.md`：既存25記事の横断役割を作成済み
-- `indexes/THEMES.md`：旧25記事版。更新待ち
-- `indexes/CONCEPTS.md`：旧25記事版。更新待ち
-- `indexes/QUESTIONS.md`：旧25記事版。更新待ち
-- `indexes/UNRESOLVED_QUESTIONS.md`：旧25記事版。更新待ち
 - `articles/INDEX.md`：進捗表示・重複行の整理待ち
 
 ## 現在の作業
@@ -135,10 +137,11 @@
 3. `LINEAGES.md`を全351記事版へ再構築する。完了。
 4. 既存25記事の横断役割を整理する。完了。
 5. `CURRENT_POSITIONS.md`を全351記事版へ更新する。完了。
-6. `THEMES.md`、`CONCEPTS.md`、`QUESTIONS.md`、`UNRESOLVED_QUESTIONS.md`を更新する。
+6. `THEMES.md`、`CONCEPTS.md`、`QUESTIONS.md`、`UNRESOLVED_QUESTIONS.md`を更新する。完了。
 7. 必要な記事カードへ横断位置づけを追記する。
 8. 横断整理から見えた修正を、必要な時期別文書へ補記として戻す。
 9. `articles/INDEX.md`の古い進捗表示と日付違いによる重複行を整理する。
+10. 縦読みインデックスと横断インデックスを最終照合する。
 
 時期別文書を後期の完成形へ全面改稿しない。
 
@@ -182,8 +185,8 @@
 - 横断再構築インデックス初版を作成済み
 - 全351記事版の六系譜を再構築済み
 - 既存25記事を、統合稿・適用稿・方法論化などへ位置づけ直し済み
-- 現在の立場を全351記事版へ更新済み
-- 次はテーマ・概念・問い・未解決問題の横断索引を更新する段階
+- 現在の立場、テーマ、概念、問い、未解決問題を全351記事版へ更新済み
+- 次は個別カード・時期別文書・記事索引へ必要な補正を戻し、縦横を最終照合する段階
 - 全体索引完成後の定期スクレイピング運用方針は確定済み
 
 ## note

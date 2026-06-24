@@ -75,7 +75,12 @@ jobs:
             scripts/collect_note.py \
             scripts/note_index.py \
             scripts/update_analysis_coverage.py \
-            scripts/sync_review_issue.py
+            scripts/finalize_analysis_coverage.py \
+            scripts/sync_review_issue.py \
+            tests/test_note_context_ops.py
+
+      - name: Run note context operation tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
 
       - name: Apply review decision
         env:

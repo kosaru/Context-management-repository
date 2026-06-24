@@ -29,6 +29,7 @@ on:
       - "scripts/sync_note.py"
       - "scripts/note_index.py"
       - "scripts/dedupe_note_cards.py"
+      - "scripts/prune_empty_note_cards.py"
       - "scripts/update_analysis_coverage.py"
       - "scripts/finalize_analysis_coverage.py"
       - "scripts/sync_review_issue.py"
@@ -68,6 +69,7 @@ jobs:
             scripts/sync_note.py \
             scripts/note_index.py \
             scripts/dedupe_note_cards.py \
+            scripts/prune_empty_note_cards.py \
             scripts/update_analysis_coverage.py \
             scripts/finalize_analysis_coverage.py \
             scripts/sync_review_issue.py \
@@ -100,6 +102,12 @@ jobs:
 
       - name: Regenerate coverage summary and review queue
         run: python scripts/update_analysis_coverage.py
+
+      - name: Remove empty cards already covered by bundles
+        run: python scripts/prune_empty_note_cards.py
+
+      - name: Regenerate article and analysis index
+        run: python scripts/note_index.py
 
       - name: Commit synchronization results
         run: |

@@ -29,6 +29,7 @@ on:
       - "scripts/sync_note.py"
       - "scripts/note_index.py"
       - "scripts/dedupe_note_cards.py"
+      - "scripts/update_analysis_coverage.py"
       - "requirements.txt"
 
 permissions:
@@ -62,7 +63,8 @@ jobs:
             scripts/collect_note_api.py \
             scripts/sync_note.py \
             scripts/note_index.py \
-            scripts/dedupe_note_cards.py
+            scripts/dedupe_note_cards.py \
+            scripts/update_analysis_coverage.py
 
       - name: Synchronize articles
         env:
@@ -80,6 +82,9 @@ jobs:
       - name: Deduplicate cards by note ID
         run: python scripts/dedupe_note_cards.py
 
+      - name: Update analysis coverage and review queue
+        run: python scripts/update_analysis_coverage.py
+
       - name: Commit synchronization results
         run: |
           if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
@@ -91,6 +96,9 @@ jobs:
           git add \
             articles/CARD_INDEX.md \
             articles/cards \
+            analysis/COVERAGE.json \
+            analysis/COVERAGE.md \
+            review/INBOX.md \
             sources/note
           git commit -m "Synchronize note articles"
           git pull --rebase

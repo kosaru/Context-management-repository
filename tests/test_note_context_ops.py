@@ -46,13 +46,13 @@ class CoverageMappingTests(unittest.TestCase):
         self.assertEqual([], unmapped)
         self.assertEqual(
             {
-                "phase_01": 74,
+                "phase_01": 64,
                 "phase_02": 101,
                 "phase_03": 85,
                 "phase_04": 29,
                 "phase_05": 21,
                 "phase_06": 16,
-                "individual_card": 25,
+                "individual_card": 35,
             },
             dict(counts),
         )

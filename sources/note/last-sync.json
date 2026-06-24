@@ -1,5 +1,5 @@
 {
-  "bootstrapped_catalog_records": 351,
+  "bootstrapped_catalog_records": 0,
   "complete_discovery": true,
   "discovered_count": 351,
   "discovery": {
@@ -424,16 +424,16 @@
     ],
     "termination_reason": "explicit_last_page"
   },
-  "events_written": 4,
+  "events_written": 0,
   "failure_count": 0,
   "failures": [],
-  "fetched_count": 4,
+  "fetched_count": 0,
   "limit": 0,
-  "metadata_change_count": 4,
+  "metadata_change_count": 0,
   "missing_from_public_index_count": 0,
   "new_card_count": 0,
   "profile": "https://note.com/shirokuma1970",
-  "recorded_at": "2026-06-24T01:41:08+00:00",
+  "recorded_at": "2026-06-24T01:45:02+00:00",
   "seen_note_ids": 351,
   "source_changed_count": 0,
   "verify_all": false

@@ -22,6 +22,7 @@ on:
   push:
     paths:
       - ".github/workflows/collect-note.yml"
+      - "articles/cards/**"
       - "scripts/collect_note.py"
       - "scripts/collect_note_api.py"
       - "scripts/sync_note.py"

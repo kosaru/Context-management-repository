@@ -21,8 +21,8 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：42件
-- コンパクト地図のみ：309件
+- 詳細な個別カード：49件
+- コンパクト地図のみ：302件
 - 空の未解析カード：0件
 
 ```text
@@ -59,16 +59,15 @@
 
 ## 第B-2段階の現在地
 
-残る記事を公開日順に埋めない。
-
 横断再構築から18の重要記事群を一次選定し、30件を詳細カードへの昇格候補とした。
 
 - バッチ1・方法論束：7件完了
-- 詳細カード：35件から42件へ増加
-- 残る昇格候補：23件
+- バッチ2・責任／決定／退出：7件完了
+- 詳細カード：35件から49件へ増加
+- 残る昇格候補：16件
 - 周辺記事として束で保持：28件
 
-バッチ1で確認した成立順：
+バッチ1：
 
 ```text
 型による立ち位置確認
@@ -80,14 +79,38 @@
 → 仮説の差異から共通地盤を抽出
 ```
 
-次は責任・決定・退出の束へ進む。
+バッチ2：
+
+```text
+責任の範囲と受け渡し点
+→ 決定・実行・見直しの時間分割
+→ 判断の鎖を記録
+→ 匿名相談から中間調整への導線
+→ 距離・運用・配置転換
+→ 修復・継承を始める責任連結
+→ 批判者も設計と負担を引き受ける
+```
+
+現在の方法論は、複雑さを残すだけでは閉じない。
+
+```text
+複雑さを残す
+＋ 決定時間
+＋ 判断の記録
+＋ 負担主体
+＋ 退出・停止
+＋ 修復・継承主体
+```
+
+次は継続・文明・Securityの束へ進む。
 
 参照：
 
 - `context/NEXT.md`
-- `roadmaps/PHASE_B2_KEY_ARTICLE_SELECTION.md`
 - `analysis/KEY_ARTICLE_SELECTION.md`
 - `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
+- `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
+- `roadmaps/PHASE_B2_KEY_ARTICLE_SELECTION.md`
 
 ## 第D段階との関係
 
@@ -110,20 +133,21 @@
 
 1. `context/CURRENT.md`
 2. `context/NEXT.md`
-3. `roadmaps/PHASE_B2_KEY_ARTICLE_SELECTION.md`
-4. `analysis/KEY_ARTICLE_SELECTION.md`
-5. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-6. `indexes/CROSS_RECONSTRUCTION.md`
-7. `indexes/LINEAGES.md`
-8. `indexes/CURRENT_POSITIONS.md`
-9. `indexes/THEMES.md`
-10. `indexes/CONCEPTS.md`
-11. `indexes/QUESTIONS.md`
-12. `indexes/UNRESOLVED_QUESTIONS.md`
-13. `articles/COMPACT_MAP.md`
-14. `articles/INDEX.md`
-15. 必要な時期別資料束・個別カード
-16. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
+3. `analysis/KEY_ARTICLE_SELECTION.md`
+4. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
+5. `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`
+6. `roadmaps/PHASE_B2_KEY_ARTICLE_SELECTION.md`
+7. `indexes/CROSS_RECONSTRUCTION.md`
+8. `indexes/LINEAGES.md`
+9. `indexes/CURRENT_POSITIONS.md`
+10. `indexes/THEMES.md`
+11. `indexes/CONCEPTS.md`
+12. `indexes/QUESTIONS.md`
+13. `indexes/UNRESOLVED_QUESTIONS.md`
+14. `articles/COMPACT_MAP.md`
+15. `articles/INDEX.md`
+16. 必要な時期別資料束・個別カード
+17. 将来準備として `roadmaps/PHASE_D_CONTINUITY_WITHOUT_SACRIFICE.md`
 
 ## 六系譜
 
@@ -140,6 +164,7 @@
 
 - `scripts/sync_note.py`：note ID単位の増分同期
 - `scripts/update_analysis_coverage.py`：解析済み本文ハッシュの台帳
+- `scripts/refresh_card_coverage.py`：本文変更がない詳細カードだけ解析参照を安全に昇格
 - `scripts/prune_empty_note_cards.py`：空カードだけを安全に削除
 - `scripts/build_compact_article_map.py`：全件コンパクト地図の再生成
 - `.github/workflows/collect-note.yml`：週次同期・月次全件検証・カード変更時の索引更新

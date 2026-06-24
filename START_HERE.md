@@ -16,8 +16,8 @@
 - 対象期間：2026-01-24〜2026-06-23
 - 時期別資料束で文脈読解済み：351件
 - コンパクト地図へ掲載：351件
-- 詳細な個別カード：67件
-- コンパクト地図のみ：284件
+- 詳細な個別カード：70件
+- コンパクト地図のみ：281件
 - 空の未解析カード：0件
 
 ```text
@@ -65,26 +65,12 @@
 4. AI／情報／Repair：5件
 5. 政治機能／国際秩序：5件
 
-詳細カードは35件から65件へ増加した。
-
 ## B群再判定1――AI企業の方向
 
 2記事を詳細カードへ昇格した。
 
 - `n9ebf441f85ab`　AIはどこに入り込もうとしているのか
 - `ne5105ace2279`　OpenAIはポピュリズムに寄っているのではないか
-
-### 残した独自層
-
-```text
-AI Repair
-→ 対話内部の誤読・安定化・関係修復
-
-AI製品統治
-→ 応答特性がどの評価・市場・事業回路で選ばれるか
-```
-
-### 批評時の分離
 
 ```text
 観測されたAI出力
@@ -95,9 +81,61 @@ AI製品統治
 → 企業・設計者の意図
 ```
 
-出力から意図へ直接飛ばない。
+出力から意図へ直接飛ばない。ただし意図が未確認でも、予見可能で変更可能な反復効果への設計責任は残る。
 
-ただし意図が未確認でも、企業が変更可能で、反復効果を予見でき、利用者が回避できない設計には説明責任が残る。
+## B群再判定2――二項対立とAI
+
+3記事を詳細カードへ昇格した。
+
+- `nd77d3ea83d56`　二項対立はなくならない
+- `n360b7b29f068`　語る場と決める場を分ける
+- `necfb29c22f74`　AIは二項対立から抜け出せるか
+
+### 二項対立の変質
+
+```text
+仮の補助線
+→ 論点を立てる
+
+配属線
+→ 発言より所属を先に読む
+
+動員的固定
+→ 怒り・恐怖・正義へ接続し、修正不能化する
+```
+
+二項対立そのものを消すのではなく、仮の切断が配属・動員・固定化へ変わる回路を止める。
+
+### 語る場と決める場
+
+```text
+語る場
+→ 複雑さ・別軸・未確認点を保持する
+
+決める場
+→ 暫定的に線を引き、負担と責任を引き受ける
+```
+
+```text
+役割は分ける
+＋ 回路はつなぐ
+＋ 決定後に再び語る場へ戻す
+```
+
+### AIの三機能
+
+```text
+保存
+→ 問いの芯・共有前提・暫定固定を保持する
+
+再設計
+→ 文脈の内側から別軸・弱点・可能性を押し広げる
+
+回転
+→ 保存の教義化と再設計の無限攪拌を防ぎ、往復可能性を保つ
+```
+
+回転は中間化・両論併記・均衡ではない。
 
 ## 現在の主要モデル
 
@@ -106,27 +144,27 @@ AI製品統治
 3. `indexes/AI_REPAIR_MODEL.md`
 4. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
 5. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+6. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
 
 これらは完成理論ではない。記事群から抽出した仮置きであり、B群・抵抗記事によって修正される可能性がある。
 
 ## 次の作業
 
-B-06「二項対立とAI」の3記事を再判定する。
+B-01「Security・帰還可能性」の2記事を再判定する。
 
-- `n360b7b29f068`
-- `nd77d3ea83d56`
-- `necfb29c22f74`
+- `n2f379dd24aa9`
+- `n5968f6dee1ef`
 
 ```text
-二項対立を思考道具として使う
+生活の底を保障する
 と
-二項対立へ居付く
+失敗・移動・関係変更後に戻れる
 を分ける
 
-対立を消さない
+制度上の保障
 と
-AIが双方を均衡化して論点を薄める
-を分ける
+心理的安心
+を混同しない
 ```
 
 ## 読む順番
@@ -135,19 +173,21 @@ AIが双方を均衡化して論点を薄める
 2. `context/NEXT.md`
 3. `analysis/KEY_ARTICLE_SELECTION.md`
 4. `analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md`
-5. `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
-6. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
-7. `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`
-8. `indexes/AI_REPAIR_MODEL.md`
-9. `analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md`
-10. `indexes/ORDER_RENEGOTIATION_MODEL.md`
-11. `indexes/CROSS_RECONSTRUCTION.md`
-12. `indexes/LINEAGES.md`
-13. `indexes/CURRENT_POSITIONS.md`
-14. `indexes/UNRESOLVED_QUESTIONS.md`
-15. `articles/COMPACT_MAP.md`
-16. `articles/INDEX.md`
-17. 必要な時期別資料束・個別カード
+5. `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md`
+6. `indexes/BINARY_OPPOSITION_ROTATION_MODEL.md`
+7. `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md`
+8. `indexes/AI_PRODUCT_GOVERNANCE_MODEL.md`
+9. `indexes/AI_REPAIR_MODEL.md`
+10. `indexes/RESPONSIBILITY_MODEL.md`
+11. `indexes/CONTINUITY_MODEL.md`
+12. `indexes/ORDER_RENEGOTIATION_MODEL.md`
+13. `indexes/CROSS_RECONSTRUCTION.md`
+14. `indexes/LINEAGES.md`
+15. `indexes/CURRENT_POSITIONS.md`
+16. `indexes/UNRESOLVED_QUESTIONS.md`
+17. `articles/COMPACT_MAP.md`
+18. `articles/INDEX.md`
+19. 必要な時期別資料束・個別カード
 
 ## 六系譜
 
@@ -157,17 +197,6 @@ AIが双方を均衡化して論点を薄める
 4. 倫理と主体を人格から生成構造へ戻す
 5. 単線化された説明を、検証可能な場所へ戻す
 6. AIとの関係を、答えから読解・修復・製品統治へ移す
-
-## 継続運用
-
-- `scripts/sync_note.py`：note ID単位の増分同期
-- `scripts/update_analysis_coverage.py`：解析済み本文ハッシュの台帳
-- `scripts/refresh_card_coverage.py`：本文変更がない詳細カードだけ解析参照を安全に昇格
-- `scripts/prune_empty_note_cards.py`：空カードだけを安全に削除
-- `scripts/build_compact_article_map.py`：全件コンパクト地図の再生成
-- `.github/workflows/collect-note.yml`：週次同期・月次全件検証・カード変更時の索引更新
-
-新着・変更記事も既存六系譜へ自動回収しない。
 
 ## note
 

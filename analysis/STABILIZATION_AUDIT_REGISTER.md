@@ -13,23 +13,23 @@
 既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：50件
+- 改稿候補・ユーザー確認待ち：52件
 - 使用停止・安定化確認済み：1件
-- 未処理：22件
+- 未処理：20件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
 ## 個別カード73件の現在地
 
-- `REWRITTEN-PENDING-USER`：50件
+- `REWRITTEN-PENDING-USER`：52件
 - `CONFIRMED-WITHDRAWN`：1件
-- `HIGH-RISK`：20件
-- `PENDING`：2件
+- `HIGH-RISK`：19件
+- `PENDING`：1件
 - `PASSED`：0件
 
 HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
 
-## 改稿候補50件
+## 改稿候補52件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -81,6 +81,8 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 - `n3c1766637717`　人生のゆとりと効率化の弊害
 - `n9189519559b6`　話が飛んでいるようで、飛んでいない――具象を包摂し、上位概念を組み替える思考
 - `n8608abc16b0e`　型をそのままにするな、技を切り離したままにするな
+- `n3f1b99d428b4`　活性酸素を悪者にすると、身体の循環が見えなくなる
+- `n11cae8fdcf99`　複雑さを知ることは、防御になる
 
 ## 使用停止1件
 
@@ -105,7 +107,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 
 ## 分割台帳
 
-- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（3件改稿候補、22件未処理）
+- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（5件改稿候補、20件未処理）
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件（16件改稿候補、1件撤回、未処理0件）
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）

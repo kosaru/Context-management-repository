@@ -1,6 +1,6 @@
 # 安定化監査台帳
 
-更新日：2026-06-25
+更新日：2026-06-26
 
 ## 恒久事故記録
 
@@ -13,23 +13,23 @@
 既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：35件
+- 改稿候補・ユーザー確認待ち：36件
 - 使用停止・安定化確認済み：1件
-- 未処理：37件
+- 未処理：36件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
 ## 個別カード73件の現在地
 
-- `REWRITTEN-PENDING-USER`：35件
+- `REWRITTEN-PENDING-USER`：36件
 - `CONFIRMED-WITHDRAWN`：1件
-- `HIGH-RISK`：34件
+- `HIGH-RISK`：33件
 - `PENDING`：3件
 - `PASSED`：0件
 
 HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
 
-## 改稿候補35件
+## 改稿候補36件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -66,6 +66,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 - `n76a3521b3b86`　寛解は「心」ではなく「配置」で起こる
 - `n665904cda2c6`　決定ログテンプレという提案
 - `n57ddc084732b`　私はなぜ責任配置をそこまで気にするのか
+- `ne9a567f98d25`　なぜ現代のリベラルは土台を定義できないのか
 
 ## 使用停止1件
 
@@ -92,7 +93,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 
 - `analysis/stabilization_audit/CARDS_01_LATE.md`：25件
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件
-- `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件
+- `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
 - `analysis/stabilization_audit/BATCHES_AND_CROSS.md`

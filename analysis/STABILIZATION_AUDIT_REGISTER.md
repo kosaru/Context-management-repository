@@ -13,23 +13,23 @@
 既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：56件
+- 改稿候補・ユーザー確認待ち：58件
 - 使用停止・安定化確認済み：1件
-- 未処理：16件
+- 未処理：14件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
 ## 個別カード73件の現在地
 
-- `REWRITTEN-PENDING-USER`：56件
+- `REWRITTEN-PENDING-USER`：58件
 - `CONFIRMED-WITHDRAWN`：1件
-- `HIGH-RISK`：15件
+- `HIGH-RISK`：13件
 - `PENDING`：1件
 - `PASSED`：0件
 
 HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
 
-## 改稿候補56件
+## 改稿候補58件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -87,6 +87,8 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 - `n310d6ea64e00`　「お前は悪くない」の先を語ってほしい―山田玲司へのエールとして
 - `n89b15f5116d8`　第9回：内部SLAは、日本の良さを壊すのではない――「当たり前」を、持続可能な条件へ戻す
 - `nd46b0cc03d81`　第6回：景気とは、拡大のことなのか――金融市場ではなく、一般市場に円が回るということ
+- `n9a8876ddea24`　第5回：本当に必要なものは、安くてよい−−価格を、公共性と付加価値に分けて考える
+- `n83282ab66f38`　第8回：人が動ける社会と、人を動かせる社会は違う――労働力の流動性を、安心の土台から考える
 
 ## 使用停止1件
 
@@ -111,7 +113,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 
 ## 分割台帳
 
-- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（9件改稿候補、16件未処理）
+- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（11件改稿候補、14件未処理）
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件（16件改稿候補、1件撤回、未処理0件）
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）

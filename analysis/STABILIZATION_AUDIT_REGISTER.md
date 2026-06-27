@@ -13,23 +13,23 @@
 既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：64件
+- 改稿候補・ユーザー確認待ち：66件
 - 使用停止・安定化確認済み：1件
-- 未処理：8件
+- 未処理：6件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
 ## 個別カード73件の現在地
 
-- `REWRITTEN-PENDING-USER`：64件
+- `REWRITTEN-PENDING-USER`：66件
 - `CONFIRMED-WITHDRAWN`：1件
-- `HIGH-RISK`：7件
+- `HIGH-RISK`：5件
 - `PENDING`：1件
 - `PASSED`：0件
 
 HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
 
-## 改稿候補64件
+## 改稿候補66件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -95,6 +95,8 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 - `ne657d4d1e187`　第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す
 - `n7f5f65dab91b`　第1回：緑色の需要喚起では、文明は減速しない――カーボンニュートラルは目的ではなく結果である
 - `n56042d3fff1e`　正義では、減速は発明できない――なぜ左派と環境運動は、文明の着陸を語らないのか
+- `n463dc4ed6385`　第2回：使い捨てから、育てるへ――開拓的欲望と並走する、減速のイノベーション
+- `na5e015a833ba`　開拓に賭けながら、減速を発明する――地球文明に必要なのは、心地よく遅くなるためのイノベーションである
 
 ## 使用停止1件
 
@@ -119,7 +121,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 
 ## 分割台帳
 
-- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（17件改稿候補、8件未処理）
+- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（19件改稿候補、6件未処理）
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件（16件改稿候補、1件撤回、未処理0件）
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）

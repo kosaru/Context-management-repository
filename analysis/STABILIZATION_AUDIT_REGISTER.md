@@ -13,23 +13,23 @@
 既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：70件
+- 改稿候補・ユーザー確認待ち：72件
 - 使用停止・安定化確認済み：1件
-- 未処理：2件
+- 未処理：0件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
 ## 個別カード73件の現在地
 
-- `REWRITTEN-PENDING-USER`：70件
+- `REWRITTEN-PENDING-USER`：72件
 - `CONFIRMED-WITHDRAWN`：1件
-- `HIGH-RISK`：2件
+- `HIGH-RISK`：0件
 - `PENDING`：0件
 - `PASSED`：0件
 
-HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
+HIGH-RISKは0件になったが、これは強度監査通過を意味しない。すべてユーザー確認前の改稿候補であり、PASSEDは0件である。
 
-## 改稿候補70件
+## 改稿候補72件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -101,6 +101,8 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 - `n709593502973`　AIは文献を読める。しかし、文献同士の関係を保てるとは限らない
 - `n4d7ce6fc1a3e`　ドルの外周で、湾岸が動き始めた
 - `neb3fdedccd79`　AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている
+- `ne93c5cbf00aa`　財政を守る主体はいる。だが、財政を生む景気を誰が守るのかーー国の帳簿ではなく、税源を生む生活循環から考える
+- `ne689a6405eba`　AIとの対話には、プロンプトの技より先に「稽古」がいる
 
 ## 使用停止1件
 
@@ -125,7 +127,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 
 ## 分割台帳
 
-- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（23件改稿候補、2件未処理）
+- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件（16件改稿候補、1件撤回、未処理0件）
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）

@@ -7,7 +7,7 @@
 | ファイル | 状態 | リスク | 疑う箇所 |
 |---|---|---|---|
 | `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md` | REWRITTEN-PENDING-USER | R2 R5 R12 | 監査疑いを採用。異なる記事の権限差と怒りを、責任・決定・退出の一つの連鎖へ整えすぎていた。改稿では、統合モデルではなく、責任が人格・弱い側・生活側・現場側へ落ちる場面を別々の入口から押し返した記事群として仮読みへ戻した。 |
-| `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md` | HIGH-RISK | R1 R5 R12 | 人類継続、文明保存、Securityの別々の賭けを一つの継続モデルへ統合する。 |
+| `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md` | REWRITTEN-PENDING-USER | R1 R5 R12 | 監査疑いを採用。人類継続、文明保存、Securityの別々の賭けを一つの継続モデルへ統合しすぎていた。改稿では、統合モデルではなく、続くとは何かを別々の場所から問い、見かけ上の継続に抵抗した記事群として仮読みへ戻した。 |
 | `analysis/BATCH_04_AI_INFORMATION_REPAIR.md` | HIGH-RISK | R3 R5 R7 | AI企業への設計批判を、対話内部のRepairへ中心化する。 |
 | `analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md` | HIGH-RISK | R2 R5 R8 R14 | 政治陣営、国連、ドル、基地の非対称な問題を、保存・再設計・再交渉へ均す。 |
 | `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md` | CONFIRMED | R3 R7 R11 R14 | 設計上のポピュリズムを市場圧力・評価指標・意図未確認へ移した。 |

@@ -13,23 +13,23 @@
 既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：60件
+- 改稿候補・ユーザー確認待ち：62件
 - 使用停止・安定化確認済み：1件
-- 未処理：12件
+- 未処理：10件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
 ## 個別カード73件の現在地
 
-- `REWRITTEN-PENDING-USER`：60件
+- `REWRITTEN-PENDING-USER`：62件
 - `CONFIRMED-WITHDRAWN`：1件
-- `HIGH-RISK`：11件
+- `HIGH-RISK`：9件
 - `PENDING`：1件
 - `PASSED`：0件
 
 HIGH-RISKは最終判定ではない。既存カードの構造・表現・編集経緯から、元文章を弱めた可能性を具体的に指摘した状態である。
 
-## 改稿候補60件
+## 改稿候補62件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -91,6 +91,8 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 - `n83282ab66f38`　第8回：人が動ける社会と、人を動かせる社会は違う――労働力の流動性を、安心の土台から考える
 - `n44292915f6fa`　第7回：不安ではなく、安心を土台にする――Security と Comfort が一般市場を回す
 - `nfcaa3e96b4d9`　第4回：速さは、誰のゆとりを生むのか――効率化の果実を、世界の競争に吸わせ続けるのか
+- `n5ea51050843d`　第3回：無駄を削ったつもりで、逃げ道を削っていないか――選択肢・やり直し・複数役割から考える文明の伸縮性
+- `ne657d4d1e187`　第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す
 
 ## 使用停止1件
 
@@ -115,7 +117,7 @@ HIGH-RISKは最終判定ではない。既存カードの構造・表現・編�
 
 ## 分割台帳
 
-- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（13件改稿候補、12件未処理）
+- `analysis/stabilization_audit/CARDS_01_LATE.md`：25件（15件改稿候補、10件未処理）
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件（16件改稿候補、1件撤回、未処理0件）
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）

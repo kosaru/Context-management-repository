@@ -13,7 +13,7 @@
 | `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md` | USE-STOP-CONFIRMED | R3 R7 R11 R14 | 監査疑いを採用。設計上のポピュリズムを市場圧力・評価指標・意図未確認へ移し、OpenAIが何を改善し、何を標準にし、何を削るかを選ぶ非対称な設計権限を弱めた。市場圧力や評価指標は肥料候補として残すが、分析正本としては使用停止。 |
 | `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md` | REWRITTEN-PENDING-USER | R5 R7 | 監査疑いを部分採用。政治的対立、場の制度分離、AI応答の設計問題を、同一の三機能モデルへまとめすぎていた。改稿では、三機能を肥料候補として残しつつ、切断・場・AI応答がそれぞれ別の場所で固定化を生む危険を問う仮読みへ戻し、AI三機能を利用者運用ではなく設計・訓練・評価側の問題として残した。 |
 | `analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md` | REWRITTEN-PENDING-USER | R5 R6 | 監査疑いを採用。相反する二つの安心を一つの連続経路へ統合しすぎていた。改稿では、安心の意味分けを肥料候補として残しつつ、国家基盤の有限性を隠さない安心と、個人が一度で終わらないための安心の床を、接続しつつも別の問いとして残す仮読みへ戻した。 |
-| `analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md` | CONFIRMED | R1 R4 R5 | 元文章の拒否を、負担と犠牲化の区別・判定質問へ置き換えた。 |
+| `analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md` | USE-STOP-CONFIRMED | R1 R4 R5 | 監査疑いを採用。元文章の「引き受ける者を必要とする世界そのものを選ばない」という拒否を、負担と犠牲化の区別・判定質問・上限・交代・補償・退出へ置き換え、条件付き許容へ変えた。補助線は強い保留付きで残すが、分析正本としては使用停止。 |
 
 ## 時期別解析
 

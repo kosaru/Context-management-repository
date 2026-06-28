@@ -10,7 +10,7 @@
 | `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md` | REWRITTEN-PENDING-USER | R1 R5 R12 | 監査疑いを採用。人類継続、文明保存、Securityの別々の賭けを一つの継続モデルへ統合しすぎていた。改稿では、統合モデルではなく、続くとは何かを別々の場所から問い、見かけ上の継続に抵抗した記事群として仮読みへ戻した。 |
 | `analysis/BATCH_04_AI_INFORMATION_REPAIR.md` | REWRITTEN-PENDING-USER | R3 R5 R7 | 監査疑いを採用。AI企業への設計批判を対話内部のRepairへ中心化しすぎていた。改稿では、Repair補助線を肥料候補として残しつつ、AIや情報主体が揺れ・主語・負担・目的階層・質問可能性をどこで奪うのかを別々の入口から問う仮読みへ戻した。 |
 | `analysis/BATCH_05_POLITICAL_FUNCTIONS_INTERNATIONAL_ORDER.md` | REWRITTEN-PENDING-USER | R2 R5 R8 R14 | 監査疑いを採用。政治陣営、国連、ドル、基地の非対称な問題を、保存・再設計・再交渉へ均しすぎていた。改稿では、保存・再設計・再交渉を肥料候補として残しつつ、ラベル・制度・通貨・基地が何を保存し、誰を負担へ固定し、どの非対称を隠すのかを別々の入口から問う仮読みへ戻した。 |
-| `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md` | CONFIRMED | R3 R7 R11 R14 | 設計上のポピュリズムを市場圧力・評価指標・意図未確認へ移した。 |
+| `analysis/B_GROUP_01_AI_COMPANY_DIRECTION.md` | USE-STOP-CONFIRMED | R3 R7 R11 R14 | 監査疑いを採用。設計上のポピュリズムを市場圧力・評価指標・意図未確認へ移し、OpenAIが何を改善し、何を標準にし、何を削るかを選ぶ非対称な設計権限を弱めた。市場圧力や評価指標は肥料候補として残すが、分析正本としては使用停止。 |
 | `analysis/B_GROUP_02_BINARY_OPPOSITION_AND_AI.md` | HIGH-RISK | R5 R7 | 政治的対立とAI応答を同一の三機能へまとめ、提供者側の責任を運用項目へ変える。 |
 | `analysis/B_GROUP_03_SECURITY_AND_RETURNABILITY.md` | HIGH-RISK | R5 R6 | 相反する二つの「安心」を一つの連続経路へ統合する。 |
 | `analysis/B_GROUP_04_ANTI_SACRIFICE_DESIGN.md` | CONFIRMED | R1 R4 R5 | 元文章の拒否を、負担と犠牲化の区別・判定質問へ置き換えた。 |

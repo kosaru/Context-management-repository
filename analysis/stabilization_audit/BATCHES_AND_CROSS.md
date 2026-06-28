@@ -30,7 +30,7 @@
 
 | ファイル | 状態 | リスク | 疑う箇所 |
 |---|---|---|---|
-| `indexes/CROSS_RECONSTRUCTION.md` | HIGH-RISK | R5 R12 | 全記事を六系譜へ統合し、抵抗する記事を消す可能性。 |
+| `indexes/CROSS_RECONSTRUCTION.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。全記事を六系譜または十系譜へ統合し、抵抗する記事を消す可能性があった。改稿では、横断補助線を肥料候補として残しつつ、抵抗する記事、別方向の芽、破棄された可能性、原文の怒りや拒否を探すための仮索引へ戻した。 |
 | `indexes/LINEAGES.md` | HIGH-RISK | R5 R12 | 系譜を固定し、別の発展方向や破棄された可能性を見えなくする。 |
 | `indexes/CURRENT_POSITIONS.md` | HIGH-RISK | R6 R12 | 現在の立場を正本にし、過去記事をそこへ従属させる。 |
 | `indexes/UNRESOLVED_QUESTIONS.md` | HIGH-RISK | R5 | 未解決性を一覧化することで、問いの重さや衝突を同じ形式へ均す。 |

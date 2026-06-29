@@ -35,7 +35,7 @@
 | `indexes/CURRENT_POSITIONS.md` | REWRITTEN-PENDING-USER | R6 R12 | 監査疑いを採用。現在の立場を正本にし、過去記事をそこへ従属させる危険があった。改稿では、現在の立場を必要な足場として残しつつ、過去記事、撤回、使用停止、保留、原文の抵抗を現在地へ従属させないための仮索引へ戻した。 |
 | `indexes/UNRESOLVED_QUESTIONS.md` | REWRITTEN-PENDING-USER | R5 | 監査疑いを採用。未解決性を一覧化することで、問いの重さや衝突を同じ形式へ均す危険があった。改稿では、規範・設計・事実・運用の分類を肥料候補として残しつつ、拒否・怒り・保留・撤回・事実未確認を分け、問いの重さと原文への帰還路を残す仮索引へ戻した。 |
 | `indexes/THEMES.md` | REWRITTEN-PENDING-USER | R5 | 監査疑いを採用。テーマ分類が記事の固有性を削る危険があった。改稿では、テーマを所属先ではなく原文へ戻る検索入口として残しつつ、代表記事の正本化、怒り・拒否の弱化、複数テーマへのまたがりの消失を防ぐ仮索引へ戻した。 |
-| `indexes/CONCEPTS.md` | PENDING | R5 R13 | 強い言葉を概念ラベルへ置き換える可能性。 |
+| `indexes/CONCEPTS.md` | REWRITTEN-PENDING-USER | R5 R13 | 監査疑いを採用。強い言葉を概念ラベルへ置き換える危険があった。改稿では、概念を原文の代替ではなく原文へ戻る入口として残しつつ、原文の強い言葉、後から付いたラベル、AI由来の補助線、ユーザー判断待ちの接続を分ける仮索引へ戻した。 |
 | `indexes/QUESTIONS.md` | PENDING | R5 | 問いを検索可能にする一方、問い同士の非対称性を平板化する可能性。 |
 | `articles/CROSS_ROLES.md` | HIGH-RISK | R5 R12 | 個別記事へ統合稿・修正稿などの役割を与え、後期体系へ配置する。 |
 | `analysis/VERTICAL_HORIZONTAL_CROSSCHECK.md` | HIGH-RISK | R5 R12 | 縦読みと横断モデルの整合を優先し、不一致を誤差扱いする危険。 |

@@ -37,7 +37,7 @@
 | `indexes/THEMES.md` | REWRITTEN-PENDING-USER | R5 | 監査疑いを採用。テーマ分類が記事の固有性を削る危険があった。改稿では、テーマを所属先ではなく原文へ戻る検索入口として残しつつ、代表記事の正本化、怒り・拒否の弱化、複数テーマへのまたがりの消失を防ぐ仮索引へ戻した。 |
 | `indexes/CONCEPTS.md` | REWRITTEN-PENDING-USER | R5 R13 | 監査疑いを採用。強い言葉を概念ラベルへ置き換える危険があった。改稿では、概念を原文の代替ではなく原文へ戻る入口として残しつつ、原文の強い言葉、後から付いたラベル、AI由来の補助線、ユーザー判断待ちの接続を分ける仮索引へ戻した。 |
 | `indexes/QUESTIONS.md` | REWRITTEN-PENDING-USER | R5 | 監査疑いを採用。問いを検索可能にする一方、問い同士の非対称性を平板化する危険があった。改稿では、問いを同じ検索項目へ均さず、調査で進む問い、制度設計へ進む問い、拒否・怒りとして閉じてはいけない問い、ユーザー判断待ちの問いを分ける仮索引へ戻した。 |
-| `articles/CROSS_ROLES.md` | HIGH-RISK | R5 R12 | 個別記事へ統合稿・修正稿などの役割を与え、後期体系へ配置する。 |
+| `articles/CROSS_ROLES.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。個別記事へ統合稿・修正稿などの役割を与え、後期体系へ配置する危険があった。改稿では、記事役割を格付けや後期体系への配置ではなく、原文・カード・修復記録へ戻るための注意札として仮置きする索引へ戻した。 |
 | `analysis/VERTICAL_HORIZONTAL_CROSSCHECK.md` | HIGH-RISK | R5 R12 | 縦読みと横断モデルの整合を優先し、不一致を誤差扱いする危険。 |
 | `analysis/PHASE_06_CROSS_RECONSTRUCTION_SUPPLEMENT.md` | HIGH-RISK | R5 R12 | 後期統合に合わない記事を補足として吸収する危険。 |
 | `analysis/KYUBEY_INFORMATION_ASYMMETRY.md` | HIGH-RISK | R1 R5 | 個人の資源化への拒否を、情報非対称の監査項目へ変える危険。 |

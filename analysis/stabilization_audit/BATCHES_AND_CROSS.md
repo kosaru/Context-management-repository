@@ -39,7 +39,7 @@
 | `indexes/QUESTIONS.md` | REWRITTEN-PENDING-USER | R5 | 監査疑いを採用。問いを検索可能にする一方、問い同士の非対称性を平板化する危険があった。改稿では、問いを同じ検索項目へ均さず、調査で進む問い、制度設計へ進む問い、拒否・怒りとして閉じてはいけない問い、ユーザー判断待ちの問いを分ける仮索引へ戻した。 |
 | `articles/CROSS_ROLES.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。個別記事へ統合稿・修正稿などの役割を与え、後期体系へ配置する危険があった。改稿では、記事役割を格付けや後期体系への配置ではなく、原文・カード・修復記録へ戻るための注意札として仮置きする索引へ戻した。 |
 | `analysis/VERTICAL_HORIZONTAL_CROSSCHECK.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。縦読みと横断モデルの整合を優先し、不一致を誤差扱いする危険があった。改稿では、整合を確認する正本ではなく、不一致・抵抗・後期体系の遡及・一致させてはいけない箇所を原文へ戻すための仮照合へ戻した。 |
-| `analysis/PHASE_06_CROSS_RECONSTRUCTION_SUPPLEMENT.md` | HIGH-RISK | R5 R12 | 後期統合に合わない記事を補足として吸収する危険。 |
+| `analysis/PHASE_06_CROSS_RECONSTRUCTION_SUPPLEMENT.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。後期統合に合わない記事を補足として吸収する危険があった。改稿では、第6期を適用期・前史・補足として固定せず、第6期記事の固有性と後から足した横断補助線を分けるための仮補記へ戻した。 |
 | `analysis/KYUBEY_INFORMATION_ASYMMETRY.md` | HIGH-RISK | R1 R5 | 個人の資源化への拒否を、情報非対称の監査項目へ変える危険。 |
 | `analysis/KYUBEY_MEDIA_AGI_CONNECTIONS.md` | HIGH-RISK | R3 R5 | 作品・メディア・AI企業を共通構造へまとめ、主体差を落とす危険。 |
 | `analysis/SECURITY_COMFORT_ROLE_ALLOCATION.md` | HIGH-RISK | R2 R5 | 国家・都市・家庭・市場の役割分担へ均し、負担押し付けの政治性を弱める危険。 |

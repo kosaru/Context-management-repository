@@ -33,7 +33,7 @@
 | `indexes/CROSS_RECONSTRUCTION.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。全記事を六系譜または十系譜へ統合し、抵抗する記事を消す可能性があった。改稿では、横断補助線を肥料候補として残しつつ、抵抗する記事、別方向の芽、破棄された可能性、原文の怒りや拒否を探すための仮索引へ戻した。 |
 | `indexes/LINEAGES.md` | REWRITTEN-PENDING-USER | R5 R12 | 監査疑いを採用。系譜を固定し、別の発展方向や破棄された可能性を見えなくする危険があった。改稿では、六系譜を便利な案内札として残しつつ、直接継承、構造接続、AI由来の接続、ユーザー判断待ちの接続を分け、分岐・撤回・使用停止・別方向の芽を探す仮索引へ戻した。 |
 | `indexes/CURRENT_POSITIONS.md` | REWRITTEN-PENDING-USER | R6 R12 | 監査疑いを採用。現在の立場を正本にし、過去記事をそこへ従属させる危険があった。改稿では、現在の立場を必要な足場として残しつつ、過去記事、撤回、使用停止、保留、原文の抵抗を現在地へ従属させないための仮索引へ戻した。 |
-| `indexes/UNRESOLVED_QUESTIONS.md` | HIGH-RISK | R5 | 未解決性を一覧化することで、問いの重さや衝突を同じ形式へ均す。 |
+| `indexes/UNRESOLVED_QUESTIONS.md` | REWRITTEN-PENDING-USER | R5 | 監査疑いを採用。未解決性を一覧化することで、問いの重さや衝突を同じ形式へ均す危険があった。改稿では、規範・設計・事実・運用の分類を肥料候補として残しつつ、拒否・怒り・保留・撤回・事実未確認を分け、問いの重さと原文への帰還路を残す仮索引へ戻した。 |
 | `indexes/THEMES.md` | PENDING | R5 | テーマ分類が記事の固有性を削る可能性。 |
 | `indexes/CONCEPTS.md` | PENDING | R5 R13 | 強い言葉を概念ラベルへ置き換える可能性。 |
 | `indexes/QUESTIONS.md` | PENDING | R5 | 問いを検索可能にする一方、問い同士の非対称性を平板化する可能性。 |

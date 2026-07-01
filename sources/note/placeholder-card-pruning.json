@@ -1,6 +1,12 @@
 {
   "deleted": [],
   "deleted_count": 0,
-  "preserved_unreviewed": [],
-  "preserved_unreviewed_count": 0
+  "preserved_unreviewed": [
+    {
+      "note_id": "na93e6bf0376c",
+      "path": "articles/cards/2026-07-01-na93e6bf0376c.md",
+      "reason": "not_covered_elsewhere"
+    }
+  ],
+  "preserved_unreviewed_count": 1
 }

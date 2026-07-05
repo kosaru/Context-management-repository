@@ -1955,6 +1955,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n537d13475567": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n537d13475567",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n538671e87dff": {
       "analysis_label": "第3期：2026-03-02〜03-13",
       "analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md",
@@ -4250,6 +4267,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nb77b6d5f092f": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nb77b6d5f092f",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nbab489213628": {
       "analysis_label": "第1期：2026-01-24〜02-10",
       "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
@@ -4739,6 +4773,23 @@
       "covered_title": "右翼・左翼・中道を奪い返せ",
       "defer_reason": "",
       "note_id": "nccb9aa2d53cc",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "ncdb4235f58bf": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "ncdb4235f58bf",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -5986,5 +6037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-01T08:05:03+00:00"
+  "updated_at": "2026-07-05T06:49:45+00:00"
 }

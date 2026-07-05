@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：2件
+- 確認待ち：5件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -15,6 +15,30 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/na93e6bf0376c
+
+### [弱い立場から、強い相手に喧嘩を売るということ](../articles/cards/2026-07-03-n537d13475567.md)
+
+- note ID：`n537d13475567`
+- 公開日：2026-07-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n537d13475567
+
+### [批判で終わるなと言った以上、私は何を再設計してきたのか](../articles/cards/2026-07-03-ncdb4235f58bf.md)
+
+- note ID：`ncdb4235f58bf`
+- 公開日：2026-07-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ncdb4235f58bf
+
+### [認知戦に弱いリベラルを糾弾する——語る場、翻訳層、決める場を壊される社会](../articles/cards/2026-07-04-nb77b6d5f092f.md)
+
+- note ID：`nb77b6d5f092f`
+- 公開日：2026-07-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nb77b6d5f092f
 
 ### [予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで](../articles/cards/2026-06-23-nee567e7bf172.md)
 

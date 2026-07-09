@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-07-06T12:58:01.099586+00:00",
+  "recorded_at": "2026-07-09T22:49:25.872531+00:00",
   "method": "creator-api",
   "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
   "pages": [
@@ -418,17 +418,24 @@
     },
     {
       "page": 60,
-      "items_found": 1,
-      "new_note_ids": 1,
+      "items_found": 6,
+      "new_note_ids": 6,
+      "is_last_page": false,
+      "status_code": 200
+    },
+    {
+      "page": 61,
+      "items_found": 3,
+      "new_note_ids": 3,
       "is_last_page": true,
       "status_code": 200
     }
   ],
-  "discovered_count": 355,
+  "discovered_count": 363,
   "complete": true,
   "termination_reason": "explicit_last_page",
   "sync_report": {
-    "recorded_at": "2026-07-06T12:57:45+00:00",
+    "recorded_at": "2026-07-09T22:48:52+00:00",
     "profile": "https://note.com/shirokuma1970",
     "discovery": {
       "method": "creator-api",
@@ -849,13 +856,20 @@
         },
         {
           "page": 60,
-          "items_found": 1,
-          "new_note_ids": 1,
+          "items_found": 6,
+          "new_note_ids": 6,
+          "is_last_page": false,
+          "status_code": 200
+        },
+        {
+          "page": 61,
+          "items_found": 3,
+          "new_note_ids": 3,
           "is_last_page": true,
           "status_code": 200
         }
       ],
-      "discovered_count": 355,
+      "discovered_count": 363,
       "complete": true,
       "termination_reason": "explicit_last_page"
     },
@@ -863,14 +877,14 @@
     "verify_all": false,
     "limit": 0,
     "bootstrapped_catalog_records": 0,
-    "discovered_count": 355,
-    "seen_note_ids": 355,
-    "fetched_count": 0,
-    "source_changed_count": 0,
+    "discovered_count": 363,
+    "seen_note_ids": 363,
+    "fetched_count": 8,
+    "source_changed_count": 8,
     "metadata_change_count": 0,
-    "new_card_count": 0,
+    "new_card_count": 7,
     "missing_from_public_index_count": 0,
-    "events_written": 0,
+    "events_written": 8,
     "failure_count": 0,
     "failures": []
   }

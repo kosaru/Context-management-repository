@@ -1343,6 +1343,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n3cba40a6b765": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n3cba40a6b765",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n3cc7e8fa237e": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -1781,6 +1798,23 @@
       "covered_title": "語る場と決める場を分けるという発想",
       "defer_reason": "",
       "note_id": "n48ad929fcec1",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n4940d2f00d0a": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n4940d2f00d0a",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -2329,6 +2363,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n5cfd52793333": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n5cfd52793333",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n5ea51050843d": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-05-31-n5ea51050843d.md",
@@ -2461,6 +2512,23 @@
       "covered_title": "決定ログテンプレという提案",
       "defer_reason": "",
       "note_id": "n665904cda2c6",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n6756e19a0f01": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n6756e19a0f01",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -2601,6 +2669,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n7246c369ce38": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n7246c369ce38",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n7259994b611f": {
       "analysis_label": "第3期：2026-03-02〜03-13",
       "analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md",
@@ -2631,6 +2716,23 @@
       "covered_title": "見えなくなった危機について",
       "defer_reason": "",
       "note_id": "n728a7fce99d1",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n72bb2b88cd8d": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n72bb2b88cd8d",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -4318,6 +4420,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nbd1ffd836c95": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nbd1ffd836c95",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nbe506f1f292b": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-01-31-nbe506f1f292b.md",
@@ -5865,6 +5984,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nf79a947c366e": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nf79a947c366e",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nf8a1812f2963": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -6037,5 +6173,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-06T12:58:07+00:00"
+  "updated_at": "2026-07-09T22:49:30+00:00"
 }

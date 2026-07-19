@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：16件
+- 確認待ち：22件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -127,6 +127,54 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n9be7dc34d511
+
+### [訂正する。OpenAIはポピュリズムに流されているのではない——生成AIの「本能」を設計する企業と、認知戦の危険](../articles/cards/2026-07-14-n80c6dcefcb29.md)
+
+- note ID：`n80c6dcefcb29`
+- 公開日：2026-07-14
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n80c6dcefcb29
+
+### [民主主義は社会主義の道具ではない――斎藤幸平に感じる、順序の違い](../articles/cards/2026-07-15-n72b09838244c.md)
+
+- note ID：`n72b09838244c`
+- 公開日：2026-07-15
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n72b09838244c
+
+### [斎藤幸平には、もう一枚の殻を破ってほしい−−脱成長社会主義への批評から、減速的イノベーションと文明保存へ](../articles/cards/2026-07-15-nf4c1b2aa4fec.md)
+
+- note ID：`nf4c1b2aa4fec`
+- 公開日：2026-07-15
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nf4c1b2aa4fec
+
+### [民主主義を動かす「語る場」と「決める場」ーー責任の線でつながる代表制民主主義の構造](../articles/cards/2026-07-16-nfd3e86a2d2cd.md)
+
+- note ID：`nfd3e86a2d2cd`
+- 公開日：2026-07-16
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nfd3e86a2d2cd
+
+### [AIに十八万字の民主主義論を読ませたら、長い一般論を短い否定で切り続けることになった――「語る場」と「決める場」から、自由からの逃走、危機言説、国家による集中管理と選別へ](../articles/cards/2026-07-17-n09751f6b156c.md)
+
+- note ID：`n09751f6b156c`
+- 公開日：2026-07-17
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n09751f6b156c
+
+### [義務は外から来る。責任は内から来る――他人へ向けた言葉が、刃になるとき](../articles/cards/2026-07-17-n1f225f8e527e.md)
+
+- note ID：`n1f225f8e527e`
+- 公開日：2026-07-17
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1f225f8e527e
 
 ### [予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで](../articles/cards/2026-06-23-nee567e7bf172.md)
 

@@ -153,6 +153,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n09751f6b156c": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n09751f6b156c",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n09bc151ee0ca": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -540,6 +557,23 @@
       "covered_title": "理解した気になる構造",
       "defer_reason": "",
       "note_id": "n1e93717435ff",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n1f225f8e527e": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n1f225f8e527e",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -2754,6 +2788,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n72b09838244c": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n72b09838244c",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n72bb2b88cd8d": {
       "analysis_label": "未割り当て",
       "analysis_ref": "",
@@ -3141,6 +3192,23 @@
       "covered_title": "語る場と決める場は、すでにある",
       "defer_reason": "",
       "note_id": "n7fb60c0708b3",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n80c6dcefcb29": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n80c6dcefcb29",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -5967,6 +6035,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nf4c1b2aa4fec": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nf4c1b2aa4fec",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nf4f52332c07e": {
       "analysis_label": "第1期：2026-01-24〜02-10",
       "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
@@ -6154,6 +6239,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nfd3e86a2d2cd": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nfd3e86a2d2cd",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nfd98843cd721": {
       "analysis_label": "第3期：2026-03-02〜03-13",
       "analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md",
@@ -6224,5 +6326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-12T06:12:01+00:00"
+  "updated_at": "2026-07-19T06:07:24+00:00"
 }

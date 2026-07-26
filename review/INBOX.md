@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：22件
+- 確認待ち：30件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -175,6 +175,70 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n1f225f8e527e
+
+### [正しさと正義は、どこから生まれ、どこで武器になるのか](../articles/cards/2026-07-20-n30958442ca40.md)
+
+- note ID：`n30958442ca40`
+- 公開日：2026-07-20
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n30958442ca40
+
+### [正しさを決める哲学と、正しさが生まれる構造――普遍的な正義も、批判の外には立てない](../articles/cards/2026-07-21-n6a74379ed753.md)
+
+- note ID：`n6a74379ed753`
+- 公開日：2026-07-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n6a74379ed753
+
+### [戦争と正義――正義は人を守り、人を殺す](../articles/cards/2026-07-21-nc49c7ff422bb.md)
+
+- note ID：`nc49c7ff422bb`
+- 公開日：2026-07-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc49c7ff422bb
+
+### [私はなぜ、中間の正義を語らないのか――正しさと正義の発生構造を、哲学から考える](../articles/cards/2026-07-21-ndcbd0a4e9120.md)
+
+- note ID：`ndcbd0a4e9120`
+- 公開日：2026-07-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ndcbd0a4e9120
+
+### [開拓に賭けながら、減速を発明する――人類文明をハードランディングさせないために](../articles/cards/2026-07-24-nc760e162a9a3.md)
+
+- note ID：`nc760e162a9a3`
+- 公開日：2026-07-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc760e162a9a3
+
+### [マルクスの結論ではなく、マルクスの方法を現代へ持ち込めているか――斎藤幸平の脱成長コミュニズムに感じる違和感](../articles/cards/2026-07-24-nd08078f5898f.md)
+
+- note ID：`nd08078f5898f`
+- 公開日：2026-07-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nd08078f5898f
+
+### [東京へ通うための街から、そこで働いて暮らせる街へ――共同利用型の業務拠点から、首都圏を多核型都市圏へ変える](../articles/cards/2026-07-25-n74d5ffb9c4bb.md)
+
+- note ID：`n74d5ffb9c4bb`
+- 公開日：2026-07-25
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n74d5ffb9c4bb
+
+### [少子化を、社会を作り替える好機として捉える――人を補充し続ける社会から、緩やかなComfort社会へ](../articles/cards/2026-07-25-n7be450a2ca12.md)
+
+- note ID：`n7be450a2ca12`
+- 公開日：2026-07-25
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n7be450a2ca12
 
 ### [予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで](../articles/cards/2026-06-23-nee567e7bf172.md)
 

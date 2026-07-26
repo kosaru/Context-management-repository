@@ -1020,6 +1020,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n30958442ca40": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n30958442ca40",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n310d6ea64e00": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-06-12-n310d6ea64e00.md",
@@ -2635,6 +2652,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n6a74379ed753": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n6a74379ed753",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n6c7b5ee0ddc2": {
       "analysis_label": "第1期：2026-01-24〜02-10",
       "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
@@ -2890,6 +2924,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n74d5ffb9c4bb": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n74d5ffb9c4bb",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n7525ef1d6cb0": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -3022,6 +3073,23 @@
       "covered_title": "SNSの作法",
       "defer_reason": "",
       "note_id": "n7b859e85c0bf",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n7be450a2ca12": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n7be450a2ca12",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -4760,6 +4828,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nc49c7ff422bb": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nc49c7ff422bb",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nc4e09a46f8d0": {
       "analysis_label": "第3期：2026-03-02〜03-13",
       "analysis_ref": "analysis/PHASE_03_2026-03-02_TO_03-13.md",
@@ -4807,6 +4892,23 @@
       "covered_title": "誤解された兵法 ― 孫子は何を語っていたのか",
       "defer_reason": "",
       "note_id": "nc687ab9c843b",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "nc760e162a9a3": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nc760e162a9a3",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -5062,6 +5164,23 @@
       "covered_title": "このまま進めば、日本人の中核層は「責任の最終処理装置」になる",
       "defer_reason": "",
       "note_id": "ncf9a54061f4f",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "nd08078f5898f": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nd08078f5898f",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -5385,6 +5504,23 @@
       "covered_title": "語る場と決める場、そしてAIを用いた民主主義の補助構造について",
       "defer_reason": "",
       "note_id": "ndc3320f2aac5",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "ndcbd0a4e9120": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "ndcbd0a4e9120",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -6326,5 +6462,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-19T06:07:24+00:00"
+  "updated_at": "2026-07-26T06:14:29+00:00"
 }

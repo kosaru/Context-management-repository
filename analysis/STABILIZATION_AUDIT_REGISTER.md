@@ -10,31 +10,32 @@
 
 ## 現在の扱い
 
-既存監査由来の詳細カード75件と、新規・原文先行カード3件を管理する。時期別解析、横断分析、派生モデルは、原文より上位の正本として扱わない。
+既存監査由来の詳細カード75件と、新規・原文先行カード4件を管理する。時期別解析、横断分析、派生モデルは、原文より上位の正本として扱わない。
 
 - 強度監査通過：0件
 - 改稿候補・ユーザー確認待ち：74件
-- 新規・原文先行分析・ユーザー確認待ち：3件
+- 新規・原文先行分析・ユーザー確認待ち：4件
 - 使用停止・安定化確認済み：1件
 - 旧監査対象の未処理：0件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
-## 個別カード78件の現在地
+## 個別カード79件の現在地
 
 - `REWRITTEN-PENDING-USER`：74件
 - `CONFIRMED-WITHDRAWN`：1件
 - `HIGH-RISK`：0件
-- `PENDING`：3件
+- `PENDING`：4件
 - `PASSED`：0件
 
-HIGH-RISKは0件だが、これは強度監査通過を意味しない。74件は改稿候補、1件は使用停止、3件は新規・原文先行分析のユーザー確認待ちであり、PASSEDは0件である。
+HIGH-RISKは0件だが、これは強度監査通過を意味しない。74件は改稿候補、1件は使用停止、4件は新規・原文先行分析のユーザー確認待ちであり、PASSEDは0件である。
 
-## 新規・原文先行分析3件
+## 新規・原文先行分析4件
 
 - `na93e6bf0376c`　リベラルは、批判のあとに何を設計するのか（`PENDING`）
 - `n537d13475567`　弱い立場から、強い相手に喧嘩を売るということ（`PENDING`）
 - `ncdb4235f58bf`　批判で終わるなと言った以上、私は何を再設計してきたのか（`PENDING`）
+- `nb77b6d5f092f`　認知戦に弱いリベラルを糾弾する——語る場、翻訳層、決める場を壊される社会（`PENDING`）
 
 ## 改稿候補74件
 
@@ -144,6 +145,7 @@ HIGH-RISKは0件だが、これは強度監査通過を意味しない。74件�
 - `analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`：1件（新規・原文先行、PENDING）
 - `analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`：1件（新規・原文先行、PENDING）
 - `analysis/stabilization_audit/CARDS_08_NEW_ANALYSIS_2026-07-03.md`：1件（新規・原文先行、PENDING）
+- `analysis/stabilization_audit/CARDS_09_NEW_ANALYSIS_2026-07-04.md`：1件（新規・原文先行、PENDING）
 - `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
 - `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
 - `analysis/stabilization_audit/OPERATIONS.md`

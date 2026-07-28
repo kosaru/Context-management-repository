@@ -106,6 +106,14 @@ jobs:
       - name: Promote unchanged covered articles to detailed-card references
         run: python scripts/refresh_card_coverage.py
 
+      - name: Accept original-first analysis
+        run: |
+          python scripts/update_analysis_coverage.py \
+            --accept na93e6bf0376c \
+            --analysis-ref articles/cards/2026-07-01-na93e6bf0376c.md \
+            --coverage-type individual_card \
+            --role '自称リベラルへの直接要求・設計責任'
+
       - name: Regenerate coverage summary and review queue
         run: python scripts/update_analysis_coverage.py
 

@@ -1,0 +1,146 @@
+name: Temporary update audit arrival entrypoints
+
+on:
+  push:
+    branches:
+      - agent/audit-arrival-entrypoints-2026-07-28
+    paths:
+      - .github/workflows/temp-update-audit-arrival-entrypoints.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/audit-arrival-entrypoints-2026-07-28
+      - name: Update entrypoints and generated title
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          # START_HERE
+          p = Path('START_HERE.md')
+          text = p.read_text(encoding='utf-8')
+          replacements = {
+              '既存の詳細カード73件': '既存の詳細カード75件',
+              '- 公開記事：351件': '- 公開記事台帳：382件',
+              '- コンパクト地図：351件': '- 文脈解析あり：353件',
+              '- 個別カードあり：73件': '- 個別カードあり：104件（詳細カード75件＋未解析カード29件）',
+              '9. `analysis/stabilization_audit/OPERATIONS.md`': '9. `analysis/stabilization_audit/OPERATIONS.md`\n10. `analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md`',
+          }
+          for old, new in replacements.items():
+              if old not in text:
+                  raise SystemExit(f'missing START_HERE marker: {old}')
+              text = text.replace(old, new, 1)
+          text = text.replace('- 強度監査通過：0件\n', '- 詳細カードの改稿候補：74件\n- 使用停止：1件\n- 強度監査通過：0件\n', 1)
+          p.write_text(text, encoding='utf-8')
+
+          # context/CURRENT
+          p = Path('context/CURRENT.md')
+          text = p.read_text(encoding='utf-8')
+          replacements = {
+              '更新日：2026-06-25': '更新日：2026-07-28',
+              '- 公開記事：351件': '- 公開記事台帳：382件',
+              '- 個別カードあり：73件': '- 個別カードあり：104件',
+              '- 合計：73件': '- 2026-07-28追加監査：2件\n- 詳細カード合計：75件',
+          }
+          for old, new in replacements.items():
+              if old not in text:
+                  raise SystemExit(f'missing CURRENT marker: {old}')
+              text = text.replace(old, new, 1)
+          text = text.replace('- 強度監査通過：0件\n', '- 詳細カードの改稿候補：74件\n- 使用停止：1件\n- 強度監査通過：0件\n- 未割り当て・新着：29件\n', 1)
+          current_marker = '既存カードの存在は、分析の信頼性を意味しない。\n'
+          current_insert = current_marker + '\n全体到達点は `analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md` を参照する。\n'
+          if current_marker not in text:
+              raise SystemExit('missing CURRENT arrival marker')
+          text = text.replace(current_marker, current_insert, 1)
+          p.write_text(text, encoding='utf-8')
+
+          # articles/INDEX
+          p = Path('articles/INDEX.md')
+          text = p.read_text(encoding='utf-8')
+          replacements = {
+              '更新日：2026-06-25': '更新日：2026-07-28',
+              '- 公開記事：351件': '- 公開記事台帳：382件',
+              '- コンパクト地図：351件': '- 文脈解析あり：353件',
+              '- 個別カードあり：73件': '- 個別カードあり：104件',
+              '- 個別カードなし：278件': '- 個別カードなし：278件\n- 詳細カード：75件（改稿候補74件＋使用停止1件）\n- 未解析カード：29件',
+              '現在、73件すべてを再監査しています。': '詳細カード75件の監査結果は、74件が改稿候補・ユーザー確認待ち、1件が使用停止です。PASSEDは0件です。',
+              '9. [運用監査](../analysis/stabilization_audit/OPERATIONS.md)': '9. [運用監査](../analysis/stabilization_audit/OPERATIONS.md)\n10. [安定化監査の全体到達点](../analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md)',
+              '- [全351記事コンパクト地図](COMPACT_MAP.md)': '- [全記事コンパクト地図](COMPACT_MAP.md)',
+          }
+          for old, new in replacements.items():
+              if old not in text:
+                  raise SystemExit(f'missing INDEX marker: {old}')
+              text = text.replace(old, new, 1)
+          p.write_text(text, encoding='utf-8')
+
+          # Operations audit stale counts and current result
+          p = Path('analysis/stabilization_audit/OPERATIONS.md')
+          text = p.read_text(encoding='utf-8')
+          replacements = {
+              '更新日：2026-06-25': '更新日：2026-07-28',
+              'しかし現在の73件は': 'しかし監査対象の詳細カード75件は',
+              '73件を「個別カード精査済み」と表示しており、現在の信頼状態と一致しない。': '旧状態では詳細カードを「個別カード精査済み」と表示していた。現在の自動索引は、カードの存在・内容記入と強度監査通過を分離し、75件を信頼済みとは表示していない。',
+              '- 73件が強度監査未実施であることを表示していない': '- 詳細カード75件がユーザー確認前で、PASSED 0件であることを入口文書へ反映する',
+              '2. 73件を強度監査待ちと表示する': '2. 詳細カード75件を、改稿候補74件・使用停止1件・PASSED 0件として表示する',
+          }
+          for old, new in replacements.items():
+              if old not in text:
+                  raise SystemExit(f'missing OPERATIONS marker: {old}')
+              text = text.replace(old, new, 1)
+          p.write_text(text, encoding='utf-8')
+
+          # Coverage generator: remove hardcoded 351
+          p = Path('scripts/update_analysis_coverage.py')
+          text = p.read_text(encoding='utf-8')
+          old = '        "# 全351記事の解析カバレッジ",'
+          new = '        f"# 全{len(entries)}記事の解析カバレッジ",'
+          if old not in text:
+              raise SystemExit('missing coverage title marker')
+          p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          p = Path('analysis/COVERAGE.md')
+          text = p.read_text(encoding='utf-8')
+          if '# 全351記事の解析カバレッジ' not in text:
+              raise SystemExit('missing generated coverage heading')
+          p.write_text(text.replace('# 全351記事の解析カバレッジ', '# 全382記事の解析カバレッジ', 1), encoding='utf-8')
+
+          # NEXT
+          p = Path('context/NEXT.md')
+          text = p.read_text(encoding='utf-8')
+          marker = '## 次の監査対象\n\n現在 `analysis/stabilization_audit/BATCHES_AND_CROSS.md` に明示されていた横断索引・補助分析の監査対象は一巡した。\n\n次は、全体の到達点を整理する。'
+          replacement = '## 次の運用段階\n\n横断索引・補助分析の明示キューと、2026-07-28追加の2カードを含む全体到達点の整理は完了した。\n\n全体到達点：`analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md`\n\n次は、74件を一括承認するのではなく、実際に参照する記事から個別にユーザー判断へ回す。'
+          if marker not in text:
+              raise SystemExit('missing NEXT next-target marker')
+          text = text.replace(marker, replacement, 1)
+          old_block = '確認するもの：\n\n```text\n何が改稿候補になったか\n何が使用停止のままか\n何を土壌へ入れる肥料候補として残したか\n何を混入物として疑ったか\n何がユーザー判断待ちか\nPASSEDを0件にしたまま、今後どう運用するか\n```'
+          new_block = '運用原則：\n\n```text\n原文を先に読む\n改稿候補はユーザー確認待ちとして読む\n補助線は原文と分けて表示する\n使用停止文書を正本にしない\n参照した記事だけを個別にユーザー判断へ回す\nAIが一括でPASSEDを付けない\n```'
+          if old_block not in text:
+              raise SystemExit('missing NEXT operation block')
+          text = text.replace(old_block, new_block, 1)
+          audit_marker = '- `analysis/STABILIZATION_AUDIT_REGISTER.md`\n'
+          audit_insert = audit_marker + '- `analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md`\n'
+          if audit_marker not in text:
+              raise SystemExit('missing NEXT audit marker')
+          text = text.replace(audit_marker, audit_insert, 1)
+          p.write_text(text, encoding='utf-8')
+          PY
+      - name: Validate
+        run: |
+          grep -F '公開記事台帳：382件' START_HERE.md context/CURRENT.md articles/INDEX.md
+          grep -F '詳細カード75件' START_HERE.md context/CURRENT.md articles/INDEX.md analysis/stabilization_audit/OPERATIONS.md
+          grep -F 'STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md' START_HERE.md context/CURRENT.md articles/INDEX.md context/NEXT.md
+          grep -F 'f"# 全{len(entries)}記事の解析カバレッジ"' scripts/update_analysis_coverage.py
+          grep -F '# 全382記事の解析カバレッジ' analysis/COVERAGE.md
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add START_HERE.md context/CURRENT.md context/NEXT.md articles/INDEX.md analysis/stabilization_audit/OPERATIONS.md scripts/update_analysis_coverage.py analysis/COVERAGE.md
+          git commit -m 'Align audit entrypoints with current state'
+          git push origin HEAD:agent/audit-arrival-entrypoints-2026-07-28

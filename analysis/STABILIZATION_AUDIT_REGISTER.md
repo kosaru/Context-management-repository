@@ -1,6 +1,6 @@
 # 安定化監査台帳
 
-更新日：2026-06-26
+更新日：2026-07-28
 
 ## 恒久事故記録
 
@@ -10,18 +10,18 @@
 
 ## 現在の扱い
 
-既存の詳細カード73件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
+既存の詳細カード75件、時期別解析、横断分析、派生モデルは、元文章の強度保持を確認していない。
 
 - 強度監査通過：0件
-- 改稿候補・ユーザー確認待ち：72件
+- 改稿候補・ユーザー確認待ち：74件
 - 使用停止・安定化確認済み：1件
 - 未処理：0件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
-## 個別カード73件の現在地
+## 個別カード75件の現在地
 
-- `REWRITTEN-PENDING-USER`：72件
+- `REWRITTEN-PENDING-USER`：74件
 - `CONFIRMED-WITHDRAWN`：1件
 - `HIGH-RISK`：0件
 - `PENDING`：0件
@@ -29,7 +29,7 @@
 
 HIGH-RISKは0件になったが、これは強度監査通過を意味しない。すべてユーザー確認前の改稿候補であり、PASSEDは0件である。
 
-## 改稿候補72件
+## 改稿候補74件
 
 - `ndcca526034cf`　犠牲を設計しないという選択
 - `nbe506f1f292b`　消費税＋ベーシックインカム二段階安定装置
@@ -103,6 +103,8 @@ HIGH-RISKは0件になったが、これは強度監査通過を意味しない�
 - `neb3fdedccd79`　AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている
 - `ne93c5cbf00aa`　財政を守る主体はいる。だが、財政を生む景気を誰が守るのかーー国の帳簿ではなく、税源を生む生活循環から考える
 - `ne689a6405eba`　AIとの対話には、プロンプトの技より先に「稽古」がいる
+- `n6b7e22574d71`　洪水は気候変動、陥没は行政の遅れ――集中管理型インフラが「原因」から消える報道
+- `nc4bdd50cbcfa`　AIはなぜ「別の原因も調べろ」を陰謀論に変えたのか――何度問いを戻しても戻らない対話と、高性能化が奪う「問いの主権」
 
 ## 使用停止1件
 
@@ -131,6 +133,7 @@ HIGH-RISKは0件になったが、これは強度監査通過を意味しない�
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`：17件（16件改稿候補、1件撤回、未処理0件）
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）
+- `analysis/stabilization_audit/CARDS_05_2026-07-28.md`：2件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
 - `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
 - `analysis/stabilization_audit/OPERATIONS.md`

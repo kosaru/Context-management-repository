@@ -6,18 +6,18 @@
 
 - 公開記事台帳：382件
 - 個別カードあり：104件
-- 詳細カード：78件
+- 詳細カード：79件
 - `REWRITTEN-PENDING-USER`：74件
 - `CONFIRMED-WITHDRAWN`：1件
-- `PENDING`：3件（新規・原文先行）
+- `PENDING`：4件（新規・原文先行）
 - `PASSED`：0件
-- 未解析カード：26件
+- 未解析カード：25件
 
 従来の「詳細解析済み」「精査済み」という扱いは撤回したままである。
 
 74件は原文比較後の改稿候補であり、ユーザー承認済みではない。
 
-## 詳細カード78件の割当て
+## 詳細カード79件の割当て
 
 | 区分 | 件数 | 台帳 |
 |---|---:|---|
@@ -29,7 +29,8 @@
 | 新規・原文先行 | 1 | `analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md` |
 | 新規・原文先行 | 1 | `analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md` |
 | 新規・原文先行 | 1 | `analysis/stabilization_audit/CARDS_08_NEW_ANALYSIS_2026-07-03.md` |
-| 合計 | 78 |  |
+| 新規・原文先行 | 1 | `analysis/stabilization_audit/CARDS_09_NEW_ANALYSIS_2026-07-04.md` |
+| 合計 | 79 |  |
 
 個別カード以外に、時期別解析、横断分析、派生モデル、テンプレート、自動索引、入口文書も監査対象とした。
 

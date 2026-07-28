@@ -27,13 +27,13 @@
 現在地：
 
 - 公開記事台帳：382件
-- 文脈解析あり：356件
-- 未割り当て・新着：26件
+- 文脈解析あり：357件
+- 未割り当て・新着：25件
 - 個別カードあり：104件
-- 詳細カード：78件
+- 詳細カード：79件
 - 改稿候補：74件
 - 使用停止：1件
-- 新規・原文先行分析：3件（PENDING）
+- 新規・原文先行分析：4件（PENDING）
 - PASSED：0件
 
 ## 完了した監査束
@@ -46,6 +46,7 @@
 - `CARDS_06_NEW_ANALYSIS_2026-07-01.md`：1件を新規・原文先行で作成、PENDING
 - `CARDS_07_NEW_ANALYSIS_2026-07-03.md`：1件を新規・原文先行で作成、PENDING
 - `CARDS_08_NEW_ANALYSIS_2026-07-03.md`：1件を新規・原文先行で作成、PENDING
+- `CARDS_09_NEW_ANALYSIS_2026-07-04.md`：1件を新規・原文先行で作成、PENDING
 - `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`：改稿候補作成済み
 - `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`：改稿候補作成済み
 - `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`：改稿候補作成済み
@@ -78,11 +79,12 @@
 
 ## 直近の新規・原文先行カード
 
+- `nb77b6d5f092f`：認知戦を偽情報の問題へ閉じず、入口と効果を分け、現代リベラルが内部純度競争によって翻訳層を自壊させる構造と再設計命令を記録
 - `ncdb4235f58bf`：他者へ投げた設計責任を自分へ戻し、四つの再設計を完成体系ではなく本番稼働中の社会を保守する暫定地図として記録
 - `n537d13475567`：全方位批判を中立論へ変えず、弱い側から負荷の不可視化へ問いを置く文章として記録
 - `na93e6bf0376c`：自称リベラルへの直接要求を弱めず、批判者の安全圏から設計責任へ移る命令として記録
-- 監査記録：`analysis/stabilization_audit/CARDS_08_NEW_ANALYSIS_2026-07-03.md`、`analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`、`analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
-- 状態：3件とも`PENDING`、`PASSED`ではない
+- 監査記録：`analysis/stabilization_audit/CARDS_09_NEW_ANALYSIS_2026-07-04.md`、`analysis/stabilization_audit/CARDS_08_NEW_ANALYSIS_2026-07-03.md`、`analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`、`analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
+- 状態：4件とも`PENDING`、`PASSED`ではない
 
 ## 直近に追加した既存カード監査
 

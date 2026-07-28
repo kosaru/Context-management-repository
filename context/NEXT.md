@@ -175,21 +175,23 @@ Comfort は、生活を無理なく回し、関係、子育て、介護、文化
 しかし、役割分担へ均してよいとは限らない。
 ```
 
-## 次の監査対象
+## 次の運用段階
 
-現在 `analysis/stabilization_audit/BATCHES_AND_CROSS.md` に明示されていた横断索引・補助分析の監査対象は一巡した。
+横断索引・補助分析の明示キューと、2026-07-28追加の2カードを含む全体到達点の整理は完了した。
 
-次は、全体の到達点を整理する。
+全体到達点：`analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md`
 
-確認するもの：
+次は、74件を一括承認するのではなく、実際に参照する記事から個別にユーザー判断へ回す。
+
+運用原則：
 
 ```text
-何が改稿候補になったか
-何が使用停止のままか
-何を土壌へ入れる肥料候補として残したか
-何を混入物として疑ったか
-何がユーザー判断待ちか
-PASSEDを0件にしたまま、今後どう運用するか
+原文を先に読む
+改稿候補はユーザー確認待ちとして読む
+補助線は原文と分けて表示する
+使用停止文書を正本にしない
+参照した記事だけを個別にユーザー判断へ回す
+AIが一括でPASSEDを付けない
 ```
 
 既存横断モデルを正本にしない。
@@ -203,6 +205,7 @@ PASSEDを0件にしたまま、今後どう運用するか
 - `context/REPOSITORY_SOIL.md`
 - `analysis/STABILIZATION_AUDIT_METHOD.md`
 - `analysis/STABILIZATION_AUDIT_REGISTER.md`
+- `analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md`
 - `analysis/stabilization_audit/CARDS_01_LATE.md`
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`

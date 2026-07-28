@@ -273,7 +273,7 @@ def write_coverage_markdown(
             review_count += 1
 
     lines = [
-        "# 全351記事の解析カバレッジ",
+        f"# 全{len(entries)}記事の解析カバレッジ",
         "",
         "このファイルは `scripts/update_analysis_coverage.py` が生成する。",
         "",

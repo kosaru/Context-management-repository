@@ -1,4 +1,4 @@
-# 全351記事の解析カバレッジ
+# 全382記事の解析カバレッジ
 
 このファイルは `scripts/update_analysis_coverage.py` が生成する。
 

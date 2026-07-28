@@ -4,47 +4,37 @@
 
 ## 現在の作業
 
-既存分析の安定化監査を行う。
+未割り当て・新着を、`review/INBOX.md` の順に原文から個別解析する。
 
-この監査は、単なる整理作業ではない。
+新規カードは、旧テンプレートや既存横断モデルから作らない。
 
-このリポジトリは、ユーザーの考えの土台であり、土壌である。
-
-原文、カード、修復記録、横断分析、未解決の問い、AIの補助線は、過去の思想を守るためだけでなく、新しい問いや原稿が芽吹くための土壌として扱う。
-
-AIが加えたものはすべて汚染物質ではない。
-
-AIの整理、比喩、接続、概念化、補助線の中にも、思考の土壌に栄養として入るものはある。
-
-ただし、AIが滑らかに整えたものを検査なしに受け入れるのは危険である。
-
-何が汚染物質で、何が肥料で、何が保留かを判断するのはユーザーである。
-
-AIは、原文にあったもの、AIが足したもの、補助線として有効かもしれないもの、安定化の疑いがあるもの、判断保留にすべきものを分けて提示する。
-
-詳細は `context/REPOSITORY_SOIL.md` を参照する。
+```text
+取得時スナップショットを読む
+→ 原文の最強命題、拒否、選択、緊張、非対称性を残す
+→ 原文で実際に退けた読みだけを書く
+→ 後続記事との直接継承と構造接続を分ける
+→ ユーザー確認前はPENDING
+→ 横断索引へ自動回収しない
+```
 
 停止中：
 
 - B-03以降の再判定
-- 詳細カードの追加
+- 重要記事の自動選定
 - 新しい横断モデルの作成
-
-監査対象：
-
-- 個別カード75件
-- 時期別解析6件
-- バッチ・B群分析
-- 横断索引
-- 派生モデル
-- テンプレートと自動索引
+- AIによる一括PASSED
 
 現在地：
 
-- 個別カード：74件が改稿候補、1件が使用停止、PASSED 0件
-- バッチ・B群分析・時期別解析：改稿候補化まで完了
-- 横断索引・補助分析：明示キュー一巡
-- 強度監査通過：0件
+- 公開記事台帳：382件
+- 文脈解析あり：354件
+- 未割り当て・新着：28件
+- 個別カードあり：104件
+- 詳細カード：76件
+- 改稿候補：74件
+- 使用停止：1件
+- 新規・原文先行分析：1件（PENDING）
+- PASSED：0件
 
 ## 完了した監査束
 
@@ -53,6 +43,7 @@ AIは、原文にあったもの、AIが足したもの、補助線として有�
 - `CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件すべて改稿候補作成済み
 - `CARDS_04_POLITICS_AND_B_GROUP.md`：13件すべて改稿候補作成済み
 - `CARDS_05_2026-07-28.md`：2件すべて改稿候補作成済み
+- `CARDS_06_NEW_ANALYSIS_2026-07-01.md`：1件を新規・原文先行で作成、PENDING
 - `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`：改稿候補作成済み
 - `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`：改稿候補作成済み
 - `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`：改稿候補作成済み
@@ -83,7 +74,13 @@ AIは、原文にあったもの、AIが足したもの、補助線として有�
 
 全件ユーザー確認待ちであり、PASSEDではない。
 
-## 直近に追加した個別カード監査
+## 直近の新規・原文先行カード
+
+- `na93e6bf0376c`：自称リベラルへの直接要求を弱めず、批判者の安全圏から設計責任へ移る命令として記録
+- 監査記録：`analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
+- 状態：`PENDING`、`PASSED`ではない
+
+## 直近に追加した既存カード監査
 
 - `n6b7e22574d71`：メディアへの直接要求と責任主体を復元し、`REWRITTEN-PENDING-USER`
 - `nc4bdd50cbcfa`：ChatGPT／OpenAIの名指しと利用者へ集中した修復負荷を復元し、`REWRITTEN-PENDING-USER`
@@ -211,6 +208,7 @@ AIが一括でPASSEDを付けない
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`
 - `analysis/stabilization_audit/CARDS_05_2026-07-28.md`
+- `analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
 - `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
 - `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
 - `analysis/stabilization_audit/OPERATIONS.md`

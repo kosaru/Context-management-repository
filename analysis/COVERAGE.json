@@ -4324,7 +4324,7 @@
       "analysis_state": "covered",
       "analysis_unit": "individual_card",
       "coverage_type": "individual_card",
-      "covered_at": "2026-07-28T05:17:09+00:00",
+      "covered_at": "2026-07-28T05:22:36+00:00",
       "covered_content_hash": "628a04d140ccac0bc9c5d9f4e3e36e2390096ad65730a77ef727983ffee32caf",
       "covered_public_status": "public",
       "covered_published_at": "2026-07-01",
@@ -6496,5 +6496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-28T05:17:10+00:00"
+  "updated_at": "2026-07-28T05:22:37+00:00"
 }

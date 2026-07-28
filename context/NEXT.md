@@ -1,6 +1,6 @@
 # 次の文脈
 
-更新日：2026-06-30
+更新日：2026-07-28
 
 ## 現在の作業
 
@@ -32,7 +32,7 @@ AIは、原文にあったもの、AIが足したもの、補助線として有�
 
 監査対象：
 
-- 個別カード73件
+- 個別カード75件
 - 時期別解析6件
 - バッチ・B群分析
 - 横断索引
@@ -41,7 +41,7 @@ AIは、原文にあったもの、AIが足したもの、補助線として有�
 
 現在地：
 
-- 個別カード：72件が改稿候補、1件が使用停止、PASSED 0件
+- 個別カード：74件が改稿候補、1件が使用停止、PASSED 0件
 - バッチ・B群分析・時期別解析：改稿候補化まで完了
 - 横断索引・補助分析：明示キュー一巡
 - 強度監査通過：0件
@@ -52,6 +52,7 @@ AIは、原文にあったもの、AIが足したもの、補助線として有�
 - `CARDS_02_FORMATION_AND_METHOD.md`：16件が改稿候補、1件が撤回、未処理0件
 - `CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`：18件すべて改稿候補作成済み
 - `CARDS_04_POLITICS_AND_B_GROUP.md`：13件すべて改稿候補作成済み
+- `CARDS_05_2026-07-28.md`：2件すべて改稿候補作成済み
 - `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`：改稿候補作成済み
 - `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`：改稿候補作成済み
 - `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`：改稿候補作成済み
@@ -82,7 +83,14 @@ AIは、原文にあったもの、AIが足したもの、補助線として有�
 
 全件ユーザー確認待ちであり、PASSEDではない。
 
-## 今回作成した改稿候補
+## 直近に追加した個別カード監査
+
+- `n6b7e22574d71`：メディアへの直接要求と責任主体を復元し、`REWRITTEN-PENDING-USER`
+- `nc4bdd50cbcfa`：ChatGPT／OpenAIの名指しと利用者へ集中した修復負荷を復元し、`REWRITTEN-PENDING-USER`
+- 監査記録：`analysis/stabilization_audit/CARDS_05_2026-07-28.md`
+- `PASSED`：0件のまま
+
+## 直前の横断監査で作成した改稿候補
 
 ### `analysis/SECURITY_COMFORT_ROLE_ALLOCATION.md`
 
@@ -199,6 +207,7 @@ PASSEDを0件にしたまま、今後どう運用するか
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`
 - `analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md`
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`
+- `analysis/stabilization_audit/CARDS_05_2026-07-28.md`
 - `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
 - `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
 - `analysis/stabilization_audit/OPERATIONS.md`

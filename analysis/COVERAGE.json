@@ -5831,6 +5831,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "ne7fda6b47615": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "ne7fda6b47615",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "ne93c5cbf00aa": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-05-06-ne93c5cbf00aa.md",
@@ -6496,5 +6513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-28T11:06:34+00:00"
+  "updated_at": "2026-07-28T14:04:38+00:00"
 }

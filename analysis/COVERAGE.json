@@ -4319,21 +4319,21 @@
       "role": ""
     },
     "na93e6bf0376c": {
-      "analysis_label": "未割り当て",
-      "analysis_ref": "",
-      "analysis_state": "pending",
-      "analysis_unit": "unassigned",
-      "coverage_type": "unassigned",
-      "covered_at": "",
-      "covered_content_hash": "",
-      "covered_public_status": "",
-      "covered_published_at": "",
-      "covered_title": "",
+      "analysis_label": "自称リベラルへの直接要求・設計責任",
+      "analysis_ref": "articles/cards/2026-07-01-na93e6bf0376c.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-07-28T05:17:09+00:00",
+      "covered_content_hash": "628a04d140ccac0bc9c5d9f4e3e36e2390096ad65730a77ef727983ffee32caf",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-07-01",
+      "covered_title": "リベラルは、批判のあとに何を設計するのか",
       "defer_reason": "",
       "note_id": "na93e6bf0376c",
       "recheck_after": "",
       "recheck_condition": "",
-      "role": ""
+      "role": "自称リベラルへの直接要求・設計責任"
     },
     "na97fce05521e": {
       "analysis_label": "第2期：2026-02-11〜02-27",
@@ -6496,5 +6496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-28T05:08:39+00:00"
+  "updated_at": "2026-07-28T05:17:10+00:00"
 }

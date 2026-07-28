@@ -2058,21 +2058,21 @@
       "role": ""
     },
     "n537d13475567": {
-      "analysis_label": "未割り当て",
-      "analysis_ref": "",
-      "analysis_state": "pending",
-      "analysis_unit": "unassigned",
-      "coverage_type": "unassigned",
-      "covered_at": "",
-      "covered_content_hash": "",
-      "covered_public_status": "",
-      "covered_published_at": "",
-      "covered_title": "",
+      "analysis_label": "弱い立場からの負荷追跡・問いの土壌",
+      "analysis_ref": "articles/cards/2026-07-03-n537d13475567.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-07-28T08:48:50+00:00",
+      "covered_content_hash": "2a94b6c97b99921ffc980fbd06c308aff614b7aaf4a2c03b22c1ded6c0033e78",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-07-03",
+      "covered_title": "弱い立場から、強い相手に喧嘩を売るということ",
       "defer_reason": "",
       "note_id": "n537d13475567",
       "recheck_after": "",
       "recheck_condition": "",
-      "role": ""
+      "role": "弱い立場からの負荷追跡・問いの土壌"
     },
     "n538671e87dff": {
       "analysis_label": "第3期：2026-03-02〜03-13",
@@ -6496,5 +6496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-28T05:30:27+00:00"
+  "updated_at": "2026-07-28T08:48:50+00:00"
 }

@@ -27,13 +27,13 @@
 現在地：
 
 - 公開記事台帳：382件
-- 文脈解析あり：354件
-- 未割り当て・新着：28件
+- 文脈解析あり：355件
+- 未割り当て・新着：27件
 - 個別カードあり：104件
-- 詳細カード：76件
+- 詳細カード：77件
 - 改稿候補：74件
 - 使用停止：1件
-- 新規・原文先行分析：1件（PENDING）
+- 新規・原文先行分析：2件（PENDING）
 - PASSED：0件
 
 ## 完了した監査束
@@ -44,6 +44,7 @@
 - `CARDS_04_POLITICS_AND_B_GROUP.md`：13件すべて改稿候補作成済み
 - `CARDS_05_2026-07-28.md`：2件すべて改稿候補作成済み
 - `CARDS_06_NEW_ANALYSIS_2026-07-01.md`：1件を新規・原文先行で作成、PENDING
+- `CARDS_07_NEW_ANALYSIS_2026-07-03.md`：1件を新規・原文先行で作成、PENDING
 - `analysis/BATCH_02_RESPONSIBILITY_DECISION_EXIT.md`：改稿候補作成済み
 - `analysis/BATCH_03_CONTINUITY_CIVILIZATION_SECURITY.md`：改稿候補作成済み
 - `analysis/BATCH_04_AI_INFORMATION_REPAIR.md`：改稿候補作成済み
@@ -76,9 +77,10 @@
 
 ## 直近の新規・原文先行カード
 
+- `n537d13475567`：全方位批判を中立論へ変えず、弱い側から負荷の不可視化へ問いを置く文章として記録
 - `na93e6bf0376c`：自称リベラルへの直接要求を弱めず、批判者の安全圏から設計責任へ移る命令として記録
-- 監査記録：`analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
-- 状態：`PENDING`、`PASSED`ではない
+- 監査記録：`analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`、`analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
+- 状態：2件とも`PENDING`、`PASSED`ではない
 
 ## 直近に追加した既存カード監査
 

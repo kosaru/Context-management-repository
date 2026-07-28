@@ -1,146 +1,37 @@
-name: Synchronize note articles
+name: Temporary finalize nb77b6d5f092f
 
 on:
-  workflow_dispatch:
-    inputs:
-      limit:
-        description: Maximum discovered articles to process; 0 means all
-        required: true
-        default: "0"
-      max_pages:
-        description: Safety limit for note creator API pagination
-        required: true
-        default: "100"
-      verify_all:
-        description: Fetch every discovered article and compare body hashes
-        required: true
-        type: boolean
-        default: false
-  schedule:
-    - cron: "17 3 * * 0"
-    - cron: "47 3 1 * *"
   push:
     paths:
       - ".github/workflows/collect-note.yml"
-      - "articles/cards/**"
-      - "scripts/collect_note.py"
-      - "scripts/collect_note_api.py"
-      - "scripts/sync_note.py"
-      - "scripts/note_index.py"
-      - "scripts/build_compact_article_map.py"
-      - "scripts/dedupe_note_cards.py"
-      - "scripts/prune_empty_note_cards.py"
-      - "scripts/refresh_card_coverage.py"
-      - "scripts/update_analysis_coverage.py"
-      - "scripts/finalize_analysis_coverage.py"
-      - "scripts/sync_review_issue.py"
-      - "tests/test_note_context_ops.py"
-      - "requirements.txt"
 
 permissions:
   contents: write
-  issues: write
-
-concurrency:
-  group: synchronize-note
-  cancel-in-progress: false
 
 jobs:
-  synchronize:
+  finalize:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
-
-      - name: Validate synchronization scripts
+      - name: Finalize analysis state
+        run: python3 scripts/temp_finalize_nb77.py
+      - name: Restore workflow and remove temporary script
         run: |
-          python -m py_compile \
-            scripts/collect_note.py \
-            scripts/collect_note_api.py \
-            scripts/sync_note.py \
-            scripts/note_index.py \
-            scripts/build_compact_article_map.py \
-            scripts/dedupe_note_cards.py \
-            scripts/prune_empty_note_cards.py \
-            scripts/refresh_card_coverage.py \
-            scripts/update_analysis_coverage.py \
-            scripts/finalize_analysis_coverage.py \
-            scripts/sync_review_issue.py \
-            tests/test_note_context_ops.py
-
-      - name: Run note context operation tests
-        run: python -m unittest discover -s tests -p "test_*.py" -v
-
-      - name: Synchronize articles
-        env:
-          LIMIT: ${{ inputs.limit || '0' }}
-          MAX_PAGES: ${{ inputs.max_pages || '100' }}
-          VERIFY_ALL: ${{ inputs.verify_all || 'false' }}
-          SCHEDULE: ${{ github.event.schedule || '' }}
+          git fetch origin main
+          git checkout origin/main -- .github/workflows/collect-note.yml
+          git rm -f scripts/temp_finalize_nb77.py
+      - name: Commit finalized state
         run: |
-          args=(--profile "https://note.com/shirokuma1970" --limit "$LIMIT" --max-pages "$MAX_PAGES")
-          if [[ "$VERIFY_ALL" == "true" || "$SCHEDULE" == "47 3 1 * *" ]]; then
-            args+=(--verify-all)
-          fi
-          python scripts/sync_note.py "${args[@]}"
-
-      - name: Deduplicate cards by note ID
-        run: python scripts/dedupe_note_cards.py
-
-      - name: Update analysis coverage
-        run: python scripts/update_analysis_coverage.py
-
-      - name: Protect initial analyzed corpus
-        run: python scripts/finalize_analysis_coverage.py
-
-      - name: Promote unchanged covered articles to detailed-card references
-        run: python scripts/refresh_card_coverage.py
-
-      - name: Regenerate coverage summary and review queue
-        run: python scripts/update_analysis_coverage.py
-
-      - name: Remove empty cards already covered by bundles
-        run: python scripts/prune_empty_note_cards.py
-
-      - name: Regenerate compact article maps
-        run: python scripts/build_compact_article_map.py
-
-      - name: Regenerate article and analysis index
-        run: python scripts/note_index.py
-
-      - name: Commit synchronization results
-        run: |
-          if git diff --quiet && [[ -z "$(git status --porcelain)" ]]; then
-            echo "No content changes"
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add \
-              articles/CARD_INDEX.md \
-              articles/COMPACT_MAP.md \
-              articles/maps \
-              articles/cards \
-              analysis/BASELINE_NOTE_IDS.json \
-              analysis/COVERAGE.json \
-              analysis/COVERAGE.md \
-              review/INBOX.md \
-              sources/note
-            git commit -m "Synchronize note articles"
-            git pull --rebase
-            git push
-          fi
-
-      - name: Synchronize review issue
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/sync_review_issue.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add START_HERE.md analysis/COVERAGE.json analysis/COVERAGE.md analysis/INDIVIDUAL_ARTICLE_REVIEW_PROGRESS.md analysis/KEY_ARTICLE_SELECTION.md analysis/STABILIZATION_AUDIT_REGISTER.md analysis/stabilization_audit/OPERATIONS.md articles/CARD_INDEX.md articles/INDEX.md context/CURRENT.md context/NEXT.md review/INBOX.md .github/workflows/collect-note.yml
+          git commit -m "Finalize original-first analysis for nb77b6d5f092f"
+          git push

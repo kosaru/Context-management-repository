@@ -17,16 +17,16 @@
 
 - 公開記事台帳：382件
 - 個別カードあり：104件
-- 詳細カード：76件
+- 詳細カード：77件
 - 改稿候補・ユーザー確認待ち：74件
 - 使用停止：1件
-- 新規・原文先行分析：1件（PENDING）
+- 新規・原文先行分析：2件（PENDING）
 - PASSED：0件
 - 旧B群再判定：停止
 
 ## 現在の判定
 
-詳細カード76件は、次の監査台帳へ記録した。
+詳細カード77件は、次の監査台帳へ記録した。
 
 - `analysis/stabilization_audit/CARDS_01_LATE.md`
 - `analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md`
@@ -34,6 +34,7 @@
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`
 - `analysis/stabilization_audit/CARDS_05_2026-07-28.md`
 - `analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
+- `analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`
 
 全体到達点：
 

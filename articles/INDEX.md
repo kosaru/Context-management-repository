@@ -5,17 +5,17 @@
 ## 現在の信頼状態
 
 - 公開記事台帳：382件
-- 文脈解析あり：354件
-- 文脈未解析・新着：28件
+- 文脈解析あり：355件
+- 文脈未解析・新着：27件
 - 個別カードあり：104件
 - 個別カードなし：278件
-- 詳細カード：76件（改稿候補74件＋使用停止1件＋新規・原文先行PENDING 1件）
-- 未解析カード：28件
+- 詳細カード：77件（改稿候補74件＋使用停止1件＋新規・原文先行PENDING 2件）
+- 未解析カード：27件
 - 強度監査通過：0件
 
 個別カードがあることは、元文章を正確に保持したことを意味しません。
 
-詳細カード76件のうち、74件は改稿候補・ユーザー確認待ち、1件は使用停止、1件は新規・原文先行分析のPENDINGです。PASSEDは0件です。
+詳細カード77件のうち、74件は改稿候補・ユーザー確認待ち、1件は使用停止、2件は新規・原文先行分析のPENDINGです。PASSEDは0件です。
 
 ## 最初に読むもの
 
@@ -29,9 +29,10 @@
 8. [政治・B群13件](../analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md)
 9. [2026-07-28追加カード2件](../analysis/stabilization_audit/CARDS_05_2026-07-28.md)
 10. [新規・原文先行カード1件](../analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md)
-11. [モデル監査](../analysis/stabilization_audit/MODELS_AND_INDEXES.md)
-12. [バッチ・横断分析監査](../analysis/stabilization_audit/BATCHES_AND_CROSS.md)
-13. [運用監査](../analysis/stabilization_audit/OPERATIONS.md)
+11. [新規・原文先行カード1件](../analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md)
+12. [モデル監査](../analysis/stabilization_audit/MODELS_AND_INDEXES.md)
+13. [バッチ・横断分析監査](../analysis/stabilization_audit/BATCHES_AND_CROSS.md)
+14. [運用監査](../analysis/stabilization_audit/OPERATIONS.md)
 
 ## 探索用
 
@@ -52,7 +53,7 @@
 次は原文比較または監査上の改稿候補化まで進んでいますが、ユーザー承認前であり、現在地の正本として扱いません。
 
 - 詳細カード74件の改稿候補
-- 新規・原文先行カード1件（PENDING）
+- 新規・原文先行カード2件（PENDING）
 - 時期別解析6件
 - 一次選定バッチ分析
 - B群再判定1〜4

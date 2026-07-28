@@ -10,29 +10,30 @@
 
 ## 現在の扱い
 
-既存監査由来の詳細カード75件と、新規・原文先行カード1件を管理する。時期別解析、横断分析、派生モデルは、原文より上位の正本として扱わない。
+既存監査由来の詳細カード75件と、新規・原文先行カード2件を管理する。時期別解析、横断分析、派生モデルは、原文より上位の正本として扱わない。
 
 - 強度監査通過：0件
 - 改稿候補・ユーザー確認待ち：74件
-- 新規・原文先行分析・ユーザー確認待ち：1件
+- 新規・原文先行分析・ユーザー確認待ち：2件
 - 使用停止・安定化確認済み：1件
 - 旧監査対象の未処理：0件
 - 時期別解析・横断分析・モデル：再監査対象
 - 新しいB群解析：停止
 
-## 個別カード76件の現在地
+## 個別カード77件の現在地
 
 - `REWRITTEN-PENDING-USER`：74件
 - `CONFIRMED-WITHDRAWN`：1件
 - `HIGH-RISK`：0件
-- `PENDING`：1件
+- `PENDING`：2件
 - `PASSED`：0件
 
-HIGH-RISKは0件だが、これは強度監査通過を意味しない。74件は改稿候補、1件は使用停止、1件は新規・原文先行分析のユーザー確認待ちであり、PASSEDは0件である。
+HIGH-RISKは0件だが、これは強度監査通過を意味しない。74件は改稿候補、1件は使用停止、2件は新規・原文先行分析のユーザー確認待ちであり、PASSEDは0件である。
 
-## 新規・原文先行分析1件
+## 新規・原文先行分析2件
 
 - `na93e6bf0376c`　リベラルは、批判のあとに何を設計するのか（`PENDING`）
+- `n537d13475567`　弱い立場から、強い相手に喧嘩を売るということ（`PENDING`）
 
 ## 改稿候補74件
 
@@ -140,6 +141,7 @@ HIGH-RISKは0件だが、これは強度監査通過を意味しない。74件�
 - `analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md`：13件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_05_2026-07-28.md`：2件（全件改稿候補作成済み）
 - `analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`：1件（新規・原文先行、PENDING）
+- `analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`：1件（新規・原文先行、PENDING）
 - `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
 - `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
 - `analysis/stabilization_audit/OPERATIONS.md`

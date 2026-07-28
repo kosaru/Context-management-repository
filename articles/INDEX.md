@@ -1,4 +1,4 @@
-# 記事索引――強度監査中
+# 記事索引――監査改稿候補化済み・ユーザー確認前
 
 更新日：2026-07-28
 
@@ -6,26 +6,31 @@
 
 - 公開記事台帳：382件
 - 文脈解析あり：353件
+- 文脈未解析・新着：29件
 - 個別カードあり：104件
-- 強度監査通過：0件
 - 個別カードなし：278件
 - 詳細カード：75件（改稿候補74件＋使用停止1件）
 - 未解析カード：29件
+- 強度監査通過：0件
 
-個別カードがあることは、元文章を正確に保持したことを意味しません。詳細カード75件の監査結果は、74件が改稿候補・ユーザー確認待ち、1件が使用停止です。PASSEDは0件です。
+個別カードがあることは、元文章を正確に保持したことを意味しません。
+
+詳細カード75件は原文比較まで行いましたが、74件は改稿候補・ユーザー確認待ち、1件は使用停止です。PASSEDは0件です。
 
 ## 最初に読むもの
 
-1. [安定化監査の方法](../analysis/STABILIZATION_AUDIT_METHOD.md)
-2. [安定化監査台帳](../analysis/STABILIZATION_AUDIT_REGISTER.md)
-3. [後期詳細カード25件](../analysis/stabilization_audit/CARDS_01_LATE.md)
-4. [初期形成・方法論17件](../analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md)
-5. [責任・継続・AI18件](../analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md)
-6. [政治・B群13件](../analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md)
-7. [モデル監査](../analysis/stabilization_audit/MODELS_AND_INDEXES.md)
-8. [バッチ・横断分析監査](../analysis/stabilization_audit/BATCHES_AND_CROSS.md)
-9. [運用監査](../analysis/stabilization_audit/OPERATIONS.md)
-10. [安定化監査の全体到達点](../analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md)
+1. [安定化監査の全体到達点](../analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md)
+2. [事故記録001](../analysis/incidents/INCIDENT_001_AI_DESTROYED_HUMAN_THOUGHT.md)
+3. [安定化監査の方法](../analysis/STABILIZATION_AUDIT_METHOD.md)
+4. [安定化監査台帳](../analysis/STABILIZATION_AUDIT_REGISTER.md)
+5. [後期詳細カード25件](../analysis/stabilization_audit/CARDS_01_LATE.md)
+6. [初期形成・方法論17件](../analysis/stabilization_audit/CARDS_02_FORMATION_AND_METHOD.md)
+7. [責任・継続・AI18件](../analysis/stabilization_audit/CARDS_03_RESPONSIBILITY_CONTINUITY_AI.md)
+8. [政治・B群13件](../analysis/stabilization_audit/CARDS_04_POLITICS_AND_B_GROUP.md)
+9. [2026-07-28追加カード2件](../analysis/stabilization_audit/CARDS_05_2026-07-28.md)
+10. [モデル監査](../analysis/stabilization_audit/MODELS_AND_INDEXES.md)
+11. [バッチ・横断分析監査](../analysis/stabilization_audit/BATCHES_AND_CROSS.md)
+12. [運用監査](../analysis/stabilization_audit/OPERATIONS.md)
 
 ## 探索用
 
@@ -41,15 +46,18 @@
 
 コンパクト地図の要旨・役割候補・系譜候補は探索専用であり、元文章の強度判定には使いません。
 
-## 未監査の分析資産
+## 未承認の暫定分析資産
 
-次は存在しますが、監査完了まで現在地の正本として扱いません。
+次は原文比較または監査上の改稿候補化まで進んでいますが、ユーザー承認前であり、現在地の正本として扱いません。
 
+- 詳細カード74件の改稿候補
 - 時期別解析6件
 - 一次選定バッチ分析
 - B群再判定1〜4
 - 六系譜・横断再構築・現在の立場
 - 責任配置、継続、Security、AI、政治、国際秩序の派生モデル
+
+接続できることと、原文が直接継承したこと、ユーザーが採用したことを分けます。
 
 ## 新規カード
 

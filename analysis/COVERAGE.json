@@ -2670,21 +2670,21 @@
       "role": ""
     },
     "n6b7e22574d71": {
-      "analysis_label": "未割り当て",
-      "analysis_ref": "",
-      "analysis_state": "pending",
-      "analysis_unit": "unassigned",
-      "coverage_type": "unassigned",
-      "covered_at": "",
-      "covered_content_hash": "",
-      "covered_public_status": "",
-      "covered_published_at": "",
-      "covered_title": "",
+      "analysis_label": "統合稿・適用稿",
+      "analysis_ref": "articles/cards/2026-07-28-n6b7e22574d71.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-07-28T03:11:37+00:00",
+      "covered_content_hash": "1bd88285db3e221aa0806cbc2f618d1a4e98d412741ec1fb3245174045688724",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-07-28",
+      "covered_title": "洪水は気候変動、陥没は行政の遅れ――集中管理型インフラが「原因」から消える報道",
       "defer_reason": "",
       "note_id": "n6b7e22574d71",
       "recheck_after": "",
       "recheck_condition": "",
-      "role": ""
+      "role": "統合稿・適用稿"
     },
     "n6c7b5ee0ddc2": {
       "analysis_label": "第1期：2026-01-24〜02-10",
@@ -4863,21 +4863,21 @@
       "role": ""
     },
     "nc4bdd50cbcfa": {
-      "analysis_label": "未割り当て",
-      "analysis_ref": "",
-      "analysis_state": "pending",
-      "analysis_unit": "unassigned",
-      "coverage_type": "unassigned",
-      "covered_at": "",
-      "covered_content_hash": "",
-      "covered_public_status": "",
-      "covered_published_at": "",
-      "covered_title": "",
+      "analysis_label": "衝突記録・方法論化・運用設計",
+      "analysis_ref": "articles/cards/2026-07-28-nc4bdd50cbcfa.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-07-28T03:11:37+00:00",
+      "covered_content_hash": "5eb3d3186307ecac3fce17cded51828712380e1613cb4065f0a638bd67471c1c",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-07-28",
+      "covered_title": "AIはなぜ「別の原因も調べろ」を陰謀論に変えたのか――何度問いを戻しても戻らない対話と、高性能化が奪う「問いの主権」",
       "defer_reason": "",
       "note_id": "nc4bdd50cbcfa",
       "recheck_after": "",
       "recheck_condition": "",
-      "role": ""
+      "role": "衝突記録・方法論化・運用設計"
     },
     "nc4e09a46f8d0": {
       "analysis_label": "第3期：2026-03-02〜03-13",
@@ -6496,5 +6496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-28T02:56:14+00:00"
+  "updated_at": "2026-07-28T03:11:38+00:00"
 }

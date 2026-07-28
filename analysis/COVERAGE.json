@@ -5152,21 +5152,21 @@
       "role": ""
     },
     "ncdb4235f58bf": {
-      "analysis_label": "未割り当て",
-      "analysis_ref": "",
-      "analysis_state": "pending",
-      "analysis_unit": "unassigned",
-      "coverage_type": "unassigned",
-      "covered_at": "",
-      "covered_content_hash": "",
-      "covered_public_status": "",
-      "covered_published_at": "",
-      "covered_title": "",
+      "analysis_label": "四層の暫定地図・本番稼働中の再設計",
+      "analysis_ref": "articles/cards/2026-07-03-ncdb4235f58bf.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-07-28T10:40:26+00:00",
+      "covered_content_hash": "5f0ad2a69261f01c7a34dea834569faedeec0a1d579c03ce32f3904cee1ae658",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-07-03",
+      "covered_title": "批判で終わるなと言った以上、私は何を再設計してきたのか",
       "defer_reason": "",
       "note_id": "ncdb4235f58bf",
       "recheck_after": "",
       "recheck_condition": "",
-      "role": ""
+      "role": "四層の暫定地図・本番稼働中の再設計"
     },
     "nceed5a30ac0f": {
       "analysis_label": "第3期：2026-03-02〜03-13",
@@ -6496,5 +6496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-28T08:54:42+00:00"
+  "updated_at": "2026-07-28T10:40:27+00:00"
 }

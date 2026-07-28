@@ -2,7 +2,7 @@
 
 ## 重要――監査改稿候補化済み・ユーザー確認前
 
-既存監査由来の詳細カード75件は、74件を改稿候補、1件を使用停止とした。さらに新規・原文先行カード2件を作成した。**すべてユーザー確認前であり、PASSEDは0件**です。
+既存監査由来の詳細カード75件は、74件を改稿候補、1件を使用停止とした。さらに新規・原文先行カード3件を作成した。**すべてユーザー確認前であり、PASSEDは0件**です。
 
 時期別解析、横断分析、派生モデルも、原文より上位の正本としては使いません。
 
@@ -17,10 +17,10 @@
 
 - 公開記事台帳：382件
 - 全記事の収集・所在確認：完了
-- 文脈解析あり：355件
-- 個別カードあり：104件（詳細カード77件＋未解析カード27件）
+- 文脈解析あり：356件
+- 個別カードあり：104件（詳細カード78件＋未解析カード26件）
 - 詳細カードの改稿候補：74件
-- 新規・原文先行分析：2件（PENDING）
+- 新規・原文先行分析：3件（PENDING）
 - 使用停止：1件
 - 強度監査通過：0件
 - 新しいB群再判定：停止
@@ -49,9 +49,10 @@
 9. `analysis/stabilization_audit/CARDS_05_2026-07-28.md`
 10. `analysis/stabilization_audit/CARDS_06_NEW_ANALYSIS_2026-07-01.md`
 11. `analysis/stabilization_audit/CARDS_07_NEW_ANALYSIS_2026-07-03.md`
-12. `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
-13. `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
-14. `analysis/stabilization_audit/OPERATIONS.md`
+12. `analysis/stabilization_audit/CARDS_08_NEW_ANALYSIS_2026-07-03.md`
+13. `analysis/stabilization_audit/MODELS_AND_INDEXES.md`
+14. `analysis/stabilization_audit/BATCHES_AND_CROSS.md`
+15. `analysis/stabilization_audit/OPERATIONS.md`
 
 ## 確認済みの問題
 

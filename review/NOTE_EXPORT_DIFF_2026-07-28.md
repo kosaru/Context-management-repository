@@ -20,10 +20,27 @@
    - 洪水は気候変動、陥没は行政の遅れ――集中管理型インフラが「原因」から消える報道
    - 公開日：2026-07-28
 
-各記事について、次を追加した。
+各記事について、次が追加された。
 
-- `sources/note/<note_id>.md`：エクスポート本文から作成した原文スナップショット
+- `sources/note/<note_id>.md`：既存のnote同期処理が公開本文から生成した原文スナップショット
 - `articles/cards/2026-07-28-<note_id>.md`：未解析カード
+
+## 自動更新された派生台帳
+
+ブランチへの追加後、既存の同期処理が実行され、次の派生台帳も新規2件を含む状態へ更新された。
+
+- `sources/note/catalog.json`
+- `sources/note/change-log.jsonl`
+- `sources/note/discovery.json`
+- `sources/note/last-sync.json`
+- `analysis/COVERAGE.json`
+- `analysis/COVERAGE.md`
+- `articles/CARD_INDEX.md`
+- `articles/COMPACT_MAP.md`
+- `articles/maps/INDIVIDUAL_2026-05_TO_06.md`
+- `review/INBOX.md`
+
+今回追加したカードは `unreviewed` であり、本文の分析、既存系譜への接続、概念索引への割当ては行っていない。
 
 ## 下書き
 
@@ -35,18 +52,3 @@
 - 作成日時：2026-07-17 18:52:58
 
 下書きを公開原文と同じ場所へ入れると、公開済み原文と未公開原稿の境界が消えるため、今回は差分記録だけを残した。
-
-## 反映していない派生物
-
-今回追加したカードは `unreviewed` であり、本文の分析、既存系譜への接続、概念索引への割当ては行っていない。
-
-また、次の自動生成物は手作業で書き換えていない。
-
-- `sources/note/catalog.json`
-- `analysis/COVERAGE.json`
-- `analysis/COVERAGE.md`
-- `articles/CARD_INDEX.md`
-- `articles/COMPACT_MAP.md`
-- `review/INBOX.md`
-
-理由は、これらが同期処理から生成される派生台帳であり、原文追加と同時にAIが独自の解析状態や系譜を確定しないためである。次回の通常同期では、新規2件を検出したうえで派生台帳が更新される必要がある。

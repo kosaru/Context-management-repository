@@ -3,11 +3,6 @@
   "deleted_count": 0,
   "preserved_unreviewed": [
     {
-      "note_id": "n72bb2b88cd8d",
-      "path": "articles/cards/2026-07-10-n72bb2b88cd8d.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
       "note_id": "n9be7dc34d511",
       "path": "articles/cards/2026-07-10-n9be7dc34d511.md",
       "reason": "not_covered_elsewhere"
@@ -93,5 +88,5 @@
       "reason": "not_covered_elsewhere"
     }
   ],
-  "preserved_unreviewed_count": 18
+  "preserved_unreviewed_count": 17
 }

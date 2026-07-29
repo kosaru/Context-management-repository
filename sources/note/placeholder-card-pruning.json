@@ -3,26 +3,6 @@
   "deleted_count": 0,
   "preserved_unreviewed": [
     {
-      "note_id": "nbd1ffd836c95",
-      "path": "articles/cards/2026-07-07-nbd1ffd836c95.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
-      "note_id": "nf79a947c366e",
-      "path": "articles/cards/2026-07-07-nf79a947c366e.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
-      "note_id": "n3cba40a6b765",
-      "path": "articles/cards/2026-07-09-n3cba40a6b765.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
-      "note_id": "n7246c369ce38",
-      "path": "articles/cards/2026-07-09-n7246c369ce38.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
       "note_id": "n014d02d0d8f5",
       "path": "articles/cards/2026-07-10-n014d02d0d8f5.md",
       "reason": "not_covered_elsewhere"
@@ -116,7 +96,12 @@
       "note_id": "ne7fda6b47615",
       "path": "articles/cards/2026-07-28-ne7fda6b47615.md",
       "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "ncae795cc9ae7",
+      "path": "articles/cards/2026-07-29-ncae795cc9ae7.md",
+      "reason": "not_covered_elsewhere"
     }
   ],
-  "preserved_unreviewed_count": 23
+  "preserved_unreviewed_count": 20
 }

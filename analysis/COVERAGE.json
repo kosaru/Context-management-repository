@@ -612,6 +612,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n1fdd7abf330b": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n1fdd7abf330b",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n1fe75305a32b": {
       "analysis_label": "第1期：2026-01-24〜02-10",
       "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
@@ -1458,6 +1475,23 @@
       "covered_title": "国連が文明保存へ移るとはどういうことか",
       "defer_reason": "",
       "note_id": "n3d044a7983c5",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n3d35fb134efb": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n3d35fb134efb",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -2835,6 +2869,23 @@
       "covered_title": "見えなくなった危機について",
       "defer_reason": "",
       "note_id": "n728a7fce99d1",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n72a0bc8037c2": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n72a0bc8037c2",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -6530,5 +6581,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-29T07:56:59+00:00"
+  "updated_at": "2026-08-01T06:24:10+00:00"
 }

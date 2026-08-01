@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：28件
+- 確認待ち：32件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -223,6 +223,38 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/ncae795cc9ae7
+
+### [AIと政治的な議論をすべきではない理由――「護憲派の政党はどこか」と聞いただけだった](../articles/cards/2026-07-30-n72a0bc8037c2.md)
+
+- note ID：`n72a0bc8037c2`
+- 公開日：2026-07-30
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n72a0bc8037c2
+
+### [水を捨てる都市から、水を地面へ返す都市へ――環境問題を二酸化炭素だけにしないために](../articles/cards/2026-07-31-n3d35fb134efb.md)
+
+- note ID：`n3d35fb134efb`
+- 公開日：2026-07-31
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n3d35fb134efb
+
+### [私は全体主義について、まだ明示的に語ってこなかった――社会主義、資本主義、民主主義、自由主義について書いてきた先に残った空白](../articles/cards/2026-08-01-n1fdd7abf330b.md)
+
+- note ID：`n1fdd7abf330b`
+- 公開日：2026-08-01
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1fdd7abf330b
+
+### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
+
+- note ID：`n4690a13cff98`
+- 公開日：2026-04-06
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-04-06-n4690a13cff98.md
+- 公開本文：https://note.com/shirokuma1970/n/n4690a13cff98
 
 ### [予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで](../articles/cards/2026-06-23-nee567e7bf172.md)
 

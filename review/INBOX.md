@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：33件
+- 確認待ち：41件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -255,6 +255,70 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/ne93fb5a7a264
+
+### [竹田恒泰の「琉球国」論をどう読むか――中国属国論を退けながら、国家形成の征服と力の差を消さないために](../articles/cards/2026-08-03-nb1930f0635f5.md)
+
+- note ID：`nb1930f0635f5`
+- 公開日：2026-08-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nb1930f0635f5
+
+### [温暖化のメリットは、なぜほとんど語られないのか](../articles/cards/2026-08-04-n05883c1351d5.md)
+
+- note ID：`n05883c1351d5`
+- 公開日：2026-08-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n05883c1351d5
+
+### [沖縄は、何度政治の言葉を信じればよいのか――日本政府と沖縄県民のあいだで失われた責任の線](../articles/cards/2026-08-04-n191e869e2d48.md)
+
+- note ID：`n191e869e2d48`
+- 公開日：2026-08-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n191e869e2d48
+
+### [琉球王国は、どのように沖縄県へ変えられたのか――維新慶賀使、台湾出兵、琉球処分、頑固党と開化党](../articles/cards/2026-08-04-na3232aef34df.md)
+
+- note ID：`na3232aef34df`
+- 公開日：2026-08-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/na3232aef34df
+
+### [沖縄はなぜ本土復帰を求め、なぜ米軍基地は残ったのか――沖縄県民の意思、東アジア冷戦、日米両政府が決めた復帰](../articles/cards/2026-08-04-nbe27d59ccc74.md)
+
+- note ID：`nbe27d59ccc74`
+- 公開日：2026-08-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nbe27d59ccc74
+
+### [食料自給率38％の先にあるもの――「減速のイノベーション」から食料安全保障を考える](../articles/cards/2026-08-07-n1727baff6621.md)
+
+- note ID：`n1727baff6621`
+- 公開日：2026-08-07
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1727baff6621
+
+### [カーボンニュートラルを掲げるだけでは、人類は続かない](../articles/cards/2026-08-08-n4ea37b695887.md)
+
+- note ID：`n4ea37b695887`
+- 公開日：2026-08-08
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n4ea37b695887
+
+### [生成AIは、なぜ言いにくいことをユーザーに言わせるのか――「知的自由」を掲げながら、認識には介入し、発言責任だけを人間へ返す](../articles/cards/2026-08-08-n882c339c0431.md)
+
+- note ID：`n882c339c0431`
+- 公開日：2026-08-08
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n882c339c0431
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

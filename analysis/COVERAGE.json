@@ -136,6 +136,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n05883c1351d5": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n05883c1351d5",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n087b3e0ce97a": {
       "analysis_label": "第4期：2026-03-14〜03-21",
       "analysis_ref": "analysis/PHASE_04_2026-03-14_TO_03-21.md",
@@ -442,6 +459,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n1727baff6621": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n1727baff6621",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n175e6abc35ae": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -472,6 +506,23 @@
       "covered_title": "【改訂版】使いやすさの代償を隠してはいけない",
       "defer_reason": "",
       "note_id": "n17b9e6dd375a",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n191e869e2d48": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n191e869e2d48",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -2023,6 +2074,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n4ea37b695887": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n4ea37b695887",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n4ee6cc7aa942": {
       "analysis_label": "第1期：2026-01-24〜02-10",
       "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
@@ -3553,6 +3621,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n882c339c0431": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n882c339c0431",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n898d73e0167d": {
       "analysis_label": "第5期：2026-03-24〜03-31",
       "analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md",
@@ -4199,6 +4284,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "na3232aef34df": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "na3232aef34df",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "na39ea3cb444a": {
       "analysis_label": "第5期：2026-03-24〜03-31",
       "analysis_ref": "analysis/PHASE_05_2026-03-24_TO_03-31.md",
@@ -4522,6 +4624,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nb1930f0635f5": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nb1930f0635f5",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nb24b9173cfa6": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -4688,6 +4807,23 @@
       "covered_title": "",
       "defer_reason": "",
       "note_id": "nbd1ffd836c95",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "nbe27d59ccc74": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nbe27d59ccc74",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -6598,5 +6734,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-08-02T06:11:00+00:00"
+  "updated_at": "2026-08-09T04:35:07+00:00"
 }

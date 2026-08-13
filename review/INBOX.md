@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：41件
+- 確認待ち：52件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -319,6 +319,94 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n882c339c0431
+
+### [人類は、まだ存在しない未来をどうやって開拓するのか――四つの「開拓的イノベーション」から考える](../articles/cards/2026-08-11-n1ad30ba53195.md)
+
+- note ID：`n1ad30ba53195`
+- 公開日：2026-08-11
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1ad30ba53195
+
+### [人類の未来を「引き継ぐ人」と「先に置く人」――ITER・大前敬祥氏とイーロン・マスク](../articles/cards/2026-08-11-n8a9c0e5fc3c5.md)
+
+- note ID：`n8a9c0e5fc3c5`
+- 公開日：2026-08-11
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n8a9c0e5fc3c5
+
+### [人類は、いつまで「実家暮らし」を続けるのか――開拓的イノベーションと減速のイノベーションを、「文明の自立」から考える](../articles/cards/2026-08-12-n05a7fade6b09.md)
+
+- note ID：`n05a7fade6b09`
+- 公開日：2026-08-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n05a7fade6b09
+
+### [SFは、人類の「自立」をどこまで描いてきたのか――カルダシェフ・スケールだけでは見えない、もう一つの文明の成熟](../articles/cards/2026-08-12-n14de7059e9df.md)
+
+- note ID：`n14de7059e9df`
+- 公開日：2026-08-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n14de7059e9df
+
+### [SFと「草文明」から考える減速のイノベーション――文明は大きくならなくても発展できるのか](../articles/cards/2026-08-12-n7107dfba9855.md)
+
+- note ID：`n7107dfba9855`
+- 公開日：2026-08-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n7107dfba9855
+
+### [「このコンテンツは削除されました」――生成AIのモデレーションは、何を消したのか説明できるのか](../articles/cards/2026-08-12-ne7a7ab9dbf5c.md)
+
+- note ID：`ne7a7ab9dbf5c`
+- 公開日：2026-08-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ne7a7ab9dbf5c
+
+### [知的生命体宇宙史アーカイブ――太陽系第三惑星「地球」](../articles/cards/2026-08-12-nffaf7080d1a1.md)
+
+- note ID：`nffaf7080d1a1`
+- 公開日：2026-08-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nffaf7080d1a1
+
+### [宇宙は、人類に「出てくるな」と言っているように見える――宇宙進出の前に、人類は何に変わらなければならないのか](../articles/cards/2026-08-13-n083f2ae793a9.md)
+
+- note ID：`n083f2ae793a9`
+- 公開日：2026-08-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n083f2ae793a9
+
+### [IPCC全文には書いてある。では、なぜ私たちには届かないのか――「mainstream consumersには響かない」という一文から考える、気候情報と世論誘導](../articles/cards/2026-08-13-nbc25230ea725.md)
+
+- note ID：`nbc25230ea725`
+- 公開日：2026-08-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nbc25230ea725
+
+### [ホモ・アーシアンの時代――人類は、これから数百年をどう進むのか](../articles/cards/2026-08-13-nc4a63f6a36d8.md)
+
+- note ID：`nc4a63f6a36d8`
+- 公開日：2026-08-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc4a63f6a36d8
+
+### [ホモ・アーシアンは、私たちの暮らしをどう変えるか――有限な地球で、心地よく循環して生きる](../articles/cards/2026-08-13-nd215c591f10b.md)
+
+- note ID：`nd215c591f10b`
+- 公開日：2026-08-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nd215c591f10b
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

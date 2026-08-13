@@ -148,16 +148,6 @@
       "reason": "not_covered_elsewhere"
     },
     {
-      "note_id": "ne7a7ab9dbf5c",
-      "path": "articles/cards/2026-08-12-ne7a7ab9dbf5c.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
-      "note_id": "nffaf7080d1a1",
-      "path": "articles/cards/2026-08-12-nffaf7080d1a1.md",
-      "reason": "not_covered_elsewhere"
-    },
-    {
       "note_id": "n083f2ae793a9",
       "path": "articles/cards/2026-08-13-n083f2ae793a9.md",
       "reason": "not_covered_elsewhere"
@@ -178,5 +168,5 @@
       "reason": "not_covered_elsewhere"
     }
   ],
-  "preserved_unreviewed_count": 35
+  "preserved_unreviewed_count": 33
 }

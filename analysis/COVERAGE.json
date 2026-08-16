@@ -1037,6 +1037,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n2a8134276878": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n2a8134276878",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n2aa6c1fb1994": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -2227,6 +2244,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n53493b0a9165": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n53493b0a9165",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n537d13475567": {
       "analysis_label": "弱い立場からの負荷追跡・問いの土壌",
       "analysis_ref": "articles/cards/2026-07-03-n537d13475567.md",
@@ -2665,6 +2699,23 @@
       "covered_title": "なぜ私は、答えを書かなかったのか",
       "defer_reason": "",
       "note_id": "n60bd60909c7e",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n61a766a457c5": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n61a766a457c5",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -3264,6 +3315,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n794c83d96537": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n794c83d96537",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n7a4aa09d8385": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-01-29-n7a4aa09d8385.md",
@@ -3634,6 +3702,23 @@
       "covered_title": "民主主義を語るための「型」について",
       "defer_reason": "",
       "note_id": "n8392274a5481",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n851194b9085e": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n851194b9085e",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -4127,6 +4212,23 @@
       "covered_title": "AIは万能ではない",
       "defer_reason": "",
       "note_id": "n97732654e9dc",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n99059b332e7f": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n99059b332e7f",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -4654,6 +4756,23 @@
       "covered_title": "民主主義はどこで磨かれたのか",
       "defer_reason": "",
       "note_id": "nac26a5f91c22",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "nac9da64afbb0": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nac9da64afbb0",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -6921,5 +7040,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-08-13T22:33:47+00:00"
+  "updated_at": "2026-08-16T03:57:54+00:00"
 }

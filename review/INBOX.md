@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：59件
+- 確認待ち：62件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -463,6 +463,30 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n851194b9085e
+
+### [Daniel Schmachtenbergerと私の考えを、いったん全部並べてみる――23の領域から見る、二つの文明論の地図](../articles/cards/2026-08-18-nb083cc757995.md)
+
+- note ID：`nb083cc757995`
+- 公開日：2026-08-18
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nb083cc757995
+
+### [文明は、自分が手にした力を扱えるほど成熟しているか――Daniel Schmachtenbergerという思想家を追う](../articles/cards/2026-08-18-nf8ec5f892c33.md)
+
+- note ID：`nf8ec5f892c33`
+- 公開日：2026-08-18
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nf8ec5f892c33
+
+### [『ワルプルギスの廻天』で描かれるのは、「成熟した知性」なのではないか――ホモ・アーシアンから、まどか・ほむら・キュゥべえ・ワルプルギスをもう一度考える](../articles/cards/2026-08-20-n64ee500d67d8.md)
+
+- note ID：`n64ee500d67d8`
+- 公開日：2026-08-20
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n64ee500d67d8
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

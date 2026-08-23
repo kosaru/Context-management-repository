@@ -1054,6 +1054,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n2a9cecf0196c": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n2a9cecf0196c",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n2aa6c1fb1994": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -1492,6 +1509,23 @@
       "covered_title": "AI倫理の問題を、ひとつの「安全性」で閉じない",
       "defer_reason": "",
       "note_id": "n3a3f9efdb09b",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n3a8604c14cc5": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n3a8604c14cc5",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -2886,6 +2920,23 @@
       "covered_title": "『最適化の後』",
       "defer_reason": "",
       "note_id": "n69030c722de3",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n6a189703adea": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n6a189703adea",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -5032,6 +5083,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nbb1dd089d070": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nbb1dd089d070",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nbc25230ea725": {
       "analysis_label": "未割り当て",
       "analysis_ref": "",
@@ -5644,6 +5712,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nccfab89cb2f7": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nccfab89cb2f7",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "ncdb4235f58bf": {
       "analysis_label": "四層の暫定地図・本番稼働中の再設計",
       "analysis_ref": "articles/cards/2026-07-03-ncdb4235f58bf.md",
@@ -6086,6 +6171,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "ndcf7c9d6e7bb": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "ndcf7c9d6e7bb",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nde5b7a4c660b": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -6269,6 +6371,23 @@
       "covered_title": "あなたらしく生きるためのヒントとしての老荘思想",
       "defer_reason": "",
       "note_id": "ne54b5cfe19e0",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "ne5555da34282": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "ne5555da34282",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -7091,5 +7210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-08-20T15:14:33+00:00"
+  "updated_at": "2026-08-23T03:59:02+00:00"
 }

@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：62件
+- 確認待ち：69件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -487,6 +487,62 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n64ee500d67d8
+
+### [今なぜ、ホモ・アーシアンが必要なのか――化石燃料という「貯金」が残っているうちに、次の文明を考える](../articles/cards/2026-08-21-n6a189703adea.md)
+
+- note ID：`n6a189703adea`
+- 公開日：2026-08-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n6a189703adea
+
+### [動員に逃げるな――環境運動は、なぜ自分たちの拡大主義を見ないのか](../articles/cards/2026-08-21-nbb1dd089d070.md)
+
+- note ID：`nbb1dd089d070`
+- 公開日：2026-08-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nbb1dd089d070
+
+### [IPCCは、ホモ・アーシアンの思想をすでに知っている――では、なぜ「脱炭素のその先」を私たちは聞かされてこなかったのか](../articles/cards/2026-08-21-ndcf7c9d6e7bb.md)
+
+- note ID：`ndcf7c9d6e7bb`
+- 公開日：2026-08-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ndcf7c9d6e7bb
+
+### [1.5℃を守ったのに、文明が崩れる未来――カーボンニュートラルに成功した人類が、その先で踏む「急ブレーキ」](../articles/cards/2026-08-21-ne5555da34282.md)
+
+- note ID：`ne5555da34282`
+- 公開日：2026-08-21
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ne5555da34282
+
+### [何事も、ほどほどが大事だ――資本主義も、再エネも、正義も、自責も他責も](../articles/cards/2026-08-22-n2a9cecf0196c.md)
+
+- note ID：`n2a9cecf0196c`
+- 公開日：2026-08-22
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n2a9cecf0196c
+
+### [自責でも他責でもない世界へ――失敗しても戻れる社会は、ホモ・アーシアンの入り口になる](../articles/cards/2026-08-22-n3a8604c14cc5.md)
+
+- note ID：`n3a8604c14cc5`
+- 公開日：2026-08-22
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n3a8604c14cc5
+
+### [他責は、なぜ自由からの逃走になるのか――動員される側の心理、動員する側の技法、そしてホモ・アーシアン](../articles/cards/2026-08-22-nccfab89cb2f7.md)
+
+- note ID：`nccfab89cb2f7`
+- 公開日：2026-08-22
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nccfab89cb2f7
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

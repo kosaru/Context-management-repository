@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：69件
+- 確認待ち：93件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -543,6 +543,198 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/nccfab89cb2f7
+
+### [車を「売る」から、地球上で「使い切る」へ――「語る場」で考える自動車と資本主義の再設計](../articles/cards/2026-08-24-n12729b994a4f.md)
+
+- note ID：`n12729b994a4f`
+- 公開日：2026-08-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n12729b994a4f
+
+### [極限状態まで待てば、「人類を信じるか、切り捨てるか」しか残らない――『Vガンダム』とフランス革命の恐怖政治から考える、危機が自由を奪うまで](../articles/cards/2026-08-24-n2146dc02a960.md)
+
+- note ID：`n2146dc02a960`
+- 公開日：2026-08-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n2146dc02a960
+
+### [動員するのではなく、循環を一緒に作る――ホモ・アーシアンにとっての「語る場」とは何か](../articles/cards/2026-08-24-nbc4dff8a30dd.md)
+
+- note ID：`nbc4dff8a30dd`
+- 公開日：2026-08-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nbc4dff8a30dd
+
+### [SNSは社会を映す鏡ではない――「語る場」と「決める場」を考え直す](../articles/cards/2026-08-24-ne1e3a3287184.md)
+
+- note ID：`ne1e3a3287184`
+- 公開日：2026-08-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ne1e3a3287184
+
+### [資本主義を捨てるのではなく、「儲かり方」を変えられないか――物を売り続ける経済から、生活を支え続ける経済へ](../articles/cards/2026-08-24-ned87a5a4476a.md)
+
+- note ID：`ned87a5a4476a`
+- 公開日：2026-08-24
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ned87a5a4476a
+
+### [資本主義の「儲かり方」を変えられないか――物を売るほど儲かる経済から、サービスを支えるほど儲かる経済へ](../articles/cards/2026-08-25-n20677216c867.md)
+
+- note ID：`n20677216c867`
+- 公開日：2026-08-25
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n20677216c867
+
+### [IPCCは、企業側に何を求めるべきかをすでに分かっている――「消費者の行動変容」の陰に隠れている、企業の儲かり方を変えるという話](../articles/cards/2026-08-25-n2f828a193c0f.md)
+
+- note ID：`n2f828a193c0f`
+- 公開日：2026-08-25
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n2f828a193c0f
+
+### [環境活動家は、企業に「変われ」と言うだけなのか――Greenpeace、FoEI、350.org、RANの文書を読むと、政策パッケージまでかなり考えられていた](../articles/cards/2026-08-25-n4e0e611b894b.md)
+
+- note ID：`n4e0e611b894b`
+- 公開日：2026-08-25
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n4e0e611b894b
+
+### [科学者は「正解」を断言する人ではない――気象科学の一般向け発信と、「科学への冒涜」について](../articles/cards/2026-08-25-ne01aeccef049.md)
+
+- note ID：`ne01aeccef049`
+- 公開日：2026-08-25
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ne01aeccef049
+
+### [1000年かけて、暮らし方を変えていく――有限な地球で、所有・サービス・Security・Comfortをどう組み替えるか](../articles/cards/2026-08-26-n07c80552b0b9.md)
+
+- note ID：`n07c80552b0b9`
+- 公開日：2026-08-26
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n07c80552b0b9
+
+### [1000年後の子どもたちに、「幸せに暮らせています」と言ってほしい――環境運動は、危機ではなく「小さな成功」を積み上げて人を動かせないか](../articles/cards/2026-08-26-n3f3ac03481d9.md)
+
+- note ID：`n3f3ac03481d9`
+- 公開日：2026-08-26
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n3f3ac03481d9
+
+### [動員は理念を選別する――環境運動の金、世論調査、メッセージテスト、ロビー活動を追って見えてきたもの](../articles/cards/2026-08-26-nee16f0ba8fd8.md)
+
+- note ID：`nee16f0ba8fd8`
+- 公開日：2026-08-26
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nee16f0ba8fd8
+
+### [環境問題活動は、何を間違ったのか――目的でも解決策でもなく、動員の手法だったのではないか](../articles/cards/2026-08-27-n2a31fe859f6a.md)
+
+- note ID：`n2a31fe859f6a`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n2a31fe859f6a
+
+### [国家はなぜ拡大をやめられないのか――領土からGDPへ、そして次の「無限」へ](../articles/cards/2026-08-27-n2cbe30dc39e9.md)
+
+- note ID：`n2cbe30dc39e9`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n2cbe30dc39e9
+
+### [未来を何年増やしたか――環境問題を「残り時間」ではなく「生み出した時間」で測れないか](../articles/cards/2026-08-27-n65b08e7502aa.md)
+
+- note ID：`n65b08e7502aa`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n65b08e7502aa
+
+### [大量消費中毒患者にさせられた人類――わずか100年ほどで、私たちは「作る、買う、捨てる」を当たり前にした](../articles/cards/2026-08-27-nada1ec99f2db.md)
+
+- note ID：`nada1ec99f2db`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nada1ec99f2db
+
+### [人類は次に何を成長させるのか――GDPの次の「無限」を探すのではなく、文明そのものを成熟させる](../articles/cards/2026-08-27-nc5c8104a9448.md)
+
+- note ID：`nc5c8104a9448`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc5c8104a9448
+
+### [人類の未来を増やすための問題解決フレームワーク――正解を決めるのではなく、1000年後まで修正を続けられる仕組みを作る](../articles/cards/2026-08-27-nf2e527b84aef.md)
+
+- note ID：`nf2e527b84aef`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nf2e527b84aef
+
+### [大量生産中毒患者にさせられた企業――なぜ企業は、売れ続けなければならないほど作るようになったのか](../articles/cards/2026-08-27-nf64747e9e2e0.md)
+
+- note ID：`nf64747e9e2e0`
+- 公開日：2026-08-27
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nf64747e9e2e0
+
+### [資源が減っていく世界で、私たちは何を「快適」と呼ぶのか――Woven Cityの先にある、100年単位の生活の再設計](../articles/cards/2026-08-28-ne12e1b1f7730.md)
+
+- note ID：`ne12e1b1f7730`
+- 公開日：2026-08-28
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ne12e1b1f7730
+
+### [未来を語る人と、未来を実際に作り始めた人――環境問題で本当に必要なのは、要求ではなく共同実装ではないか](../articles/cards/2026-08-28-nf5b14089b90e.md)
+
+- note ID：`nf5b14089b90e`
+- 公開日：2026-08-28
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nf5b14089b90e
+
+### [所有を減らす社会は、共産主義なのか――資本主義を捨てずに、その欠点を減らす社会は作れるか](../articles/cards/2026-08-29-n0cf9bfa62432.md)
+
+- note ID：`n0cf9bfa62432`
+- 公開日：2026-08-29
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n0cf9bfa62432
+
+### [「AIに仕事を奪われる」のではなく、人類は仕事の意味を変えられるか――有限な地球で考える、労働、自由時間、そして人類の成熟](../articles/cards/2026-08-29-n1d193f91d69b.md)
+
+- note ID：`n1d193f91d69b`
+- 公開日：2026-08-29
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1d193f91d69b
+
+### [100年後、この社会で人はどう暮らしているのか――所有を減らし、サービスを使い、Securityを公共が支える生活を想像してみる](../articles/cards/2026-08-29-nbcb5f6fdc84f.md)
+
+- note ID：`nbcb5f6fdc84f`
+- 公開日：2026-08-29
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nbcb5f6fdc84f
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

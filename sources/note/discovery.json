@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-08-30T09:10:56.093977+00:00",
+  "recorded_at": "2026-09-01T09:02:28.639892+00:00",
   "method": "creator-api",
   "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
   "pages": [
@@ -523,17 +523,24 @@
     },
     {
       "page": 75,
-      "items_found": 4,
-      "new_note_ids": 4,
+      "items_found": 6,
+      "new_note_ids": 6,
+      "is_last_page": false,
+      "status_code": 200
+    },
+    {
+      "page": 76,
+      "items_found": 2,
+      "new_note_ids": 2,
       "is_last_page": true,
       "status_code": 200
     }
   ],
-  "discovered_count": 448,
+  "discovered_count": 452,
   "complete": true,
   "termination_reason": "explicit_last_page",
   "sync_report": {
-    "recorded_at": "2026-08-30T09:10:31+00:00",
+    "recorded_at": "2026-09-01T08:55:08+00:00",
     "profile": "https://note.com/shirokuma1970",
     "discovery": {
       "method": "creator-api",
@@ -1059,29 +1066,42 @@
         },
         {
           "page": 75,
-          "items_found": 4,
-          "new_note_ids": 4,
+          "items_found": 6,
+          "new_note_ids": 6,
+          "is_last_page": false,
+          "status_code": 200
+        },
+        {
+          "page": 76,
+          "items_found": 2,
+          "new_note_ids": 2,
           "is_last_page": true,
           "status_code": 200
         }
       ],
-      "discovered_count": 448,
+      "discovered_count": 452,
       "complete": true,
       "termination_reason": "explicit_last_page"
     },
     "complete_discovery": true,
-    "verify_all": false,
+    "verify_all": true,
     "limit": 0,
     "bootstrapped_catalog_records": 0,
-    "discovered_count": 448,
-    "seen_note_ids": 448,
-    "fetched_count": 0,
-    "source_changed_count": 0,
+    "discovered_count": 452,
+    "seen_note_ids": 452,
+    "fetched_count": 451,
+    "source_changed_count": 4,
     "metadata_change_count": 0,
-    "new_card_count": 0,
+    "new_card_count": 4,
     "missing_from_public_index_count": 0,
-    "events_written": 0,
-    "failure_count": 0,
-    "failures": []
+    "events_written": 4,
+    "failure_count": 1,
+    "failures": [
+      {
+        "note_id": "n8608abc16b0e",
+        "url": "https://note.com/shirokuma1970/n/n8608abc16b0e",
+        "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n8608abc16b0e"
+      }
+    ]
   }
 }

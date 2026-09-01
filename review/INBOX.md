@@ -2,9 +2,13 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：93件
+- 確認待ち：97件
 - 責任ある保留：0件
-- 直近同期の取得失敗：0件
+- 直近同期の取得失敗：1件
+
+## P0：取得失敗
+
+- `n8608abc16b0e` https://note.com/shirokuma1970/n/n8608abc16b0e — HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n8608abc16b0e
 
 ## P1〜P2：文脈確認待ち
 
@@ -735,6 +739,38 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/nbcb5f6fdc84f
+
+### [1000年後でも、まだ宇宙の入口かもしれない――核融合の先、減速のイノベーションで考えるホモ・アーシアンの宇宙進出](../articles/cards/2026-08-30-ne8fb8121028c.md)
+
+- note ID：`ne8fb8121028c`
+- 公開日：2026-08-30
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ne8fb8121028c
+
+### [生命の種は、一種類でなくていい――数百万年、数億年という時間を使って、銀河に「未来」を育てる](../articles/cards/2026-08-31-n03c739d8bbeb.md)
+
+- note ID：`n03c739d8bbeb`
+- 公開日：2026-08-31
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n03c739d8bbeb
+
+### [一銀河年かけて、文明の種を撒く――カルダシェフ・スケールを「エネルギー消費量」ではなく「文明の循環圏」から考え直す](../articles/cards/2026-08-31-n7e5637d1c752.md)
+
+- note ID：`n7e5637d1c752`
+- 公開日：2026-08-31
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n7e5637d1c752
+
+### [温暖化を否定していない。だから「温暖化のせい」で全部まとめるな――少数の否定派を潰すための動員が、気候理解と温暖化対策そのものを壊していないか](../articles/cards/2026-09-01-n34d456bfccdd.md)
+
+- note ID：`n34d456bfccdd`
+- 公開日：2026-09-01
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n34d456bfccdd
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

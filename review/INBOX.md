@@ -2,13 +2,9 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：97件
+- 確認待ち：98件
 - 責任ある保留：0件
-- 直近同期の取得失敗：1件
-
-## P0：取得失敗
-
-- `n8608abc16b0e` https://note.com/shirokuma1970/n/n8608abc16b0e — HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n8608abc16b0e
+- 直近同期の取得失敗：0件
 
 ## P1〜P2：文脈確認待ち
 
@@ -771,6 +767,14 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n34d456bfccdd
+
+### [待つ海――ある技師と、百万年後へ送った判断の話](../articles/cards/2026-09-01-n4112e3b7bd77.md)
+
+- note ID：`n4112e3b7bd77`
+- 公開日：2026-09-01
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n4112e3b7bd77
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

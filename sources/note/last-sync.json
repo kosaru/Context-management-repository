@@ -1,10 +1,10 @@
 {
   "bootstrapped_catalog_records": 0,
   "complete_discovery": true,
-  "discovered_count": 452,
+  "discovered_count": 453,
   "discovery": {
     "complete": true,
-    "discovered_count": 452,
+    "discovered_count": 453,
     "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
     "method": "creator-api",
     "pages": [
@@ -535,31 +535,25 @@
       },
       {
         "is_last_page": true,
-        "items_found": 2,
-        "new_note_ids": 2,
+        "items_found": 3,
+        "new_note_ids": 3,
         "page": 76,
         "status_code": 200
       }
     ],
     "termination_reason": "explicit_last_page"
   },
-  "events_written": 4,
-  "failure_count": 1,
-  "failures": [
-    {
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n8608abc16b0e",
-      "note_id": "n8608abc16b0e",
-      "url": "https://note.com/shirokuma1970/n/n8608abc16b0e"
-    }
-  ],
-  "fetched_count": 451,
+  "events_written": 1,
+  "failure_count": 0,
+  "failures": [],
+  "fetched_count": 1,
   "limit": 0,
   "metadata_change_count": 0,
   "missing_from_public_index_count": 0,
-  "new_card_count": 4,
+  "new_card_count": 0,
   "profile": "https://note.com/shirokuma1970",
-  "recorded_at": "2026-09-01T08:55:08+00:00",
-  "seen_note_ids": 452,
-  "source_changed_count": 4,
-  "verify_all": true
+  "recorded_at": "2026-09-02T00:40:40+00:00",
+  "seen_note_ids": 453,
+  "source_changed_count": 1,
+  "verify_all": false
 }

@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：98件
+- 確認待ち：105件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -775,6 +775,62 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n4112e3b7bd77
+
+### [再生可能エネルギーは、設備ではなくシステムとして考える――太陽、風、熱、蓄電、そして人間活動が捨てているエネルギーまで拾い直す](../articles/cards/2026-09-02-n0f8e28769b9f.md)
+
+- note ID：`n0f8e28769b9f`
+- 公開日：2026-09-02
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n0f8e28769b9f
+
+### [カーボンニュートラルだけに集中していていいのか――短期には集中して動き、長期には問いを残す](../articles/cards/2026-09-03-n1f915a505c23.md)
+
+- note ID：`n1f915a505c23`
+- 公開日：2026-09-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1f915a505c23
+
+### [「分かっている側」に立つな――専門家の権威を借りたリベラルは、誰の声を聞いているのか](../articles/cards/2026-09-03-n813a87473a3e.md)
+
+- note ID：`n813a87473a3e`
+- 公開日：2026-09-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n813a87473a3e
+
+### [カーボンニュートラルは、長期対策ではない――短期は都市の熱収支へ介入し、中期はCO₂を減らし、長期は「減速のイノベーション」へ](../articles/cards/2026-09-03-n9f39a1be6934.md)
+
+- note ID：`n9f39a1be6934`
+- 公開日：2026-09-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n9f39a1be6934
+
+### [ニュータイプでも、文明の衝突は終わらなかった――ガンダム、銀河英雄伝説、そしてホモ・アーシアンへ](../articles/cards/2026-09-04-n8f255cfe2f84.md)
+
+- note ID：`n8f255cfe2f84`
+- 公開日：2026-09-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n8f255cfe2f84
+
+### [大人は、子供たちにどんな未来を手渡すのか――科学者や環境問題活動家団体は、ハインラインと富野由悠季に学べ](../articles/cards/2026-09-04-nc7979489a990.md)
+
+- note ID：`nc7979489a990`
+- 公開日：2026-09-04
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc7979489a990
+
+### [住宅バブルで最後に残るのは、家ではなくローンではないか](../articles/cards/2026-09-06-nc0e81e9a4196.md)
+
+- note ID：`nc0e81e9a4196`
+- 公開日：2026-09-06
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc0e81e9a4196
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

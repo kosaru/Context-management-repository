@@ -374,6 +374,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n0f8e28769b9f": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n0f8e28769b9f",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n11bb14d378f5": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-03-10-n11bb14d378f5.md",
@@ -795,6 +812,23 @@
       "covered_title": "継続という構造と、その不在について",
       "defer_reason": "",
       "note_id": "n1f714c925910",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n1f915a505c23": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n1f915a505c23",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -3944,6 +3978,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n813a87473a3e": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n813a87473a3e",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n82246fc7776a": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -4280,6 +4331,23 @@
       "covered_title": "成長を前提にしない社会で、人はどうやって守られるのか",
       "defer_reason": "",
       "note_id": "n8efcad4fd1c8",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n8f255cfe2f84": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n8f255cfe2f84",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -4722,6 +4790,23 @@
       "covered_title": "AIはどこに入り込もうとしているのか",
       "defer_reason": "",
       "note_id": "n9ebf441f85ab",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n9f39a1be6934": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n9f39a1be6934",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -5610,6 +5695,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nc0e81e9a4196": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nc0e81e9a4196",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "nc130a832568e": {
       "analysis_label": "第4期：2026-03-14〜03-21",
       "analysis_ref": "analysis/PHASE_04_2026-03-14_TO_03-21.md",
@@ -5827,6 +5929,23 @@
       "covered_title": "",
       "defer_reason": "",
       "note_id": "nc760e162a9a3",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "nc7979489a990": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "nc7979489a990",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -7703,5 +7822,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-09-02T00:41:21+00:00"
+  "updated_at": "2026-09-06T07:52:27+00:00"
 }

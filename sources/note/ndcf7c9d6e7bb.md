@@ -1,14 +1,14 @@
 ---
 note_id: "ndcf7c9d6e7bb"
-title: "IPCCは、ホモ・アーシアンの思想をすでに知っている――では、なぜ「脱炭素のその先」を私たちは聞かされてこなかったのか"
+title: "【動画解説】IPCCは、ホモ・アーシアンの思想をすでに知っている――では、なぜ「脱炭素のその先」を私たちは聞かされてこなかったのか"
 note_url: "https://note.com/shirokuma1970/n/ndcf7c9d6e7bb"
 published_at: "2026-08-21"
-fetched_at: "2026-08-23T03:58:48.920239+00:00"
+fetched_at: "2026-09-13T08:15:49.432541+00:00"
 content_sha256: "4c94d5ccdc34a35c6e45ea0c04692dd181a5eb0071e37db86497aab80bf3b2c3"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
-# IPCCは、ホモ・アーシアンの思想をすでに知っている――では、なぜ「脱炭素のその先」を私たちは聞かされてこなかったのか
+# 【動画解説】IPCCは、ホモ・アーシアンの思想をすでに知っている――では、なぜ「脱炭素のその先」を私たちは聞かされてこなかったのか
 
 > 公開本文の正本：https://note.com/shirokuma1970/n/ndcf7c9d6e7bb
 >

@@ -47,6 +47,15 @@
 
 ## 監査の入口
 
+回答前の問い変形を止める場合は、まず次を読む。
+
+1. `context/PRE_RESPONSE_AUDIT.md`
+2. `context/PRE_RESPONSE_AUDIT_REGRESSION.md`
+3. `analysis/incidents/INCIDENT_002_AI_MOUNTED_AND_INVENTED_SUSTAINABLE_MASS_PRODUCTION.md`
+4. `analysis/incidents/INCIDENT_003_AI_REOPENED_REJECTED_ESCAPE_HATCHES.md`
+
+既存の安定化監査を確認する場合は、次を読む。
+
 1. `analysis/STABILIZATION_AUDIT_ARRIVAL_POINT_2026-07-28.md`
 2. `analysis/STABILIZATION_AUDIT_REGISTER.md`
 3. `analysis/STABILIZATION_AUDIT_METHOD.md`

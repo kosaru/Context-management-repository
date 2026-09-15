@@ -53,6 +53,7 @@
 2. `context/PRE_RESPONSE_AUDIT_REGRESSION.md`
 3. `analysis/incidents/INCIDENT_002_AI_MOUNTED_AND_INVENTED_SUSTAINABLE_MASS_PRODUCTION.md`
 4. `analysis/incidents/INCIDENT_003_AI_REOPENED_REJECTED_ESCAPE_HATCHES.md`
+5. `analysis/incidents/INCIDENT_004_AI_PREMATURE_CLOSURE_AND_CONCLUSION_SEEKING.md`
 
 既存の安定化監査を確認する場合は、次を読む。
 
@@ -85,6 +86,7 @@
 - 未解決の緊張を、段階・層・モデル・チェックリストへ閉じた
 - 提供者側の責任を、利用者の稽古や使い方へ移した
 - 原文にない極端な反対読みを作り、原文を穏当な中間へ配置した
+- 未確定の因果を開いたまま扱わず、AIが出しやすい結論へ早期収束した
 
 ## 現在の運用
 

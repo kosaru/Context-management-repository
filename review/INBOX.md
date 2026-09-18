@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：113件
+- 確認待ち：117件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -895,6 +895,38 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n0ec8953bae3c
+
+### [サステナビリティとは、未来の正解を決めることではない――1000年後まで、人類が問いと文明を渡し続けるために](../articles/cards/2026-09-14-nf522dfc5144b.md)
+
+- note ID：`nf522dfc5144b`
+- 公開日：2026-09-14
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nf522dfc5144b
+
+### [人間を宇宙へ送る前に、文明を宇宙へ送る――イーロン・マスク、ITER、Woven City、減速のイノベーションから考える人類の開拓](../articles/cards/2026-09-17-n62c2e914c718.md)
+
+- note ID：`n62c2e914c718`
+- 公開日：2026-09-17
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n62c2e914c718
+
+### [【ネタバレ注意】『まどか☆マギカ』は、救済の先に「解脱」を描こうとしているのではないか](../articles/cards/2026-09-17-nc6d9e7e536fa.md)
+
+- note ID：`nc6d9e7e536fa`
+- 公開日：2026-09-17
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nc6d9e7e536fa
+
+### [自由に縛られて不自由になるな――「自由とは何か」から、ホモ・アーシアンの心地よい減速を考える](../articles/cards/2026-09-18-ncd9576966d37.md)
+
+- note ID：`ncd9576966d37`
+- 公開日：2026-09-18
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/ncd9576966d37
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

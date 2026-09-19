@@ -468,10 +468,15 @@
       "reason": "not_covered_elsewhere"
     },
     {
-      "note_id": "ncd9576966d37",
-      "path": "articles/cards/2026-09-18-ncd9576966d37.md",
+      "note_id": "n9616b191ab46",
+      "path": "articles/cards/2026-09-18-n9616b191ab46.md",
+      "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "n81af6e3c6340",
+      "path": "articles/cards/2026-09-19-n81af6e3c6340.md",
       "reason": "not_covered_elsewhere"
     }
   ],
-  "preserved_unreviewed_count": 94
+  "preserved_unreviewed_count": 95
 }

@@ -4080,6 +4080,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n81af6e3c6340": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n81af6e3c6340",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n82246fc7776a": {
       "analysis_label": "第2期：2026-02-11〜02-27",
       "analysis_ref": "analysis/PHASE_02_2026-02-11_TO_02-27.md",
@@ -4722,6 +4739,23 @@
       "covered_title": "圧勝のあと、政治は少し雑になる",
       "defer_reason": "",
       "note_id": "n95df044df7bb",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n9616b191ab46": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n9616b191ab46",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -8026,5 +8060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-09-18T06:15:34+00:00"
+  "updated_at": "2026-09-19T10:24:23+00:00"
 }

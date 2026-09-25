@@ -598,3 +598,18 @@ More in Commonほか。ECFの支援を受けた調査。
 同研究だけから、環境運動全体が「他責型言説を意図的に選んでいる」と一般化することはできない。本文では他団体の戦略文書や資金構造と組み合わせて仮説を置いている。
 
 ### 4．Rainforest Action Network 5-Year Strategic Plan
+
+**研究・資料名**  
+RAN Five-Year Strategic Plan
+
+**研究者・作成主体**  
+Rainforest Action Network
+
+**本文との共通点**  
+Organizing、grassroots mobilization、advocacy、supporter-base building、fundraisingが同一戦略の中に明示されている。動員が企業への圧力と資金調達の両方へ接続されていることは、団体自身の文書で確認できる。([ran.org](https://www.ran.org/wp-content/uploads/2024/02/RAN_5YSP_2024_vF.pdf?utm_source=chatgpt.com))
+
+**本文との差分**  
+RANが「資金調達のために理念を弱めている」と認めているわけではない。その因果は本文側の検討対象である。
+
+---
+

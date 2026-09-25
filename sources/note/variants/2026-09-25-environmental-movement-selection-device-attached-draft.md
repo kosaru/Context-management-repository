@@ -2,9 +2,10 @@
 source_type: "chat_attachment"
 captured_at: "2026-09-25"
 original_filename: "SNS文脈確認.txt"
+raw_source: "../raw/2026-09-25-SNS文脈確認.txt"
 title: "環境運動は、なぜ知っているのに理念の全部を語らないのか――金、動員、世論調査、ロビー活動を追って見えてきた「選別装置」"
 status: "variant-pending-user"
-notes: "添付された会話出力をそのまま保存。本文の前後にあるAIコメントも原文記録として保持する。公開済み原文でもPASSEDでもない。"
+notes: "添付原文をfrontmatter付きvariantとして保存。元添付と同一バイト列の正本は raw_source を参照。このvariant自体はメタデータを付加しているため元添付とblob SHAは一致しない。公開済み原文でもPASSEDでもない。"
 ---
 
 たたき台としては、こういう形が一番芯が通ると思う。今回は**「環境活動家は本当は何も知らない」という話ではなく、知っているにもかかわらず、理念から一般向け言説へ出る途中に“動員による選別工程”が存在するのではないか**を中心に置く。

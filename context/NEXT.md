@@ -1,6 +1,23 @@
 # 次の文脈
 
-更新日：2026-09-19
+更新日：2026-09-25
+
+## 2026-09-25 反映記録
+
+- `sources/note/variants/2026-09-25-environmental-movement-selection-device-attached-draft.md`
+  - 添付 `SNS文脈確認.txt` の原文をバイト単位で照合して保存。
+  - 状態：`variant-pending-user`。公開済み原文でもPASSEDでもない。
+- `科学者系譜の小説家.txt`
+  - 既存添付版は `sources/note/variants/2026-09-04-nbc25230ea725-attached-draft.md` に保存済み。
+  - 同名の別版で提示された拡張補記の内容は `sources/note/nbc25230ea725.md` に既に存在することを確認。重複ファイルは作らない。
+- 添付 `浸透性舗装の現状技術.txt`
+  - 実際の内容は回答前監査の外部化・実装記録で、`context/PRE_RESPONSE_AUDIT.md`、回帰テスト、事故記録、`START_HERE.md` に既に実装済み。記事原稿として重複保存しない。
+- 2026-09-20完成稿「未来を見せる政治は、どうすれば現実になるのか――民主党政権から考える『実装責任』」
+  - 完成稿生成の存在は確認できたが、現在の参照可能範囲から本文全文を逐語回収できない。
+  - `sources/note/variants/2026-09-20-future-politics-implementation-responsibility-capture.md` に `PENDING-RAW-RECOVERY` として記録。本文は再構成していない。
+- 2026-09-24完成稿「『ワルプルギスの廻天』は何を重ねているのか――ファウスト、仏教、日本神話、そして科学的合理」
+  - 完成稿生成の存在は確認できたが、現在の参照可能範囲から本文全文を逐語回収できない。
+  - `sources/note/variants/2026-09-24-walpurgis-faust-buddhism-japanese-myth-scientific-rationality-capture.md` に `PENDING-RAW-RECOVERY` として記録。本文は再構成していない。
 
 ## 現在の作業
 

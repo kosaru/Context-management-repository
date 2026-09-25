@@ -4,20 +4,27 @@
 
 ## 2026-09-25 反映記録
 
-- `sources/note/variants/2026-09-25-environmental-movement-selection-device-attached-draft.md`
-  - 添付 `SNS文脈確認.txt` の原文をバイト単位で照合して保存。
+- 添付 `SNS文脈確認.txt`
+  - 元添付と同一バイト列のraw原文を `sources/note/raw/2026-09-25-SNS文脈確認.txt` に保存。
+  - Git blob SHA：`d945f70751d5b997b10fdaf02f408c810e0ba6fc`。ローカル元添付と一致を確認。
+  - `sources/note/variants/2026-09-25-environmental-movement-selection-device-attached-draft.md` はfrontmatterを付加したvariantであり、元添付と同一blobではない。
   - 状態：`variant-pending-user`。公開済み原文でもPASSEDでもない。
 - `科学者系譜の小説家.txt`
   - 既存添付版は `sources/note/variants/2026-09-04-nbc25230ea725-attached-draft.md` に保存済み。
   - 同名の別版で提示された拡張補記の内容は `sources/note/nbc25230ea725.md` に既に存在することを確認。重複ファイルは作らない。
 - 添付 `浸透性舗装の現状技術.txt`
-  - 実際の内容は回答前監査の外部化・実装記録で、`context/PRE_RESPONSE_AUDIT.md`、回帰テスト、事故記録、`START_HERE.md` に既に実装済み。記事原稿として重複保存しない。
+  - ファイル名と実内容は一致せず、内容は回答前監査の外部化・実装記録。
+  - 元添付と同一バイト列のraw原文を `sources/conversation/raw/2026-09-25-浸透性舗装の現状技術.txt` に保存。
+  - Git blob SHA：`48cfc0a8ac5952abf0e31e8cc26af1dc06a117de`。ローカル元添付と一致を確認。
+  - 内容自体は `context/PRE_RESPONSE_AUDIT.md`、回帰テスト、事故記録、`START_HERE.md` に既に実装済み。記事原稿として扱わない。
 - 2026-09-20完成稿「未来を見せる政治は、どうすれば現実になるのか――民主党政権から考える『実装責任』」
   - 完成稿生成の存在は確認できたが、現在の参照可能範囲から本文全文を逐語回収できない。
   - `sources/note/variants/2026-09-20-future-politics-implementation-responsibility-capture.md` に `PENDING-RAW-RECOVERY` として記録。本文は再構成していない。
-- 2026-09-24完成稿「『ワルプルギスの廻天』は何を重ねているのか――ファウスト、仏教、日本神話、そして科学的合理」
-  - 完成稿生成の存在は確認できたが、現在の参照可能範囲から本文全文を逐語回収できない。
-  - `sources/note/variants/2026-09-24-walpurgis-faust-buddhism-japanese-myth-scientific-rationality-capture.md` に `PENDING-RAW-RECOVERY` として記録。本文は再構成していない。
+- 2026-09-24作成稿「【ネタバレ注意】『ワルプルギスの廻天』は何を重ねているのか――ファウスト、仏教、日本神話、そして科学的合理」
+  - 2026-09-25にnote公開済みであることを確認。
+  - note ID：`nacee2d4aa4e2`、URL：`https://note.com/shirokuma1970/n/nacee2d4aa4e2`。
+  - 現在の取得経路では公開本文全文を取得できていないため、公開スナップショットは推測で作らない。
+  - `sources/note/variants/2026-09-24-walpurgis-faust-buddhism-japanese-myth-scientific-rationality-capture.md` を `PUBLIC-PENDING-SNAPSHOT` へ更新。
 
 ## 現在の作業
 
@@ -60,6 +67,8 @@
 
 ## 直近で更新したもの
 
+- 2026-09-25 raw添付原文：`SNS文脈確認.txt` と `浸透性舗装の現状技術.txt` を原文保存
+- 2026-09-25 『ワルプルギスの廻天』新稿：公開確認、note ID記録、本文スナップショット待ち
 - 2026-09-18「自由に縛られて不自由になるな」：PENDING強度カードへ更新
 - 2026-09-19 SNS規制・収益構造・フィロソフィー稿：DRAFT / PENDING-USER-PUBLICATIONとして保存
 - 2026-09-19 命題再包装事故：INCIDENT_005として記録

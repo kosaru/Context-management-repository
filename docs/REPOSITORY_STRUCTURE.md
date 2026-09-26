@@ -235,6 +235,9 @@ docs/REVIEW_WORKFLOW.md
 
 docs/REPOSITORY_STRUCTURE.md
   この文書。リポジトリ構成の案内
+
+docs/WRITING_AND_GENERATION_WORKFLOW.md
+  記事・原稿の作成工程と、生成作業全般の進捗管理・成果物作成・受け入れ検収の責任分担
 ```
 
 ### `review/`

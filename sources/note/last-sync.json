@@ -571,17 +571,23 @@
     ],
     "termination_reason": "explicit_last_page"
   },
-  "events_written": 2,
-  "failure_count": 0,
-  "failures": [],
-  "fetched_count": 2,
+  "events_written": 1,
+  "failure_count": 1,
+  "failures": [
+    {
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n2a9cecf0196c",
+      "note_id": "n2a9cecf0196c",
+      "url": "https://note.com/shirokuma1970/n/n2a9cecf0196c"
+    }
+  ],
+  "fetched_count": 476,
   "limit": 0,
   "metadata_change_count": 0,
   "missing_from_public_index_count": 0,
-  "new_card_count": 2,
+  "new_card_count": 0,
   "profile": "https://note.com/shirokuma1970",
-  "recorded_at": "2026-09-27T09:11:49+00:00",
+  "recorded_at": "2026-10-01T10:28:33+00:00",
   "seen_note_ids": 477,
-  "source_changed_count": 2,
-  "verify_all": false
+  "source_changed_count": 1,
+  "verify_all": true
 }

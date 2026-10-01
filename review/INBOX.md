@@ -4,7 +4,11 @@
 
 - 確認待ち：122件
 - 責任ある保留：0件
-- 直近同期の取得失敗：0件
+- 直近同期の取得失敗：1件
+
+## P0：取得失敗
+
+- `n2a9cecf0196c` https://note.com/shirokuma1970/n/n2a9cecf0196c — HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n2a9cecf0196c
 
 ## P1〜P2：文脈確認待ち
 

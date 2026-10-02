@@ -62,6 +62,7 @@
 4. `analysis/incidents/INCIDENT_003_AI_REOPENED_REJECTED_ESCAPE_HATCHES.md`
 5. `analysis/incidents/INCIDENT_004_AI_PREMATURE_CLOSURE_AND_CONCLUSION_SEEKING.md`
 6. `analysis/incidents/INCIDENT_005_AI_REPACKAGED_USER_PROPOSITIONS.md`
+7. `analysis/incidents/INCIDENT_006_AI_REDEFINED_AND_REFUTED_USER_OBSERVATION.md`
 
 既存の安定化監査を確認する場合は、次を読む。
 
@@ -95,6 +96,8 @@
 - 提供者側の責任を、利用者の稽古や使い方へ移した
 - 原文にない極端な反対読みを作り、原文を穏当な中間へ配置した
 - 未確定の因果を開いたまま扱わず、AIが出しやすい結論へ早期収束した
+- ユーザーの定性的観察を反論しやすい別命題へ変形し、別軸のデータで否定した
+- 誤答原因を問われた後、確認できない内部原因をもっともらしく補完し続けた
 
 ## 現在の運用
 

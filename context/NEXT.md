@@ -1,6 +1,17 @@
 # 次の文脈
 
-更新日：2026-09-25
+更新日：2026-10-02
+
+## 2026-10-02 回答前監査の再発事故
+
+- 2026年9月東京の気象調査で、ユーザーの「雨がダラダラ降った」という観察を、AIが「雨量が均等に分散していた」へ変形して否定した。
+- 後から日別データを確認すると、東京では30日中28日に何らかの降水が観測されており、「長期間にわたって雨が繰り返された」という元の観察と整合していた。
+- 問題は反証ではなく、反証しやすい別命題をAIが作ったこと。
+- 指摘後もAIは、誤答の内部原因として「訂正ストーリー」「直前回答との整合性」「修正を加える方が有益」などの説明を順番に作り、既存の事故002と同じ原因説明の後付けを再発させた。
+- `analysis/incidents/INCIDENT_006_AI_REDEFINED_AND_REFUTED_USER_OBSERVATION.md` を追加。
+- `context/PRE_RESPONSE_AUDIT.md` に、定性的表現の無断定量化、別軸データの二者択一化、誤答原因の後付けをHARD STOPとして追加。
+- `context/PRE_RESPONSE_AUDIT_REGRESSION.md` に Test 18・19 を追加。
+- 同型事故が既に記録済みの場合、「理解した」「今後はこうする」で閉じず、事故記録・回帰テストへ反映してから元の作業へ戻る。
 
 ## 2026-09-25 反映記録
 
@@ -44,8 +55,9 @@
 1. `sources/note/ncd9576966d37.md`（2026-09-18 自由と心地よい減速）
 2. `articles/cards/2026-09-18-ncd9576966d37.md`（PENDING原文強度カード）
 3. `sources/note/draft_2026-09-19_sns_regulation_philosophy_self_governance.md`（公開前SNS稿）
-4. `analysis/incidents/INCIDENT_005_AI_REPACKAGED_USER_PROPOSITIONS.md`
-5. `context/CURRENT.md`
+4. `analysis/incidents/INCIDENT_006_AI_REDEFINED_AND_REFUTED_USER_OBSERVATION.md`
+5. `analysis/incidents/INCIDENT_005_AI_REPACKAGED_USER_PROPOSITIONS.md`
+6. `context/CURRENT.md`
 
 新規カードは、旧テンプレートや既存横断モデルから作らない。
 

@@ -5,3 +5,4 @@
 - `INCIDENT_003_AI_REOPENED_REJECTED_ESCAPE_HATCHES.md` — AIが「入口として使えばよい」「運用次第」「必然ではない」といった一般論で、ユーザーがすでに先まで進めていた議論を巻き戻した事故。
 
 - `INCIDENT_005_AI_REPACKAGED_USER_PROPOSITIONS.md`：ユーザー命題をAIの補助線として再包装し、未提示の極端命題を作って補正した事故。2026-09-19。
+- `INCIDENT_006_AI_REDEFINED_AND_REFUTED_USER_OBSERVATION.md` — AIが「ダラダラ」を「均等」へ変形して支持データのある観察を否定し、指摘後の原因説明でも後付け説明を繰り返した事故。2026-10-02。

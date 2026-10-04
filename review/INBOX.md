@@ -2,13 +2,9 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：122件
+- 確認待ち：124件
 - 責任ある保留：0件
-- 直近同期の取得失敗：1件
-
-## P0：取得失敗
-
-- `n2a9cecf0196c` https://note.com/shirokuma1970/n/n2a9cecf0196c — HTTPError: 503 Server Error: Service Unavailable for url: https://note.com/shirokuma1970/n/n2a9cecf0196c
+- 直近同期の取得失敗：0件
 
 ## P1〜P2：文脈確認待ち
 
@@ -380,7 +376,7 @@
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/nffaf7080d1a1
 
-### [宇宙は、人類に「出てくるな」と言っているように見える――宇宙進出の前に、人類は何に変わらなければならないのか](../articles/cards/2026-08-13-n083f2ae793a9.md)
+### [【動画解説】宇宙は、人類に「出てくるな」と言っているように見える――宇宙進出の前に、人類は何に変わらなければならないのか](../articles/cards/2026-08-13-n083f2ae793a9.md)
 
 - note ID：`n083f2ae793a9`
 - 公開日：2026-08-13
@@ -444,7 +440,7 @@
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/nac9da64afbb0
 
-### [人類は、いつ成熟するのか――ホモ・アーシアンを、科学と哲学の境界から考える](../articles/cards/2026-08-15-n61a766a457c5.md)
+### [【動画解説】人類は、いつ成熟するのか――ホモ・アーシアンを、科学と哲学の境界から考える](../articles/cards/2026-08-15-n61a766a457c5.md)
 
 - note ID：`n61a766a457c5`
 - 公開日：2026-08-15
@@ -971,6 +967,22 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n5213b3394d7b
+
+### [一般消費者は、そんなに単純ではない――気候変動の複雑さを削っているのは誰なのか](../articles/cards/2026-10-03-n01a4503a0c5a.md)
+
+- note ID：`n01a4503a0c5a`
+- 公開日：2026-10-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n01a4503a0c5a
+
+### [東京の暑さを「温暖化」だけで説明しない――150年の気温記録から見える都市・海・日射の重なり](../articles/cards/2026-10-03-naa883246cf5e.md)
+
+- note ID：`naa883246cf5e`
+- 公開日：2026-10-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/naa883246cf5e
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

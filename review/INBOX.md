@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：124件
+- 確認待ち：126件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -983,6 +983,22 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/naa883246cf5e
+
+### [【動画解説】日本の政党構成は、実はかなりよくできている――左翼系イデオロギー政党は何を見失ったのか](../articles/cards/2026-10-06-nba2d32cb5102.md)
+
+- note ID：`nba2d32cb5102`
+- 公開日：2026-10-06
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nba2d32cb5102
+
+### [政権交代は、政策の次でいい――高市政権と、もう一度「政策」で闘う政治へ](../articles/cards/2026-10-07-n60079aee7ede.md)
+
+- note ID：`n60079aee7ede`
+- 公開日：2026-10-07
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n60079aee7ede
 
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 

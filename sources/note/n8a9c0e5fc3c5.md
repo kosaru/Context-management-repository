@@ -3,8 +3,8 @@ note_id: "n8a9c0e5fc3c5"
 title: "人類の未来を「引き継ぐ人」と「先に置く人」――ITER・大前敬祥氏とイーロン・マスク"
 note_url: "https://note.com/shirokuma1970/n/n8a9c0e5fc3c5"
 published_at: "2026-08-11"
-fetched_at: "2026-08-13T22:10:59.063884+00:00"
-content_sha256: "6df63cd03f773a324096d215338884c1bf75903f5c74ef74c763e20ce1ccef68"
+fetched_at: "2026-10-08T13:42:32.034427+00:00"
+content_sha256: "d0d2211bf755af8a9f17d7fe7487c2f045ead5d4fe8920b86ff7e4b6aa394ede"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -33,8 +33,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 この時間感覚が面白い。
 
 そして、大前氏が見ている核融合の先には、単なる新しい発電方式以上のものがある。
-
-  
 
 ## 核融合は「発電方法が一つ増える」という話ではない
 

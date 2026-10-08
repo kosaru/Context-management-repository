@@ -3,8 +3,8 @@ note_id: "n2a9cecf0196c"
 title: "何事も、ほどほどが大事だ――資本主義も、再エネも、正義も、自責も他責も"
 note_url: "https://note.com/shirokuma1970/n/n2a9cecf0196c"
 published_at: "2026-08-22"
-fetched_at: "2026-08-23T03:58:42.092675+00:00"
-content_sha256: "164f648def227505b0701d5b4349704dfcc242feef8fe409d821ee9caa51262b"
+fetched_at: "2026-10-08T13:42:00.536293+00:00"
+content_sha256: "40e3cc77a3698dd00fe0bdb40c54625911a13dabded566646642cef8809447bd"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -50,8 +50,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 **何事もほどほどが大事だ。**
 
 それだけの話である。
-
-  
 
 ---
 

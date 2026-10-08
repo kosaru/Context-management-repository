@@ -3,8 +3,8 @@ note_id: "nacee2d4aa4e2"
 title: "【ネタバレ注意】『ワルプルギスの廻天』は何を重ねているのか――ファウスト、仏教、日本神話、そして科学的合理"
 note_url: "https://note.com/shirokuma1970/n/nacee2d4aa4e2"
 published_at: "2026-09-25"
-fetched_at: "2026-09-27T09:12:11.950396+00:00"
-content_sha256: "3ff9fb21cd75bdf6b9f916f7a3f34bb5b6e430d9fcc067d91bb3c689df848716"
+fetched_at: "2026-10-08T13:40:59.490656+00:00"
+content_sha256: "2b7956e0b580ae3b84f29e0a38d3d0029bea022ee0b723cc2e4cf8a7bf14e85e"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -35,8 +35,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 そう考えた方が、『まどか☆マギカ』という作品はずっとよく見える。
 
 そして『ワルプルギスの廻天』で出てきた「名塚底根」という奇妙な大和言葉が、そのことをかなり強く意識させた。
-
-  
 
 ---
 

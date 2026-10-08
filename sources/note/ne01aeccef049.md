@@ -3,8 +3,8 @@ note_id: "ne01aeccef049"
 title: "科学者は「正解」を断言する人ではない――気象科学の一般向け発信と、「科学への冒涜」について"
 note_url: "https://note.com/shirokuma1970/n/ne01aeccef049"
 published_at: "2026-08-25"
-fetched_at: "2026-08-29T12:40:40.722061+00:00"
-content_sha256: "518056097e359945c3fe2124a227a4f1756a96bc3a5051c99a782f7098baeece"
+fetched_at: "2026-10-08T13:41:49.735829+00:00"
+content_sha256: "3a1ff247a77196d197916c9ac5f83e0b948a1c94a999dc327370d44392cc700d"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -47,8 +47,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 **そのことを知っている気象科学者が、一般人に向かって何と言っているのか。**
 
 そこなのである。
-
-  
 
 ---
 

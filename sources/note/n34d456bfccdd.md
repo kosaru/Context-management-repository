@@ -3,8 +3,8 @@ note_id: "n34d456bfccdd"
 title: "温暖化を否定していない。だから「温暖化のせい」で全部まとめるな――少数の否定派を潰すための動員が、気候理解と温暖化対策そのものを壊していないか"
 note_url: "https://note.com/shirokuma1970/n/n34d456bfccdd"
 published_at: "2026-09-01"
-fetched_at: "2026-09-01T08:55:36.036663+00:00"
-content_sha256: "b0bf788a421038e423ab0d1b7c51a2c22cfda620e479bdff0100ff677c309f15"
+fetched_at: "2026-10-08T13:41:28.468036+00:00"
+content_sha256: "7589829f1d99ae1f957ac9febe1fe3a9feaea9a3a06d8f9f9f78ea74032ba082"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -47,8 +47,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 **温暖化以外にも大きな要因が動いているのに、それを落として「温暖化のせい」という一つの物語にまとめるな、と言っている。**
 
 そして、その単純化を、人を動かすための言葉として専門家が意識的に使うのであれば、私は詐欺行為に等しいと思っている。
-
-  
 
 ## 長期で見れば、温暖化はむしろよく見える
 

@@ -3,8 +3,8 @@ note_id: "ne7a7ab9dbf5c"
 title: "「このコンテンツは削除されました」――生成AIのモデレーションは、何を消したのか説明できるのか"
 note_url: "https://note.com/shirokuma1970/n/ne7a7ab9dbf5c"
 published_at: "2026-08-12"
-fetched_at: "2026-08-13T22:10:52.857377+00:00"
-content_sha256: "ef0f1fec5919305b3c8f0cb21fae262a789c37b05ce2786b637b1558e00eddf7"
+fetched_at: "2026-10-08T13:42:27.012562+00:00"
+content_sha256: "868c2d0c6c24003f226a6320e45017aecc3e341daa5285315f16df6681b6aa6c"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -45,8 +45,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 生成AIのモデレーションについて本当に問題なのは、単に「厳しい」「緩い」ということではない。
 
 **ユーザーから見えない場所で回答が消され、その理由をユーザー自身が検証できないことである。**
-
-  
 
 ---
 

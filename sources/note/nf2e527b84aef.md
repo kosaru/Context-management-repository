@@ -3,8 +3,8 @@ note_id: "nf2e527b84aef"
 title: "人類の未来を増やすための問題解決フレームワーク――正解を決めるのではなく、1000年後まで修正を続けられる仕組みを作る"
 note_url: "https://note.com/shirokuma1970/n/nf2e527b84aef"
 published_at: "2026-08-27"
-fetched_at: "2026-08-29T12:40:27.905561+00:00"
-content_sha256: "004ab145c41c765c2671f0421ba8ff5b454219c05ad72659aff5c2f584de500c"
+fetched_at: "2026-10-08T13:41:38.160822+00:00"
+content_sha256: "640c7408f955e918f08b58ea41ea432f80cafa3020cfd9d96d7ef95183d46463"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -67,8 +67,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 これはまだ完成した制度案ではない。
 
 今のところ見えている骨格である。
-
-  
 
 ---
 

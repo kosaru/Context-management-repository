@@ -3,8 +3,8 @@ note_id: "nbe27d59ccc74"
 title: "沖縄はなぜ本土復帰を求め、なぜ米軍基地は残ったのか――沖縄県民の意思、東アジア冷戦、日米両政府が決めた復帰"
 note_url: "https://note.com/shirokuma1970/n/nbe27d59ccc74"
 published_at: "2026-08-04"
-fetched_at: "2026-08-09T04:34:56.403314+00:00"
-content_sha256: "c91d363e28970a7ab560ce907432f0e9d9a2639cc77b18e16538dadcd6db6a4d"
+fetched_at: "2026-10-08T13:42:38.514829+00:00"
+content_sha256: "ebe393b12522880f25452ae51e0ff111299bfbe94e724759384cdab0ae9106e0"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -91,8 +91,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 日米両政府が置かれた制約を残す。
 
 そのうえで、誰が決定し、誰が利益を得て、誰が負担を引き受けたのかを見ることである。
-
-  
 
 ## 沖縄戦によって、沖縄は米軍の占領地になった
 

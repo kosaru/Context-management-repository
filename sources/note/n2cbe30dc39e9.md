@@ -3,8 +3,8 @@ note_id: "n2cbe30dc39e9"
 title: "国家はなぜ拡大をやめられないのか――領土からGDPへ、そして次の「無限」へ"
 note_url: "https://note.com/shirokuma1970/n/n2cbe30dc39e9"
 published_at: "2026-08-27"
-fetched_at: "2026-08-29T12:40:33.459626+00:00"
-content_sha256: "b1acdf29b868089574d65ae181b330d527a84d093740478f4607aa15ac514bd0"
+fetched_at: "2026-10-08T13:41:43.133459+00:00"
+content_sha256: "6ddcd22e372ff665a8de6be164d6442fae68940e780baa3445d6391355404e84"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -61,8 +61,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 答えの一つは、かなり分かりやすい。
 
 **領土である。**
-
-  
 
 ---
 

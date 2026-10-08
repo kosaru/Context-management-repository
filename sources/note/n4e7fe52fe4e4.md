@@ -3,8 +3,8 @@ note_id: "n4e7fe52fe4e4"
 title: "「よく分からないから怖い」を、誰かに預けないーーAIが脆弱性を見つけたニュースから考える、不安を確認順に戻す力"
 note_url: "https://note.com/shirokuma1970/n/n4e7fe52fe4e4"
 published_at: "2026-04-25"
-fetched_at: "2026-06-23T20:03:34.380227+00:00"
-content_sha256: "7a9436d46a77002deeb8a068035caf8f5fd793ea992451aa7258439b2aefad39"
+fetched_at: "2026-10-08T13:44:17.876066+00:00"
+content_sha256: "19d88b178862a09c26289e247b7c73506f27ca0e78cfd9bb427605c0c88b59a0"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -57,8 +57,6 @@ AIがそこまでできるようになったのか。
 
 怖いのは、危険があることだけではありません。  
 何がどこまで危ないのか分からないことが、怖さを大きくするのだと思います。
-
-  
 
 ## 1. 怖いのは、危険そのものだけではない
 

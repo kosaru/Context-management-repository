@@ -3,8 +3,8 @@ note_id: "nada1ec99f2db"
 title: "大量消費中毒患者にさせられた人類――わずか100年ほどで、私たちは「作る、買う、捨てる」を当たり前にした"
 note_url: "https://note.com/shirokuma1970/n/nada1ec99f2db"
 published_at: "2026-08-27"
-fetched_at: "2026-08-29T12:40:36.015620+00:00"
-content_sha256: "13d5dc214fa7a631bb21d429050c11787c9128b00c50f2f316c928229549f9aa"
+fetched_at: "2026-10-08T13:41:45.103551+00:00"
+content_sha256: "07f721418e2191bd6e7602524c041350c29c1b9c0ac6480a370b558fffd98756"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -43,8 +43,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 そして、地球環境への人間活動の影響が猛烈な勢いで加速した時期も、そこにかなり重なっている。
 
 私はここに、もう一度目を向ける必要があると思う。
-
-  
 
 ---
 

@@ -3,8 +3,8 @@ note_id: "ndcbd0a4e9120"
 title: "私はなぜ、中間の正義を語らないのか――正しさと正義の発生構造を、哲学から考える"
 note_url: "https://note.com/shirokuma1970/n/ndcbd0a4e9120"
 published_at: "2026-07-21"
-fetched_at: "2026-07-26T06:14:20.305652+00:00"
-content_sha256: "7e5a7cb5696421d9025720b93eef9597f9bf17a2d374796432847ecca843e771"
+fetched_at: "2026-10-08T13:43:10.142574+00:00"
+content_sha256: "09f5338da151d9c6c52da3c82775f0e3085344c9cbde1adee301626c1f56b990"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -29,8 +29,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 しかし、完全に同じものはない。
 
 私が考えているのは、正義とは何かという最終解ではなく、正義がどのように発生し、どの範囲で危険になるのかという問いである。
-
-  
 
 ## 私が置いたのは、正義の規範ではない
 

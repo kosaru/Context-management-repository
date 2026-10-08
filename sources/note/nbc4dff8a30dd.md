@@ -3,8 +3,8 @@ note_id: "nbc4dff8a30dd"
 title: "動員するのではなく、循環を一緒に作る――ホモ・アーシアンにとっての「語る場」とは何か"
 note_url: "https://note.com/shirokuma1970/n/nbc4dff8a30dd"
 published_at: "2026-08-24"
-fetched_at: "2026-08-29T12:40:48.442936+00:00"
-content_sha256: "e23b85920863de1b304199541ffcaacaba41905fda3e076a33674b9e07376d13"
+fetched_at: "2026-10-08T13:41:58.013257+00:00"
+content_sha256: "47aaab6c3a9eaf958e6babfead9cf5458344e42e65c2dc720fb57889ed787928"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -69,8 +69,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 実現したいことがあるから動員したのに、その動員によって縛られ、実現したかったものを実現できなくなる。
 
 これでは本末転倒である。
-
-  
 
 ## 動員の問題は、人が動くことそのものではない
 

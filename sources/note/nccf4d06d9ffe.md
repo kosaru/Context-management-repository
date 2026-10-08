@@ -3,8 +3,8 @@ note_id: "nccf4d06d9ffe"
 title: "生成AIを信用しすぎない。自分も信用しすぎない"
 note_url: "https://note.com/shirokuma1970/n/nccf4d06d9ffe"
 published_at: "2026-09-09"
-fetched_at: "2026-09-13T08:15:41.513689+00:00"
-content_sha256: "dbda21724d6957e1375ab82e8f9b44aae8c1ee0ad89b01765b752780400c18be"
+fetched_at: "2026-10-08T13:41:13.530471+00:00"
+content_sha256: "35cf89b05a5700e213da61a7f0d4982e28ef046fccf18c8fd17544618b260a3a"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -46,8 +46,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 だが、そのAIも間違う。
 
 私にとって生成AIとの付き合い方は、たぶんこの往復の中にある。
-
-  
 
 ---
 

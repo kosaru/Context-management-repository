@@ -3,8 +3,8 @@ note_id: "nc49c7ff422bb"
 title: "戦争と正義――正義は人を守り、人を殺す"
 note_url: "https://note.com/shirokuma1970/n/nc49c7ff422bb"
 published_at: "2026-07-21"
-fetched_at: "2026-07-26T06:14:17.523303+00:00"
-content_sha256: "37d919687d5d072d4d96c10253601a8811550b0fca9e70ded352ca1614a64823"
+fetched_at: "2026-10-08T13:43:08.029931+00:00"
+content_sha256: "4e27bc83861ec5428bbb69025954db54e731cbbdd28ab5b916dd7494b7a64a1a"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -51,8 +51,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 命令した者が自分で引き金を引かなくても、人を殺したことに変わりはない。
 
 同じように、正義が自分で銃を持たなくても、正義は人を殺す。
-
-  
 
 ## 正しさと正義は、どこから生まれるのか
 

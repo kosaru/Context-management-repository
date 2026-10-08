@@ -3,8 +3,8 @@ note_id: "nffaf7080d1a1"
 title: "知的生命体宇宙史アーカイブ――太陽系第三惑星「地球」"
 note_url: "https://note.com/shirokuma1970/n/nffaf7080d1a1"
 published_at: "2026-08-12"
-fetched_at: "2026-08-13T22:10:54.041025+00:00"
-content_sha256: "de0e8b414fd88a9ec71a44ea15cac7b1eb284848e09cf90787adec9bf98a074a"
+fetched_at: "2026-10-08T13:42:27.901479+00:00"
+content_sha256: "6575a2ead1ea6de2de4aa4edef918fc533c3046892a3f6eb1a6d350ee51b3c46"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -15,8 +15,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 > このファイルは文脈解析用の取得時スナップショットです。
 
 ## 
-
-  
 
 ## 観測対象種：ホモ・サピエンス
 

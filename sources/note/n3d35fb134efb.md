@@ -3,8 +3,8 @@ note_id: "n3d35fb134efb"
 title: "水を捨てる都市から、水を地面へ返す都市へ――環境問題を二酸化炭素だけにしないために"
 note_url: "https://note.com/shirokuma1970/n/n3d35fb134efb"
 published_at: "2026-07-31"
-fetched_at: "2026-08-01T06:17:02.163694+00:00"
-content_sha256: "ccc6656db19fca54488ba7efa716d81e4b3f3eb3c911d90b5851c99fd0860849"
+fetched_at: "2026-10-08T13:42:43.926846+00:00"
+content_sha256: "e58747d5d531113936410b9dca1389c990b5a1f971c4879171364074c58a6c58"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -30,8 +30,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 そして、切断した循環を、どうやってつなぎ直すのか。
 
 今回考えたいのは、水である。
-
-  
 
 ## 都市は雨を受け取りながら、地面には渡していない
 

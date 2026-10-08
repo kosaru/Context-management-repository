@@ -3,8 +3,8 @@ note_id: "nac9da64afbb0"
 title: "IPCC全文には何が書かれ、一般消費者には何が届くのか――IPCC・専門家・メディアのあいだで、気候情報はどう変わるのか"
 note_url: "https://note.com/shirokuma1970/n/nac9da64afbb0"
 published_at: "2026-08-14"
-fetched_at: "2026-08-16T03:57:43.473984+00:00"
-content_sha256: "eda2df8d7649974533916df741722b30b97fac7ddf4d70c7545835dd81c0fd7f"
+fetched_at: "2026-10-08T13:42:19.579677+00:00"
+content_sha256: "86006615b1d4e6fae7771410b70085ab01ed993bddfc7e4474f4efc9d95b8a65"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -42,8 +42,6 @@ IPCCは、人為起源の温暖化だけを扱っているわけではない。�
 **その膨大な内容から、何が一般消費者まで運ばれているのか。**
 
 私はそこを見てみたい。
-
-  
 
 ## IPCC自身が、すでに情報を何段階にも分けている
 

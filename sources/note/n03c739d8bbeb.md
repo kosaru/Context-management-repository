@@ -3,8 +3,8 @@ note_id: "n03c739d8bbeb"
 title: "生命の種は、一種類でなくていい――数百万年、数億年という時間を使って、銀河に「未来」を育てる"
 note_url: "https://note.com/shirokuma1970/n/n03c739d8bbeb"
 published_at: "2026-08-31"
-fetched_at: "2026-09-01T08:55:36.913136+00:00"
-content_sha256: "e0a609dfbe9be94c52d9c3e6f33b595a21115727ef51da9148427334cce076e1"
+fetched_at: "2026-10-08T13:41:29.487833+00:00"
+content_sha256: "660a3668709c40e3ef79d0010250611489560e79520f14b61d0d4c7057ec43e3"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -89,8 +89,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 自分たちの生命の始まりに、遥か昔の別の文明が関係していたことを。
 
 そして彼らもまた、別の恒星へ向けて探査機を飛ばそうとしている。
-
-  
 
 ---
 

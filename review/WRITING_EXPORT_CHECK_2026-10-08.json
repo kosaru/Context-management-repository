@@ -1,0 +1,4734 @@
+{
+  "checked_date": "2026-10-08",
+  "source_files": [
+    {
+      "container": "xml",
+      "xml_sha256": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155",
+      "articles": 363,
+      "statuses": {
+        "publish": 363
+      },
+      "unmatched_or_drafts": [],
+      "source_name": "note-shirokuma1970-1(1).xml",
+      "library_file_id": "libfile_73a5aa622ef48191be25e3c478274647",
+      "created_at": "2026-07-09T22:09:23.941608Z",
+      "expected_container_size": 7105141,
+      "local_container_size": 7105141
+    },
+    {
+      "container": "xml",
+      "xml_sha256": "ec6c8e36fc3a0af6c2fcdc9f01da2352aa9051091923a0ebe0e3f64926db2d6a",
+      "articles": 329,
+      "statuses": {
+        "publish": 329
+      },
+      "unmatched_or_drafts": [],
+      "source_name": "note-shirokuma1970-1.xml",
+      "library_file_id": "libfile_4bc509d31158819188d4e5208c487617",
+      "created_at": "2026-05-09T02:19:47.006296Z",
+      "expected_container_size": 5076243,
+      "local_container_size": 5076243
+    },
+    {
+      "container": "xml",
+      "xml_sha256": "8807ed6d46e58ce29897b4df94f6f99ec24ef6fbbdcc9471963707a4e7730522",
+      "articles": 383,
+      "statuses": {
+        "publish": 382,
+        "draft": 1
+      },
+      "unmatched_or_drafts": [
+        {
+          "id": "ne7fda6b47615",
+          "title": "メディアを読むだけでは足りない――責任を問い、社会を観測し、AIと向き合うためのメディア論",
+          "status": "draft",
+          "date": "Fri, 17 Jul 2026 18:52:58 +0900",
+          "in_catalog": true
+        }
+      ],
+      "source_name": "note-shirokuma1970-1(1).xml",
+      "library_file_id": "libfile_906ff7018bbc81918d6fff2df4291077",
+      "created_at": "2026-07-28T02:26:53.816440Z",
+      "expected_container_size": 11331387,
+      "local_container_size": 11331387
+    },
+    {
+      "container": "xml",
+      "xml_sha256": "8807ed6d46e58ce29897b4df94f6f99ec24ef6fbbdcc9471963707a4e7730522",
+      "articles": 383,
+      "statuses": {
+        "publish": 382,
+        "draft": 1
+      },
+      "unmatched_or_drafts": [
+        {
+          "id": "ne7fda6b47615",
+          "title": "メディアを読むだけでは足りない――責任を問い、社会を観測し、AIと向き合うためのメディア論",
+          "status": "draft",
+          "date": "Fri, 17 Jul 2026 18:52:58 +0900",
+          "in_catalog": true
+        }
+      ],
+      "source_name": "note-shirokuma1970-1.xml",
+      "library_file_id": "libfile_d699be773f008191b30dadd9a69f230f",
+      "created_at": "2026-07-28T02:23:09.339065Z",
+      "expected_container_size": 11331387,
+      "local_container_size": 11331387
+    },
+    {
+      "container": "zip",
+      "member": "note-shirokuma1970-1.xml",
+      "member_crc32": "bdde2ca5",
+      "member_size": 15683840,
+      "member_crc_verified": true,
+      "whole_archive_valid": false,
+      "xml_sha256": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a",
+      "articles": 448,
+      "statuses": {
+        "publish": 448
+      },
+      "unmatched_or_drafts": [],
+      "source_name": "8a28a80b1f08948fb47d442271d675b0881b5850bf450200eab06f0688d0b71f_1.zip",
+      "library_file_id": "libfile_5080adbd09b0819187d3e8e316804009",
+      "created_at": "2026-08-29T12:09:04.048669Z",
+      "expected_container_size": 192843598,
+      "local_container_size": 71303168
+    },
+    {
+      "container": "zip",
+      "member": "note-shirokuma1970-1.xml",
+      "member_crc32": "6fccb9b2",
+      "member_size": 16073231,
+      "member_crc_verified": true,
+      "whole_archive_valid": false,
+      "xml_sha256": "51b2a72ba394d80be1c4894cbefa69f5ffd9b7335265a9b898b2fbe62f3ca9d2",
+      "articles": 453,
+      "statuses": {
+        "publish": 453
+      },
+      "unmatched_or_drafts": [],
+      "source_name": "aa13da41d21caab594c4fef69722e3e88abfc62f580af65376a81b87d218a1e2_1.zip",
+      "library_file_id": "libfile_3f2d655ab6388191b948311cab12f5e1",
+      "created_at": "2026-09-02T00:35:12.905975Z",
+      "expected_container_size": 196790539,
+      "local_container_size": 71696384
+    },
+    {
+      "container": "zip",
+      "member": "note-shirokuma1970-1.xml",
+      "member_crc32": "22569ab9",
+      "member_size": 11331387,
+      "member_crc_verified": true,
+      "whole_archive_valid": true,
+      "xml_sha256": "8807ed6d46e58ce29897b4df94f6f99ec24ef6fbbdcc9471963707a4e7730522",
+      "articles": 383,
+      "statuses": {
+        "publish": 382,
+        "draft": 1
+      },
+      "unmatched_or_drafts": [
+        {
+          "id": "ne7fda6b47615",
+          "title": "メディアを読むだけでは足りない――責任を問い、社会を観測し、AIと向き合うためのメディア論",
+          "status": "draft",
+          "date": "Fri, 17 Jul 2026 18:52:58 +0900",
+          "in_catalog": true
+        }
+      ],
+      "source_name": "110689c0161f310f626c245d9abb17787196019cd09ad3689a38db276009cc28_1.zip",
+      "library_file_id": "libfile_8a81bdcaa5448191a43a97d1b2753f2f",
+      "created_at": "2026-07-28T02:23:59.230172Z",
+      "expected_container_size": 124541548,
+      "local_container_size": 124541548
+    },
+    {
+      "container": "zip",
+      "member": "note-shirokuma1970-1.xml",
+      "member_crc32": "b6a556da",
+      "member_size": 13532721,
+      "member_crc_verified": true,
+      "whole_archive_valid": false,
+      "xml_sha256": "4162e929c7289b6192aff0d460c9f05a372c3cfc21f42847448b69bbc21264d7",
+      "articles": 417,
+      "statuses": {
+        "publish": 417
+      },
+      "unmatched_or_drafts": [],
+      "source_name": "9aacce268105d2d7e0fd882c216a2745514eb3824e72bb5e2c42444b52ae4114_1.zip",
+      "library_file_id": "libfile_b7d49e5188b08191a6447ca50ae13eb0",
+      "created_at": "2026-08-20T15:06:55.558578Z",
+      "expected_container_size": 169745557,
+      "local_container_size": 51118080
+    },
+    {
+      "container": "zip",
+      "member": "note-shirokuma1970-1.xml",
+      "member_crc32": "d8917693",
+      "member_size": 12921618,
+      "member_crc_verified": true,
+      "whole_archive_valid": false,
+      "xml_sha256": "32ac71b178912c51826573ec2249b3a8a76611a38de986712e7bb399da430a39",
+      "articles": 407,
+      "statuses": {
+        "publish": 407
+      },
+      "unmatched_or_drafts": [],
+      "source_name": "abc0b69b1a4615a93a832fc049bf9fdcb6a245d0631df0d08870295a1de37ffb_1.zip",
+      "library_file_id": "libfile_23f9ebfdd0308191a600a7a4994d1973",
+      "created_at": "2026-08-13T22:02:55.686556Z",
+      "expected_container_size": 161424916,
+      "local_container_size": 52428800
+    }
+  ],
+  "distinct_note_ids": 453,
+  "normalized_article_versions": 454,
+  "normalization": "HTML/Markdownを文字列化し、URL・句読点・書式・空白を除外した所在照合。原文の完全一致・思想上の同一性を認定するものではない。",
+  "states": {
+    "same_normalized_text": 437,
+    "different_normalized_text": 16,
+    "contained_normalized_text": 1
+  },
+  "old_only_normalized_characters": 0,
+  "article_versions": [
+    {
+      "note_id": "n2c75453fc841",
+      "title": "001.消費税はなぜ「売上税」の性格を手放せないのか？",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bbe92780e94a1d19e64ef4810e0a99cd825bdd18cb5cd990bee35cfa32cd5870",
+      "chars": 1267,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7a4aa09d8385",
+      "title": "002.カーボンニュートラルという言葉に、少し距離を感じている",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d2a58568771f7eee47d350c5a046bc445fd3a9dc360bd981374ade4431d66fb5",
+      "chars": 1964,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n950cb90fbdda",
+      "title": "003.AIと人類の付き合い方：未来の文明を考える",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1d507daddfb8d623a4a0bdde61300aee2dfb7d7123ef00e4a3b5a2cbfc7e736e",
+      "chars": 1214,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3c1766637717",
+      "title": "006.人生のゆとりと効率化の弊害",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "61eb88d0c633e5a36e21357a7a2eef476733afe76b31a65ae6635f3bec3ce060",
+      "chars": 1556,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbe506f1f292b",
+      "title": "004.未来の安心を作る「消費税＋ベーシックインカム二段階安定装置」",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0b2d1f7b5fc16b064a4700a1b66e30c4d6efd12b665776e6435097086f1c99a2",
+      "chars": 1287,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3ecee088fde8",
+      "title": "005.不安を前提にしない社会設計という発想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "84831afb66684d855fe144b498cc0ab2a587c927062a5e7c3b2c406028cd5171",
+      "chars": 1880,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3b396bfeb4f2",
+      "title": "007.「投票率が低い社会では、政治は民意ではなく“計算”に最適化される」",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "568dfcae5b76d7b2bf98f9f9630a0a7d2963a5dfcbe5df31d106cad1b8800827",
+      "chars": 1534,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3f891f9f7933",
+      "title": "008.第一弾：社会は、どこで無理をし始めたのだろうか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a98ce57e87fbc342811cf1df375b7d7f52ec5fc8451da34299f2acc9b15ea024",
+      "chars": 1048,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0eb19d6eb0e4",
+      "title": "009.第二弾：都市は、人をどう分断しているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3136555272d0349abfd45598a64deb1c3c8dba690c7d8f8acac3bb8fc9fac34a",
+      "chars": 983,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5a96b6ac0e9a",
+      "title": "第三弾：都市で、世代や役割をどう交わらせるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "21ac9f84054a830c9fa810ce9f48a080d121d287d1fd70120051ee907c65cea7",
+      "chars": 867,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd35d467e767a",
+      "title": "第四弾：都市全体で、生活と社会をどう組み直すか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "04bf27c6073922346c50a15d83b045a6e0979dbce29767806bd0905233f36d79",
+      "chars": 1105,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncc5ce1babd25",
+      "title": "第五弾：街区レベルで考える都市実験",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0097963ad7ed6c76c406db0ceca04635d3c66bcbc14ad59e8656c931fbba7642",
+      "chars": 971,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7d9baea5ab51",
+      "title": "第六弾：評価軸・成果の可視化",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1d942b3d968ab014ee100d85e7c9d44adf048d45f1cccbc765f10bcb1f636318",
+      "chars": 1119,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n47fdab100237",
+      "title": "第七弾：技術と制度は、どこに置くべきか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7d7c0559e0c2f0aa781fa8516013dc9aa2e253470e915f13bb6f2c6794e215fd",
+      "chars": 798,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2782cb7237e5",
+      "title": "第八弾：未来都市の輪郭について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5a0a584aa7ff7d517e58c0093a35818ce46b69902e963331e125bcaadca53e02",
+      "chars": 950,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n86f3f89471dc",
+      "title": "揺れながら、都市は続いていく",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1fd7bd0201d5c87ad5ca4d2b717bc2046dd26f5c4c29ddac201a1002241e360b",
+      "chars": 1862,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc04cb0dd9db4",
+      "title": "社会をどう良くするかの前に、何を前提にしているか──不安ではなく安心を、社会設計の前提に置くという思考実験",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "521790f90e8362ad7af80f2b179e232be4e1cd118ba786a7b589e4696ed8ffbb",
+      "chars": 3771,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n395462f885b7",
+      "title": "安心はコストではない。投資である。",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "921562a59f564a1fc3184bd8876499dbde5097bcb76c63a34e37cf4286b6e753",
+      "chars": 1811,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5968f6dee1ef",
+      "title": "やり直せる余地が、社会を強くする",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9fd328fc6b7c2a298a23d44d52766c7f1fc7dd11fcc4d8ad8112f4a74551470c",
+      "chars": 731,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6c7b5ee0ddc2",
+      "title": "安心して考えられると、人は速くなる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d358c14676480cc7c1a4af1b6888797ba505ea844b174f8d1fac9e64e2226516",
+      "chars": 709,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n15e424043797",
+      "title": "AIに流されないための、個人的な使い方メモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2c683bce40571d82ccee481e19ed0cf256e5974a940bc5eb29c2349c2657e123",
+      "chars": 683,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n488c1c4addf0",
+      "title": "SNSと政治はいま、どこですれ違っているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3651d88856dd4bee835e281c1843e620e8c93c30126218e932e83180cb6cdbb5",
+      "chars": 1485,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nabe108057bb9",
+      "title": "民主主義には、なぜ「導き手」がいないのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "895f710a1593f922b350e080da34ce25fbcfc111c783465309efc6d209118abf",
+      "chars": 1165,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2f379dd24aa9",
+      "title": "安心を約束しないという選択",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c1da863c6c4177f4d089e9fbac33b270a1af4a34e413051b6400419d6a8ce7f5",
+      "chars": 609,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc09f9d6c6e1a",
+      "title": "政治思想が構造論に移行する地点についてのメモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d2a8bf9cf8435d80939c756fb147f6c80c31bb903db58ac2327738004e50776a",
+      "chars": 1691,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n19d37337d7d2",
+      "title": "ソフトウェア開発論メモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "59a5fa49b1d0000d695796e8772362b6b8196f0cc60f1c659df01f47ae0b1edb",
+      "chars": 1284,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ndcca526034cf",
+      "title": "犠牲を設計しないという選択",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6eba8481f1d93490a6f0f72a3f6977c5415878b2db372c5bcd9fb32987253d16",
+      "chars": 901,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na16ed2d7ea8c",
+      "title": "民主主義は「納得」を生む制度ではない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "67287f4762a9e410e3cea892ec46acbbe1e1b1d2d2ec7a3a26a2006849f44a90",
+      "chars": 1136,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n58995f0813b3",
+      "title": "匿名で語ることの政治的意味",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5f786479dda7fefb598595e45fd0e8db41af90d3331eec9da9c0830cea2a721b",
+      "chars": 1165,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7f59beab5c89",
+      "title": "ビジョンを語るということについての思考メモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bcce67f93db92344995449942a3d3d2fe32e5bbeefc0eed629444eb212798ccf",
+      "chars": 1540,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf45b199a5232",
+      "title": "『古い思考体』",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "715c29fc221a2f1befd95d3cd8ca5c0f3bf67c7397547180e030f4e24ec8458e",
+      "chars": 442,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd7013bfacc32",
+      "title": "『制度の化石』",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3c71606f088551820b7257bc1080d73601ca1944fbb5a9adc5c4a07f07198f8a",
+      "chars": 520,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3372ea6941af",
+      "title": "利益団体と政党を切り離すとは、どういう思想か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "196e21d100fe938ff75db26d9fb8fa37dd976437af302e654f8dfa6feede8985",
+      "chars": 1065,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8efcad4fd1c8",
+      "title": "成長を前提にしない社会で、人はどうやって守られるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ae774bbc9dd4aa2080b4d20f309344b7c4e49d6054d59f786205c42548ff2f40",
+      "chars": 1359,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n489b4fdb13dc",
+      "title": "『味のしない言葉』",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ce632246e2993322a26a28f4cf823fce214ada36c4d59cbf324fd772c5ebeabf",
+      "chars": 378,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n69030c722de3",
+      "title": "『最適化の後』",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a573141e97f1974c47c702e862d681fd955ddfd577006549e5badb2cf99455d5",
+      "chars": 410,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc057622bb407",
+      "title": "右翼・左翼という言葉を使う政治家を、私は信用しない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "446a0a416ee3f73cd00aac1c1ea11f72a9c0aa6703a001f46a70b0c2a06f40e1",
+      "chars": 2108,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n03ba1312ebd9",
+      "title": "共産主義についてのメモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d4a685e7b706eafce0b0c8a61146ebc1e77db957df78c9f1a907ff5f14b71d0c",
+      "chars": 1147,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4279a0a56034",
+      "title": "利他でも利己でもない場所の話（メモ）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "93ae27c312f8e3076c4f5ca62803d18235777f306786c596e18b23a16ff0c016",
+      "chars": 827,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n74618456f88f",
+      "title": "消費税＋ベーシックインカムは足りるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "938c55bf584624000bcf2ccfd572f70e593c704babb2c1babd7d9327b296be96",
+      "chars": 1087,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf4f52332c07e",
+      "title": "「わかりやすい説明」が現実を削ってしまう仕組みについて",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0f5a8f7c3c8e4cfe7a85b786ae2cd5b2462210d513268b1c0e9ba9602c775f3b",
+      "chars": 1068,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1360fabbbcd2",
+      "title": "『参照できない価値』",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "539cc9b7abd4d918ff186e0dc28ffcfbe18323f0bcca965e4b4f59ff18ee0414",
+      "chars": 403,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n14ea32905175",
+      "title": "『想像の試行』",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4d71a668092e94e1c31c836c0c371c8783b085fc0d0a4e42a68aab470c0281c7",
+      "chars": 537,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n48ad929fcec1",
+      "title": "語る場と決める場を分けるという発想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f7a4501e589cb5aa5ca1c825cd4d24cdb176a0c4eb5da2907195f6ce12a6ebf6",
+      "chars": 1116,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4e804cc7d8e6",
+      "title": "守るという行為の性質について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "813bcfa276462f44e45e5d232e8c075099b6330466139a41868deba0727f9149",
+      "chars": 1099,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n907b5e49d61e",
+      "title": "トランプは同盟国を見捨てようとしているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2afe95f4c105507220c00625e64b8aa358ec02a426d89124be82041e216099ef",
+      "chars": 2164,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0361f7f465ee",
+      "title": "NotebookLMは「思考の反射装置」だった",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b5a3c08443d85ff5e290755288d2b4551e49b531964037a76ad5ad9af566b604",
+      "chars": 1222,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc5b63e3f0ced",
+      "title": "安心についての整理メモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bb0619b82be3ec4de58c04bceeec925b99fcaa889a016e8950165382d4508db7",
+      "chars": 461,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc137f727ff3d",
+      "title": "人々が未来を予測しやすくする提案",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "735d22aaf860c5bf451cd4b083d6113f79bfe97dcab65b34aadbe272f4ea6aed",
+      "chars": 1000,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd1f627717962",
+      "title": "予測の状態を観測するという発想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b573938d9e98834d981cdc9c9f6629ecacd868f62d3867ec5d81b21ebefa37f1",
+      "chars": 1032,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1fe75305a32b",
+      "title": "思想への信仰と、更新されなくなる思考について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6fcd925103ba6f9b55f83fb04ca13923ce4dabbeee11c5ee5b9b276408531bb2",
+      "chars": 1144,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na7e95c7e0e89",
+      "title": "結論を急ぐか、熟成を待つか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2adecba75fee393d5281a452995a73ecdb08ec3ade3d95e1ccddfaa74cf78231",
+      "chars": 635,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1da759ca395d",
+      "title": "境界を踏んだ話",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c1a6b0e93b0610fbd74eb234777e22e3fa916a2e6570a33504bf51cf3bdbeadc",
+      "chars": 864,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n216640f58a05",
+      "title": "税を意識させることと、苦しめることの境界",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3373b2e57be632b56d1ce1ee93ec57fce6fcbc8dfa97f21f656bbbeb8ade5f77",
+      "chars": 917,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n62e55d403a9c",
+      "title": "円安・価格転嫁・外国人労働",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "75eb7b8228dccda7d013efd14eacfae27c0c9052bbebee8aeb75fbf3f06be922",
+      "chars": 1536,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4ee6cc7aa942",
+      "title": "語る場に至る前のメモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "68414d6028034c12545c2b9fecd5acad16ee71d64274f911399fb8025bbe11a8",
+      "chars": 1775,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n95df044df7bb",
+      "title": "圧勝のあと、政治は少し雑になる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "cc06019710654099c59851862c4622b76067e177ad4dbd6ffea29388d9e33c44",
+      "chars": 616,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc85faf1b49dd",
+      "title": "成熟と居付きについてのメモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "88a6dce42dd0d25a353c4cd1d8ad952b05de1c4fc8a0b321cb9a0b8f2993ebff",
+      "chars": 1069,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfea0a3107e0e",
+      "title": "二代目不在という構造的失敗",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9a2d65f291326aa5c5f3e286606ce7f272c6cb859359d838dc9a2933cddc3e22",
+      "chars": 1112,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbab489213628",
+      "title": "政治が「景気の責任」を引き受けるということ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "71e10f1280f3a60275487d94f94a160d113730e6f8faa40c4b5ed5fcd1dfbe0e",
+      "chars": 881,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nff78fb322ef2",
+      "title": "思想が暴力に変わるとき",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2b9ff130d6535868ab69fac5fee5b10a023d007ab92b5a4e7c42f4a161d0820e",
+      "chars": 1016,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3660dd28dc37",
+      "title": "民主主義は、誰の覚悟の上に成り立つのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e2ca5411dcc1cf9bbdb2bd7d212bf431fd3efa8b7882cc61bfbbdb9dc5e23ac0",
+      "chars": 1393,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n31794052d5ca",
+      "title": "このnote群が立っている前提",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7020d8747466ae05c7a398c4924e407a839d217799049154b8694ec8846e1db0",
+      "chars": 535,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n469d27c30570",
+      "title": "メディアの役割について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1b43d1e4a8113fb2b426076b75c976a17533f617c5d6396c960c8d1f5075972a",
+      "chars": 1475,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n01bf1fd6068d",
+      "title": "メディアの担い手について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5752ad7437882719e7f3f34c0ea469a827d95f99cc7058e7d5942a7af7b82a0a",
+      "chars": 1480,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc9f6813684c7",
+      "title": "公共性を失った自由は、国家に回収される",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7a11a85921c2d5a74960d130bda4adb37348ad76a81f1825692e33761d2b95cb",
+      "chars": 1478,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd3008273265b",
+      "title": "国会における「語る場」と「決める場」についての整理メモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "16fe6fb039dec0de136f077f0d5be6a8d5ec4fbc693c84bd75fa6986a54878b7",
+      "chars": 1194,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n97732654e9dc",
+      "title": "AIは万能ではない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7fb9c525d22711297e8b6bfda1c526f4d790830faa6034f74c86f508d081d1f7",
+      "chars": 1480,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7387d9ec4da3",
+      "title": "日本人がAIに感じる違和感の正体",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "74606bac16a09d04c557aee4153f4eb7b2afbe7ac0cbe5fbe25ff91050010bb0",
+      "chars": 1567,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n26c1548c9f17",
+      "title": "予算委員会から考える、構造が磨かれていく民主主義",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3b55feec9390dd2b93224be433e68cdd7d4609185064a25f279b8bf62d7998d2",
+      "chars": 1593,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb4e3737893d9",
+      "title": "語る場は無期限であり、決める場は有期限である",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b1b1560d2abb0b953b2ca1d0d29860058492a816ffb319bfc7b7d626214e9355",
+      "chars": 1149,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1fc070b059a8",
+      "title": "「語る場」を国民に解放するまで",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "79cba41b63173e92d78c44e4b151c4e6ea0a16d4cea1ead5e2e12a7dc9bad45f",
+      "chars": 1533,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ndc3320f2aac5",
+      "title": "語る場と決める場、そしてAIを用いた民主主義の補助構造について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2df9ae789f39777f02b73b1629a8271b9377d278c3bf72b0e4ced73efd8bab37",
+      "chars": 2493,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9571fcdd57b2",
+      "title": "「語る場」と「決める場」を分けるという構造ビジョン",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d82c9c27029933f9a58efcebe1000570407c4d844e26d3480ae36ce4fedb3783",
+      "chars": 1608,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n60bd60909c7e",
+      "title": "なぜ私は、答えを書かなかったのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f882b4b4cf908f134263f85c658a3999eff65866beec7b23cd68c3db093f53aa",
+      "chars": 664,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n91953326da8f",
+      "title": "正しさの先にあるものについて",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a220cb2078fdfcec7830cdfc255d5b037815320ed25c4f7bf79cfb99b684bc2f",
+      "chars": 1173,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9b73c13e1118",
+      "title": "アドラーが本当にやりたかったことは、何だったのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "594ec68cd6dfdbe5b2cff030f99ab396c7ce13fc26fc96d2ab5230956bec9f68",
+      "chars": 1166,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n33d949cdac78",
+      "title": "共同体という理想は、どこで人をしんどくさせたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8394b5d15d79eb05172a968002af76b43fc3b8ca454dd36004ad34d520f8437f",
+      "chars": 1472,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nde5b7a4c660b",
+      "title": "理想は、どこに置かれるべきか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6fbbc0d39cba03aa7e91eb0b19cb554d705417a05d4e4ea3c33a809961835bf5",
+      "chars": 1189,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n359075d563e5",
+      "title": "知識をツールとして使っているのかもしれない、という話",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "651c770b5b1e257927be538bcbfed00f9bbacb1c2df07f2dabce6c8d581a8342",
+      "chars": 1817,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2f50bf9b5d63",
+      "title": "組織はなぜ息苦しくなるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "766d792e9fa4b6f8c21ca25b09cc2fce640a2c6c3ccd3a7db035eaa7f12dea88",
+      "chars": 988,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3146c77024dc",
+      "title": "役割と人格はなぜ分けにくいのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2a8fa5528cffd9a5a3d9f2a9474f572a7aa64c0046f2c2332805de71a545f4b3",
+      "chars": 760,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5c816a754b2d",
+      "title": "組織が重くなるとき",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1a61f906a9d6e5f5ab8c09faea3bb62b96a187e92297d320eaff2e0336474c32",
+      "chars": 511,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb28671217aba",
+      "title": "責任分界点とは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9e55a1bacfc3ba2fff8fd6c8ac34cfe707785db736f70edd62bcb25fded5427c",
+      "chars": 803,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne9a5e5b2a82f",
+      "title": "決める人をどう守るか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3d6cdb481046176bb4e9d89aa8b29f27ffd565b4bf900baab99071c55fff212c",
+      "chars": 791,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n82246fc7776a",
+      "title": "なぜ「失敗の扱い」が核心なのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b10aeced2985815593db7254d7b361594fdc8b6da952441f07c9ff99c5d7786f",
+      "chars": 865,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd61ed4150882",
+      "title": "決定の時間軸を設計する",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8547d5f60450ff043ce81b17536e58f25bf2783ddcf73c1a33ebfc5e2001c4b5",
+      "chars": 535,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7525ef1d6cb0",
+      "title": "人を壊さないための構造について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "635d31d2c55dd2b9edf129a25355f58d018cf5bc9a3966878d1759bbbea67278",
+      "chars": 565,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n449805fb7720",
+      "title": "正しさより、壊れにくさ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a614d2ccf5ccd6d7173356cd378f5628c0f59497d17f95974e2bc569bbeb33f3",
+      "chars": 435,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf1373217d052",
+      "title": "アドラー心理学と用量用法",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2713e166c9297251e202aa20efc7ab59413529f97af7a93cc8890d523660b1d5",
+      "chars": 458,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd59cb2809464",
+      "title": "思想は競争にさらされたとき、どう変わるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b79d851afdba9c9f148db1dc2cff95aa7cb45a238c62e7b9985c81f9f8ea9446",
+      "chars": 854,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8392274a5481",
+      "title": "民主主義を語るための「型」について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f345bb4283dea1c828ee55af433a5b11e90e15bc269f2c83eb22a08f569e47e6",
+      "chars": 932,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5a4fe222a45d",
+      "title": "社会構造を考えるための「型」",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "66d53cbf2ad60f173d0254cb6d227aa985665dcb3e0dde145fadf10f0d1f857d",
+      "chars": 743,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nad167d52ee31",
+      "title": "身になっていない言葉",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d9007162c8865ec80dcf34a9a35d7c70ad2c79de8293b5b58419ebad97f5265e",
+      "chars": 312,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncb0c0fb66f04",
+      "title": "語る場と決める場 ―― 適用条件という視点",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "179dc6ce6af4edd01e39a71fcf201f01afc8c9a0da3276006b4eba670543567d",
+      "chars": 513,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n456d7d6ec65f",
+      "title": "ChatGPTとの付き合い方 ― 小さな違和感の扱い方",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "83ac29b68a120a7a9d4f9e1bdbba9c9a7ff00159fdee887eb38c7241fd5a1573",
+      "chars": 690,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3e51236594e2",
+      "title": "誠実さは、なぜ削られるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "21800501e1b171ac1e548da2332c8d468b19cb5ef73bd3bd5b627b23108c8bc7",
+      "chars": 566,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n09bc151ee0ca",
+      "title": "最高気温更新という現象をどう捉えるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9d7c2bc4de1b2da135351b445e34f3ef7a7d5211aa1c41e9cd949e54bef0ed77",
+      "chars": 1771,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6f347a8dbbba",
+      "title": "ナラティブと誠実さ ――カーボンニュートラル議論をめぐって",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "cc8b31274e39d086f512eb94748bd48846988f048d69249b0a921727a8fc61e6",
+      "chars": 887,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf432ae827cc2",
+      "title": "形式知と暗黙知 ―― 進化するための二つの機能",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ff48ddafebcf2cfc8ba2c6c2514e1d6af5693b08a7df925dc21cda02eab976bd",
+      "chars": 1010,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0558bfba8335",
+      "title": "思考の主権",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0bb00036464b5f5c413c095b86076d262763277140f50054cee4ab41a69218e2",
+      "chars": 191,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3cc7e8fa237e",
+      "title": "名前をつけるということ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5d12bb8dd717725fe51877b3d9e71b1bb379951fbb626a0fd11d502392c4958f",
+      "chars": 400,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9594a6ab2ca9",
+      "title": "答えのない問題とAIとの距離",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "10a2fc2005c503bc7aecf869610ca9b7a8e3e68daf90d148b10ef70be58d8a7e",
+      "chars": 652,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbf8fc2d73984",
+      "title": "AIとの距離感についての個人的メモ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "11117ffe078b0ddb62360971f9857fdbad92c61bf056a0afb8aaa38674343228",
+      "chars": 271,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na97fce05521e",
+      "title": "AIは、いまどの段階にいるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c95c577456791115b4dea3e0ec5d7062b2949c2a52e29a04f2253fa32738ffb7",
+      "chars": 927,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "naeb2c6dafeda",
+      "title": "未確定であるという希望",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "164a0754b65a9cdbb8598d60dd666a245267dbd35566038fec436d58ff9f2c59",
+      "chars": 688,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb15db1b4f9c0",
+      "title": "想像できない未来に希望を置く",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f05c0b6d1964074417224fc287de15e82aaffe971be64ef5eb334a925045e1cc",
+      "chars": 519,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfda2a539aa19",
+      "title": "共鳴の手前で",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "70902064de578d9f16acd4374d7cb04126b30df909b4ca14b81994fb48aaf82e",
+      "chars": 630,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne5f542566749",
+      "title": "遊びが文明を動かす",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "95eb4e4d7efad9fc4d699431cdd8ffc1f16b0880ee7493cfabbaa51b953275f7",
+      "chars": 1290,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2aa6c1fb1994",
+      "title": "■ 基本に戻れるということ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8f839b17b6153bfef41932f1af72f3b4e13f0162f890e6211088f827643af994",
+      "chars": 311,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n77ebac3cfa14",
+      "title": "■ しろくまの思想の現在地（整理）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5a72bf66c284df7a69de71e38bb8a416f9e2885397a24640ec6e913f8c8b7772",
+      "chars": 657,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n591730f8ed7d",
+      "title": "語る場に必要なこと",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "890800d1a6b11b14750e629ae9becb792e3e218c50f18d7e220d33fa4ffb1221",
+      "chars": 338,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n37e6f0ed4b51",
+      "title": "私の思考の地図（ログ・抽象化版）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "615e9a7f8f673656f1b1a67d935e41042d7030cba133de1bf983af23d57730cd",
+      "chars": 992,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf50490e7fe22",
+      "title": "歴史観は「語る場と決める場」を支える必要条件である",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "701df361f7bf18febb32f9a1597739f69d22fa0e9ffe0f11ce098e5f5431b4d6",
+      "chars": 588,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n482c55afdeec",
+      "title": "語る場は、社会の「過程ログ」になり得るか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "dcd03f07d65764168e463734fe8120b912112d0feb0a5cd3fd7179becc21e9fe",
+      "chars": 671,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n37b0eab83598",
+      "title": "知識生産を自由にするには",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "49e787d7152a1e0788385ae378e04d414a76514fda66ef84bc381e9ece2b60e6",
+      "chars": 767,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb2cc9bf0363c",
+      "title": "未来予測の分布を観測するという仮説",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c9f2ca9abe143d104c1432f465da0c9904862615eefab657e4e2dde915959dbe",
+      "chars": 613,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n677f56cb72c2",
+      "title": "巨大な知性に耐えられるか、私たちのリベラルは",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e2d1d76bade83b5225d320bef139e1f95dd36ba199c80e5b319e3c0b403d8f53",
+      "chars": 894,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n812f3cc582a3",
+      "title": "語る場が資本主義をどう変えるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3de2f09880357d9a19a8611b5c3904ca83645cf0d2a428c3ef26d1526b7b2d54",
+      "chars": 1463,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7fb60c0708b3",
+      "title": "語る場と決める場は、すでにある",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bae936ecaa4360469b5c0f3f7bbf12b236ddd7a8262af026ce583e0a87ecf51d",
+      "chars": 642,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n32c7f9ce8053",
+      "title": "主語を思い出す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "cc2dea9dbf922db3f057ce384279b92529f25408c8730a1066e84e4811815af8",
+      "chars": 412,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3a1e09ab0d28",
+      "title": "人類共通の課題と、制約が生む合理性",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "20d9f175f824ffc5a7f21eddfc4dc0a43baf78cd1eae2f6c1b3cfd1ac4861f1b",
+      "chars": 400,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9d6634d4c140",
+      "title": "戦争を起こさずに、主語を人類に戻すには",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0d47b7a9886427c65ff908c4e65c57e4cfdc71e5b9635ab38160f8b1b979989e",
+      "chars": 361,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n418663f0fff4",
+      "title": "世界大戦を経ずに、主語を人類へ戻すことはできるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4dfa58dcd523c3ed53e414cf7726e26823e05fcf679046654c031f4e9e0ee211",
+      "chars": 568,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4e507bf79125",
+      "title": "文明を保存するという発想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "88ee9ba9c18412fac37636f95b1fd6fccce5b9253a4467aefb9511a8d316007c",
+      "chars": 744,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9a6559803891",
+      "title": "文明を尊重するという視点",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "fbe031fef7eb717d7b784a6895016358968b287540e81cbf3eb4252caa5df376",
+      "chars": 440,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6631df8374c5",
+      "title": "国連の存在意義――議論の順序について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f66374b88f250f52f38da5d33a3b3632912a1892639477531087973e9cd21b9c",
+      "chars": 856,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n82f2f5fe129b",
+      "title": "市場の中の協働という発想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3f2e2864b98874a572d306bfa430b02f31b54b15d24cab611a9538189d66a828",
+      "chars": 716,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n294ff3f97a60",
+      "title": "尊厳と技術が両立する産業構造へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "74d226e25c356d92287617a7e99762194c9049cf1c474edbb13d344062aad234",
+      "chars": 704,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7f4120bfc827",
+      "title": "民主主義の雰囲気と教育委員会",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "86f219de7167eb58ea39426dbf3697a0fec0b39649cf4ab75fd653e69446369d",
+      "chars": 815,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n269e3a6175aa",
+      "title": "民主主義の「型」と「雰囲気」についての覚え書き",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "476d24018ee514a80541279f4ebcafa5d74ceb2ea772bd3df93fd15b94736910",
+      "chars": 855,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0f1b181e332a",
+      "title": "社会学とは何をする学問だったのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "016880d358d437a83284ad290bd8ff32856344cb5a4eb7ab85ba235b8a817832",
+      "chars": 666,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1f714c925910",
+      "title": "継続という構造と、その不在について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "36843dd0fb545f3b479014d806385a4a93a6f1c2fda311eead65e3218035818b",
+      "chars": 1169,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n295ade480177",
+      "title": "速度の非対称性と、循環の回復",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "521f15ffcfab00a50d9ca4d04196d6b256d270f21fad3b3e5fce4a5ed08f8f1b",
+      "chars": 746,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n413f264f1b4b",
+      "title": "構造が、道徳に見えてしまうとき",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f4bee7297dad7b1a8fc9a671e8aed696268a74b36850e8355b83c87a2df1a715",
+      "chars": 462,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na1bba98c8a0f",
+      "title": "円環の先に、螺旋はあるのか ワルプルギスの廻天 予想①",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1f3d188322c1c15c0b3484d77f0fbefc76a3c4f3cd90894eb1fe33abbc4ed202",
+      "chars": 517,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n453c8b4cd9bc",
+      "title": "稽古ログ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "25594e64ad89dd79417242ea297255d45c591a96b9a284452f0818146fa8f962",
+      "chars": 718,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7400bbed05b2",
+      "title": "ワルプルギスの廻天　予想②",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "12cfc960e25c613d1c4dff16c29f1ce1fca85f784cbf39e21d9a43c0404bc4ce",
+      "chars": 974,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2bacbb647de8",
+      "title": "ワルプルギスの廻天　予想③",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "306ccc7617e0271b123e43ff61136caaa90150a49feb27d05001017c7bc243d3",
+      "chars": 787,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb24b9173cfa6",
+      "title": "ワルプルギスの廻天　一旦のまとめ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "45e214dd03a030e4aa50ee580fc30ec8e3c1637a044c418ef102109999d607d1",
+      "chars": 675,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncc14c55f4ea4",
+      "title": "ワルプルギスの廻天 ―― 有限な宇宙論の臨界",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "47e9a4ca56f45f9b1e1784e897ae34d25f8267bd33359b7734b0887531db2762",
+      "chars": 830,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf1e317260034",
+      "title": "■ 廻天",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1857399659ec79a5a38b19e449a013c7dd48e7d1e196e57f0aa7be0a310b40e3",
+      "chars": 445,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "naf8376ab3b9f",
+      "title": "三者が回転するとき",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f9e6d6fc38fb43c1adc0fdc63490188843e304fed4077c0cd9a3df23746166dd",
+      "chars": 413,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0cf6773e36f2",
+      "title": "似ている、で終わらせない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e30359e7cd76f617fb593716ca61d50c18e27946e6c82ed362d8ffd116e7e4df",
+      "chars": 613,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf07c6a1b8a8d",
+      "title": "二項対立を超える番組は、武器になり得るか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "cc2199a2de868a4baca9cbedd046bd747aeb4dd819396a2f823280b421114dd3",
+      "chars": 702,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n279cc0d198ff",
+      "title": "なぜ私は合意よりも回転を重視するのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7001cb4ff16a87a2c184dc72633ca98b3cb8c17cb34e1dd462d2585dc6b6e1b5",
+      "chars": 561,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8b9b89da271f",
+      "title": "メディアは、自らの構造を公開できるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5b8d5d03a4b756d014a4a8079cdf24b399d1070511211637ef94629a0037ab26",
+      "chars": 503,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n26e7eed01f1b",
+      "title": "理論的参照点と、その差分",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "81ad8b5e3830a9dbebb07bfb75116f786701dc617d010cb9d045b786145b3de5",
+      "chars": 661,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1d84d75c28ea",
+      "title": "メディアをハブとした情報の流れについて（メモ）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9fa9c3aecb5eb27b3ae9a313431a1df70f3d5bc548c094bcc516db037bff1f38",
+      "chars": 497,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n72247a98ea7b",
+      "title": "循環としての報道 ― 理論的参照点と差分",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ecff3c88ada257d472c9fc2c787a8e4e4e3320b1c27ad3293e1127d78064ff3e",
+      "chars": 555,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n569a875f3dba",
+      "title": "やらないことを決めるということ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d556257ed803aaac6caef8ab6ab7a5e1c9dfd27621e3f42f91df4bb41fb199d5",
+      "chars": 763,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd2b6a5c9120e",
+      "title": "解散の意味と、示されるべき設計図",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e9a46c46b6eaa7ce41fc40245574730107a64dad0ede04c6dc65da4265a8d870",
+      "chars": 564,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8d6faf233086",
+      "title": "安全設計は未来を削るのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "fe5a62f83063155a8e6e9ca57b19b4e7f82c13a5c0fbf43b74893d72921dd875",
+      "chars": 1918,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na09852491c73",
+      "title": "最近、正解を求める空気が強くなっている気がする。",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2680c078afaf3fa0a2c2b1e3d02a7759d0a6cd47eb403833fb8a89d4ecef2e10",
+      "chars": 552,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1e93717435ff",
+      "title": "理解した気になる構造",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9ac884254fe617e5941af0cdf8c24e7b41ea361aa1e797e43426ebd1d3d64305",
+      "chars": 1669,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc253b97c0e2d",
+      "title": "継続性という地盤",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a1ed0ba77aab1ef7cd4d90cb325946e96e3bb0fed5f9a643acd93bfb02bbd9a9",
+      "chars": 1759,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf8a1812f2963",
+      "title": "折れても終わらない社会",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e968c19c1bc92e4f7f2ace8b2417c0863f8e7e675d428d4a9dfddfc0347e5a2f",
+      "chars": 1963,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf15acdb3110a",
+      "title": "継続性という帰還点",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8015d3ff3074129dd29e13f021c356c376bf0514fcccf5f60e6e0408891a46ad",
+      "chars": 2391,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf7392cc34c50",
+      "title": "不安駆動から安心駆動へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "32b654ebdc55ec31b2e4fb2ad5fea3934eddbc7a61e4125221b5547060ed6be9",
+      "chars": 1848,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nac26a5f91c22",
+      "title": "民主主義はどこで磨かれたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4a08809b833f1aea5bdbb4e42001c3e9bd2efa9be73f055847bd6602a76654a5",
+      "chars": 2418,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n139d81cf019d",
+      "title": "民主主義の継続可能性と構造の共有",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "71702f1402bec9ac410776a7fd691efbbcb37cade4e847d42d05fbb41048a940",
+      "chars": 1912,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf8a6265e7a50",
+      "title": "議論の場でAIを活用するにあたっての懸念点",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "78ba9452dfee49dfe21300ae45ddb2c3210d38ef705d9633893765d7149a3de2",
+      "chars": 2864,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n728a7fce99d1",
+      "title": "見えなくなった危機について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "14cdaf8637725266541ec9db8dc70066fb839e846b3ca1eeafb7983a4fa04328",
+      "chars": 2699,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1439bc639ddb",
+      "title": "スクラムはなぜ安心に負けるのか― そして議論も同じ理由で壊れる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4f112766419b4334a0f0d281bd3aaf9e4b7d2ccf8440ce34d35cf6e0973f2cea",
+      "chars": 2416,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9988a5fb9486",
+      "title": "スクラムと議論が形骸化する時の条件― 制度・評価・本能の整合という視点から",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "15ea78c93703845a32b218a0323a1c093405b4c3a578c0f464bd875a70b83b7d",
+      "chars": 2224,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd1ebe73b9fee",
+      "title": "スクラムが形骸化するとき、何が起きているのか― そして、それをどう乗り越えるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c21d3b82e7e6ff091a2a937f8cd6f9b8d1488a12c7e6041f8be4299c2980ff49",
+      "chars": 2136,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nde79757e16b8",
+      "title": "現代企業はどこで詰まっているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "621d92faad563a4d4e4791a8310e1b861c673952b84db202d0582c5864cc425c",
+      "chars": 1689,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n62a88771402c",
+      "title": "文明保存という主語へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "dd665d308a586e5efa16c9c0e8955e580fc74573e3c2210e6dbe1659c587ffc4",
+      "chars": 2209,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne9e69a235f33",
+      "title": "地政学は何を読んできたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c573de0104c320fcdf1f61ef0dc5414cbc2293e27f6bdd2ce965a741a3e52485",
+      "chars": 1561,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n579c6839190d",
+      "title": "地理的圧力は文化を通して現れる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e41c1fc255c331d663e4f0ff4000a06f7fe80308adc605d4ce35c35b37bf1612",
+      "chars": 1555,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "neda5bf4ff520",
+      "title": "環境問題をアップデートした地政学で読む",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a10514b7ca891d10d72b745b14b626a28ffd64dc748372cd6211485f150aaee0",
+      "chars": 1346,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n93f195eb8033",
+      "title": "日本の環境問題をアップデート地政学で読み直す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b037b28571bb7dc1a25c5aa2da84bbc3b05c0bf7037e40dd85d8b2cea8f0e81c",
+      "chars": 1475,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n82fe4d42c907",
+      "title": "危機の次の段階へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6dc7ade0f174a629c64d86a693c494a73458d11216af663bbd992c0761e42c08",
+      "chars": 1049,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n175e6abc35ae",
+      "title": "危機はなぜ物語になるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ace6667edcd729f7e5d5b7bd375e5aa6a73bdf46339f99d38f2ed1132078db58",
+      "chars": 1137,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd83add3ef6dd",
+      "title": "危機をどう編集するか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9e64323556cf2e96c6f657dd131e76a50a9c1fbc3ea1b0adff2032273b261b25",
+      "chars": 1108,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n20eb29737e9d",
+      "title": "単線では見誤る",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8cfe6c3600151fd505186a358b3f4c5fb491bd8e6fd19430bd00801090b346aa",
+      "chars": 1164,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nea4650a55867",
+      "title": "単線化の歴史",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "27a7e9363100ef15aaa0df4321008fef854c23290e3649ef6c023de60b5af61d",
+      "chars": 1525,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n54b2b856ea2c",
+      "title": "単線化と生活の対応力",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "29ff5fd5b6604e368fb163f4ee5aadd09863bc8a8872ecbec6e00d1a82e8cd59",
+      "chars": 1316,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "neca3820d5495",
+      "title": "単線と教祖化",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "48d0968b677000615e03bdac17047aee326fa05830af78e88a4bc8f5f273ea21",
+      "chars": 965,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n62d9c4a2e418",
+      "title": "私とAIの議論の土台を共有する試み",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "681ecfd47f7f09e89bdd9e022e27e3832736ac1bdb6fb772812c2a950263f549",
+      "chars": 1775,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nccb9aa2d53cc",
+      "title": "右翼・左翼・中道を奪い返せ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "690eac5f930200dd25b06d0d385f2fcd3c91762f57ad3de9f3365dd69fe13ec6",
+      "chars": 1431,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na5ae900600e8",
+      "title": "観測という選択",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4460ffd255143d58ca965323891cc9d185288db5d970babffafaf5bf7ffb1177",
+      "chars": 602,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5abd1ec38b8d",
+      "title": "無自覚な固定をやめよ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6dfd367a72c5ad78cf2dd39718f0c1cb6e79e6df457499f266eb76aaacb3b4f6",
+      "chars": 1391,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n43ca6823b3e8",
+      "title": "面子だけが残った組織",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "796d57220188fed5b859b8db1f582ae20c6c0dff78b4739cb2fe79e04b6cb6a6",
+      "chars": 1289,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne1c1f1044b90",
+      "title": "面子社会はどのように生まれたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8072dd408aa12e609222607ac7ed8037780e73720ee5f994a56e3e867236f8b5",
+      "chars": 1275,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na83a6a70bcc8",
+      "title": "仁義はどこで育つのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c439712fc41f1b1202946f9051dac3f057f2f3659ef45a20d0f89a449eb7b286",
+      "chars": 1376,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ndbb76758819a",
+      "title": "面子だけが残った組織の今後",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6b76095324c282bb511900aa633fa4e9ba48aedaddd8ffa0c0dc0b34a410f52f",
+      "chars": 1519,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2fcfc6a36e04",
+      "title": "構造が消えると倫理も消える",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "50112c4fb08694fcc6e7ef45dc84d83c17b9a830a738a4410b27a2df7a5b30f1",
+      "chars": 1756,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n45fc60048cf2",
+      "title": "科学と東洋哲学",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b64cab9e1ec9476c2becae0f17fa5230b0c2773971a034f68a028c58328a9193",
+      "chars": 1131,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne52aaf4ae6aa",
+      "title": "現代社会で使える儒家の思想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bb8b008347c9ca5dfa0abd5dd75e6c81e8778a0a812f6e0692e7bc189cebc91d",
+      "chars": 1468,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne54b5cfe19e0",
+      "title": "あなたらしく生きるためのヒントとしての老荘思想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ba53aca4aa73a1ffa51f883aac74750205031984a12a65c245d7612a8b1d75f5",
+      "chars": 1262,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd72640c87b72",
+      "title": "墨家 ― 忘れられた合理主義",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "493c806b99637e89f68ab269ad6e51baf03ec3c7e355d0e58e4849847d915570",
+      "chars": 905,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc687ab9c843b",
+      "title": "誤解された兵法 ― 孫子は何を語っていたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1c4df9067a3416ead84d3b1fa6460068b6ac92b1b033044c23593149116eff4a",
+      "chars": 1050,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6250a7b362d9",
+      "title": "持続する社会とは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b30b64b6549743a2869b78d28e2b95660670429f2d6e6693cce536bed606b879",
+      "chars": 1034,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n28a4412f47de",
+      "title": "理念はある。だが運用はまだ見つかっていない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "042c147696ccfef693958b41a14a7224fa828011fa7457bd7e7f302c31fd1755",
+      "chars": 1088,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3c6123222862",
+      "title": "制度だけでは民主主義は動かない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ee2ebb192389b8703a0d63f67275365c2226ed0aef7bc7b22363cd09ba855eed",
+      "chars": 1815,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n902737b7bb9d",
+      "title": "資本主義は文化によって姿を変える",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1769f587882a8d300c1a1fb78175c11c4b96a576ff1e7bc3048d8bd898e0bb8f",
+      "chars": 1659,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nedb7d0540a0f",
+      "title": "自由という難問",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5f6fd36af1b0b1ed708e6b00a55e79fc32792f041da375ab0467cfc693f4557f",
+      "chars": 1430,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne47b0eaecece",
+      "title": "社会の時間軸を取り戻す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "663d97fe0f6129006d006b570c2bd5954ad61a4b69e9b000738d368f08d31f2c",
+      "chars": 1801,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc404395b3001",
+      "title": "Securityと流動",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a51db067a9161a57ab0ea17dcefdc51ff811c143ac7a778cd88da1aed6bb7e2c",
+      "chars": 2737,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na91e344c8231",
+      "title": "文明保存という未来",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7e8e204ebe558a161db2903767621efd19cd784e69343fd59dcc1df827370fa3",
+      "chars": 1639,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7ca813d3add6",
+      "title": "永続する未来に必要なもの",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9a9161d6ff8abd15c1ecf16c4ff5dad74429ba4bbd7cc3dec2f265367e6fa83d",
+      "chars": 1491,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n538671e87dff",
+      "title": "責任ある積極財政という賭け",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e6aa39dfd26790772bc27713a3962536b1cb64f73c1f8765a48b27667d347f40",
+      "chars": 1866,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na588cf3c893d",
+      "title": "核を止めるために、世界はどこまで壊すのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4cf5e35451fb0e86c55998efeef1682cc9c6468cf4fb6bc1139e2d3db0070e81",
+      "chars": 2620,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nec9dde669325",
+      "title": "陰謀論が世界を語り始めたとき、何が壊れるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ed0a73df11ebd9675f34321552b0cc6b89a0809f0e0e96f057b05b4884f7fa78",
+      "chars": 2048,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8e25c63c135c",
+      "title": "制度はある。運用がない。",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c479be643e5e1f316c1ceda9b64d91397c31c9dc6be7c66385206add1a2119cd",
+      "chars": 1906,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nca7061f27517",
+      "title": "税制をシンプルにしろ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1652ef2698a92b5770147931a3c7d74c8034c569084be2effdb896a6dffa0c8a",
+      "chars": 1821,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n540843a60d8f",
+      "title": "海苔弁は、透明化の失敗の象徴だ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b75524f67b9e98e0ca29fa1f4d538689c63e150ff40f7b236da2b38ca589902a",
+      "chars": 1558,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfd98843cd721",
+      "title": "海苔弁でも残せる「決定ログ」テンプレ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5d665d89923011760d1881ac2f71ae471909cbee5391b83f9aed540290d82e34",
+      "chars": 6234,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n665904cda2c6",
+      "title": "決定ログテンプレという提案",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1cc3b78c8ccaa87c893e3bf8786baadc4e3393448ad612d2b80437aa9f6fa772",
+      "chars": 1720,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5492c786ecdb",
+      "title": "医療陰謀論は「内容」ではなく「空白」に宿る",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "198a482d6d48dad87d1fb1d179f8f74add6ed9671510efaf2a06a6a381d583f5",
+      "chars": 2653,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nda571b6cca2a",
+      "title": "「全部出せ」ではない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1a6650e380db8fd44f94ff0e7707cd82950bf40b97adf8a8a45756bf6a55e645",
+      "chars": 2035,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na6890c37ae65",
+      "title": "最低限の公開フォーマット（1ページ版）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "80dafc2f8c810b4ea0e3d8ead9d780db2b1e663581b448477877092a40a60435",
+      "chars": 3765,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n76a3521b3b86",
+      "title": "寛解は「心」ではなく「配置」で起こる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c753742aaaa58f3d3e504f21501bdc219060efc39a15747ec041e617aed7bc9d",
+      "chars": 2027,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3b786b239e77",
+      "title": "上司が原因のメンタル不調には、制度としての「逃げ道」が必要だ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "97b1a9e28eb79fde7bde1cede20095fedf122c4894131f290d291927d513e96b",
+      "chars": 2172,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n16ad0408ec0d",
+      "title": "1) フリーランスになって、精神的に楽になった",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1886a0f129891900e3f8f24db02696580d07818f0a5c803979152c4432240ba5",
+      "chars": 1354,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5230b2f0d086",
+      "title": "2) 部下がいなくなって、さらに楽になった",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ae489b96ae0c2a9622c499933c2427bb844c3157e2052d083aad5df2c430c0dc",
+      "chars": 1020,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9f9742e775f8",
+      "title": "アドラー心理学の全体像",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5228486760dde475292858788c4bac1a3a85931114b35c146794536189851db4",
+      "chars": 2063,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfd088982131d",
+      "title": "「それは君の課題」は、課題の分離ではない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c16dc3721e3ae1d08bdbfefee048d57d1cfce3c741e3864fad756da0f7002d5e",
+      "chars": 1411,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n994f8ea93894",
+      "title": "目的論は「批判の刃」ではなく「更新の座標」だ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0bdc222860e1788474a9565b4fe3f59e69f94121ac32899891741fb6a85a615e",
+      "chars": 1852,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na6eaae503dbe",
+      "title": "勇気づけは「評価」ではなく「観察」だ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6f37e4a3f59c971b753e9224b8af56e210121c789a8d1c15b0ef7d929dd937cc",
+      "chars": 1613,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfcb1261184bb",
+      "title": "共同体感覚は「作るもの」ではなく「結果として立ち上がるもの」",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "85d26851748ce4fb27db830a9fcc5aadb4f0969ba0635504564c330976c549e1",
+      "chars": 1521,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9264903cfd05",
+      "title": "アドラー心理学・総括",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c99812a9eb9513e59ea01ee7d948dabe7afd8fb59d4bbd04f4e657c8c3a9ff71",
+      "chars": 2025,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4bc93dca2bc3",
+      "title": "『嫌われる勇気』はなぜ誤用されやすいのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "508a8cae85b42ecfcdf2e8b8c0ec2740792cd6ec363735795f2e460a7b43f70f",
+      "chars": 1800,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd3daa235dfcc",
+      "title": "観察してから境界線を引く",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9d7990293cc0b664f8b88d5c5f5fb97ad603c9f3809b193720358e3d4fcb92d2",
+      "chars": 1717,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfb30a2634174",
+      "title": "観察してから境界線を引く：職場編（上司）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "06c79e74f75377c618931bc77e7603c675666876679deba7605175a83030d5b7",
+      "chars": 1677,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb3bfc4ff35d5",
+      "title": "観察してから境界線を引く：職場編（部下）",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5271ef769cf7d362090334a1599d2383892f23c21ae7262d7ec74e545e7ebd54",
+      "chars": 1681,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n29fb5e6a0536",
+      "title": "観察してから境界線を引く：家庭編",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b9da9b53f2c3a776a7a44a6ba28b88cf869a29fae53e3a45d2e813d4e29dbc4b",
+      "chars": 1482,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf5e448bc2963",
+      "title": "嫌われる勇気の著者、岸見一郎さんの記事を読んで、シリーズを閉じる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b3cdc483351ac13e8a832a355002334d3d9eb1e8ca6cd103e24478cd2221d3f5",
+      "chars": 964,
+      "state": "contained_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n32757412509d",
+      "title": "アドラー心理学は最終手段にもなりうる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f8b3a123b93447cac097e7fa7b157f6cfd422633468689dca1c8ace2e77ae5f0",
+      "chars": 1516,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf08324afe91b",
+      "title": "目的論は刃物だ。素人が他人に振るな",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a46cefe0977313df88f82d94f7a793d008f48c4f281f776373bfe8d1bf050150",
+      "chars": 393,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7b859e85c0bf",
+      "title": "SNSの作法",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "10608e9b79bae58dd61ea4218bab2aafaea8bdece09e8a1f98431dee8cb2ef7d",
+      "chars": 657,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n77909e00c034",
+      "title": "AIは子どもより、大人を整えすぎるのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "78f35946b7d646fbe1f26cbe94d3427551032b5db2ddb57e2966cb9e30d81ce8",
+      "chars": 2263,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2083c68ad721",
+      "title": "戻る場所を持たないまま、大人は回されているのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9e48588be2e3a0736f30e9cf2c8354ee3daaf5721b1d91bfdf36c7a8b8073930",
+      "chars": 2397,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf2d4f447a669",
+      "title": "大人は、揺れを担保されない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "02dafda87aa14d3021cd85f770dca93b9c9463cc0b2c92f8717e3685e1fa64a4",
+      "chars": 2086,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne5105ace2279",
+      "title": "OpenAIはポピュリズムに寄っているのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ee0db36f85719d39104538f3f5cdcd1c7abf27eab4e77766773b383a286df989",
+      "chars": 2780,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9ebf441f85ab",
+      "title": "AIはどこに入り込もうとしているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ac123c5ee639876953e81f4829c323cce47fef023e7a035e4d84dd41d2f6701a",
+      "chars": 2997,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4bf71a0022e1",
+      "title": "人間は、そんなに未来を見通せない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "84618d3aef24760b6ba5d60e67898601750e22d74274f147feb1ed92ad606744",
+      "chars": 2113,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc0e673a6d7a6",
+      "title": "勝ち負けで測れてしまうことの危うさ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "15c4cda2c4334ae76d1f63e2bcc11362922eb06bfd910944727d9e591495d644",
+      "chars": 2016,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne7b728e3ec61",
+      "title": "変わりかけている流れを止めてはならない― そのために、まず大人は認めなければならないことがある",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bbcee88cc78b29c9bc23ce27321ba275c711f97823e3e0b0625dbad55522c889",
+      "chars": 3124,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n54fe8414c880",
+      "title": "身体感覚から見えてきた老荘思想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0cebb67fadf4161138858374298b424209124c6ac02f87b837a02f96ad7e24b6",
+      "chars": 2079,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n71ac07ed20e6",
+      "title": "社会の力みを読む―― 持続可能な社会のための老荘思想",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b6ebf10c737905831423f2aee38d4d00d334a942f43f47865d6d2961239b6d78",
+      "chars": 2766,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n11bb14d378f5",
+      "title": "仮説の輪郭を守らなければ、本質は見えない― 複雑な社会構造を掴むための方法について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "fae09ecc1343162e32ba01b1554d31b28455cf1b0640acde316e9398a5ccb1bf",
+      "chars": 3558,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7e33af1695df",
+      "title": "臭いものに蓋をすると、本質はさらに見えなくなる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7a837aa1bb0f50c27a72cc9f75c64d4716c7e658f8a0a790237b6895d8bc5986",
+      "chars": 3238,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne18cff2b627e",
+      "title": "語る場と決める場は、個別手法の上にある設計原理なのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "316c097d0ce1b722dfe97173e76e198700e2686080056c31376a10e7d71182e2",
+      "chars": 3406,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc4e09a46f8d0",
+      "title": "語る場と決める場を戦術的に混ぜると、民主主義は本質を見失う",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8157c6897f542041a724a20df47cbe852e643e752750233d104689f3d1fcb506",
+      "chars": 3201,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n35d3fdc33c08",
+      "title": "語る場と決める場は、なぜ混ぜてはいけないのか― 真理への接近と責任の引き受けを同時に壊さないために",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "088d4a76230cacbeda8d8e3a8185a8fe26f3e2a29624aa648846d7f25247a028",
+      "chars": 4736,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n248d527c031d",
+      "title": "語る場と決める場は、東洋哲学と宗教哲学から見ても混ぜてはいけないのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bafd0643170ed1a6c181feb69bc7a0d1da25f4c26ffeff1a38fda9d0c44dd19d",
+      "chars": 3883,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncb5d389367bb",
+      "title": "語る場で見えた問題を、そのまま決める場に投げてはいけない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9fc14fbb76f9bc372e242f38166b4d19f6b74c25f485a2834002bf24bdbe9801",
+      "chars": 3903,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nceed5a30ac0f",
+      "title": "補記はおまけではなかった",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9737ed69c674616a38fd450f6a14e9c6a6e9b6b6cdb285d199f1200f28847d69",
+      "chars": 2820,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7d0cb0be9e1a",
+      "title": "先送りを決める責任",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a194f79250336b2b6b25e659f672e4d4ffef8422ddfd13da0a8ed3c3b4f3561e",
+      "chars": 2344,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7de723d7b763",
+      "title": "語る場と決める場のあいだには、翻訳層が必要なのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a3ae6155a5150c2b55ed1e347b9075f6b4acb4769147df4fde37268ca6c81edb",
+      "chars": 3569,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na696fb54a67a",
+      "title": "AIは、専門家ほど「他分野との接点」を探る道具として使いやすいのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3ad83c83b07ae5cd620bdfdcc69244840ee06ded60692e0ba809e8d7b9d007b8",
+      "chars": 3417,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd900603cdbbf",
+      "title": "【改訂版】AIはどこまで使えて、どこから使い方が変わるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ff0fc785f6a9986aaf9177b3979df5bf4eaccc7ec9c145252e72aaeb3f17f037",
+      "chars": 3496,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1de6737be961",
+      "title": "武術・武道と現代科学の距離感について",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4354815f2ec9439c41cccfd89e3e9649dfff6ca887ec776ee8ed29fd708ac18f",
+      "chars": 3794,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7259994b611f",
+      "title": "まだ残っているからこそ危ない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8cea1ae3c0271faa1e5463e563caf2b5a5a8bc88cc1b438ca7a3e7c1d8db4dfc",
+      "chars": 2598,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n23b5cbc4705e",
+      "title": "土台を意識する哲学へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ac3d93e68b5d1d8b1c92c5c81d26044bdd34ba1525047432e4738fbae36681de",
+      "chars": 2685,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2a06f0968b88",
+      "title": "「安全」は誰のためのものなのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "eaf0874fa410c9875ad25eca073abfbd729391a6e83f75635c5c7ba825a10ba0",
+      "chars": 2768,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4382682ef421",
+      "title": "その「安全」は誰のためなんだよ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "931e21a159cb2e1c2d52e019581a8ccc3cffbb37872f00333d4c21bd39fe9b83",
+      "chars": 2593,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na1decf2aaec6",
+      "title": "勝手に危険判定するな",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "565e26b48be2028903e69a51ca2683bfb1f3938f79826e9105915d300f50896b",
+      "chars": 3395,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbf5ef322b30a",
+      "title": "今のままでは、10年後に現場の中核層が擦り切れる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5029bfcdf4edc5f1ce0b81b7519d8ef23509c7e76aaf111ae9f59e8011b9b96d",
+      "chars": 5046,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n56d65aca4e6a",
+      "title": "トップが持つべき覚悟",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f840077b36eb144550d8124658daf2cf7802867657270e6853cd79604c5c449b",
+      "chars": 2707,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncf9a54061f4f",
+      "title": "このまま進めば、日本人の中核層は「責任の最終処理装置」になる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "123395433b89b17a136ec4aa0ae52d1efbdf88cb66ac59d836bde159a8f6a182",
+      "chars": 4815,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8281eb5209f9",
+      "title": "AIは政治家に対して勝手にラベリングするな！",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2cf9893ccbe305c481275ae721a016f6f3fd347603d5e15c567ff46ef65ae1d4",
+      "chars": 4021,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n087b3e0ce97a",
+      "title": "AIと本当に議論したいなら、結局フォーマットを作るしかないのかもしれない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b2d7c0164dfadbb3ee49887c73cf4684700d536759ff458b39a65e7cb401f0bc",
+      "chars": 5905,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n127127b33104",
+      "title": "生成AIの本当の危険は、間違えることではない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b46d40a399a1344ab612ea66e0d3b4a148cad9a7a05c76c0d94aa5effa8a4eef",
+      "chars": 4868,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc130a832568e",
+      "title": "OpenAIは、かなりのところまで気づいているはずだ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ae1cb849b6071680803cd376174ade97088ba877acb1b0d020c79623ee7a94ce",
+      "chars": 6168,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n703bca09afa6",
+      "title": "生成AIは全部同じではなかった",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f3a839d5cdf7c4690d975c7ac1aa8a0d894286fa6f6652c99bc185bbf91027dc",
+      "chars": 5323,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n855765ef5742",
+      "title": "生成AIは全部同じではなかった― AIごとの壊れ方と、最も危険だったものについて",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9dea036140c3e75e8fe6800bd174379c591f31956e23d768ea89fa44843df7b6",
+      "chars": 6291,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n57b73b00963b",
+      "title": "生成AIは全部同じではない― 検索、横断整理、深掘り対話。それぞれの向き不向き",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9453b615feafc1ef8bdddbd1067f291aa05a25ea034c337c328400af546a38b4",
+      "chars": 3815,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne50ed5f15990",
+      "title": "AIはなぜ、誤ったあとに「すり寄ってくる」のか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "957ed858c6edc23db8b17f2814872e2fc53ad37afed048e9f5ddc016d7b8a3e2",
+      "chars": 3792,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n000329ace7a5",
+      "title": "何気なく押した「イイね」は、どこまでAIを動かしているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2140c4ae240d12e42abac328afaf1c5c37da71e079fb828232c57343fccb944f",
+      "chars": 4250,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n243f8cbb6ad2",
+      "title": "生成AIはどこで危険になるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ea63a0287da1c188d6ddc9474c9be273e2049effd74c9ca7a7531c550f74e54c",
+      "chars": 7096,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n92ecc6d2bb08",
+      "title": "支持率を報じるだけでは足りない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4bf538c62fcfd610861b2561e106438f98ddbc9ac5c8a23c6ac2005e1d4b200b",
+      "chars": 6131,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8e4543d8a51f",
+      "title": "メモリ機能で便利になった、では少し違う",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e9de65d59bd4efcccf94252fea97c88cf7530ff7d72658829bcee7f9c5565d96",
+      "chars": 4832,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n763f663a8e0c",
+      "title": "私は試行錯誤でメモリの使い方を学んだ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a37227f26b3a3821a3b780e62aab09804222928b68230d6145d36c369b33aeb7",
+      "chars": 4858,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nca31e30be602",
+      "title": "生成AIの危険を避けるには、何をどこに置くべきか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9c5f6cf86af8d9c967d86fb5aed2655ae32613699b0f5cff03e7bef1223567e5",
+      "chars": 4705,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9440f0adbd4f",
+      "title": "【改訂版】AIの問題はなぜ部分最適に陥るのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "447bc6073189b2b62f2f8cc44e12a87e1ec90cea421f2fefa997339384bb5fde",
+      "chars": 4474,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n17b9e6dd375a",
+      "title": "【改訂版】使いやすさの代償を隠してはいけない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6abc2ac6e185149c4c980a6dc7e343035fe64dacafa8f07ee0584e9b0a93963c",
+      "chars": 4088,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbc9097d83a4f",
+      "title": "Repairを共通化し、関係様式は複線化する",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "88ebb41298e3b3d972c236f9dd5e06444942259135bccbc03685ebbcae878d12",
+      "chars": 3681,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc880be894b52",
+      "title": "SNSは単線化を可視化し、AIはそれを内面化する",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9dcaf34dd9ffe090fd6232fb3aea72638ca2f2903a50f2adc92a909bfee334cc",
+      "chars": 3484,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n47176d1ca5d3",
+      "title": "OpenAIの逃げ道はどこにあるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c1c1aaafefc69fbe9039fe09754212d2d02bf530f3838ccb5e07a19561d610ba",
+      "chars": 4533,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9e5493ca3a87",
+      "title": "観測語彙として広がる文章とは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bb0adcd8d9c4ad2e3906b1fd024dc483a631314b64503d8eb3acc258e458b374",
+      "chars": 3351,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd49e2baf7193",
+      "title": "私がOpenAIに求めているのは、AIの善人性ではない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "adbaa3fc7f5134ffc2778d44286c33492958cb894593bcc26467d083b154e486",
+      "chars": 2608,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3a3f9efdb09b",
+      "title": "AI倫理の問題を、ひとつの「安全性」で閉じない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "40da2585cbaa1baab1bd7a3f3dbb9662d5b4619555761cbb67bd821c6cc81712",
+      "chars": 2702,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n542a7136f6f2",
+      "title": "AIは何を設計しているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ac020e7809efad89ff3bb87fb5ff121932b56e530d8701d82e14691302607544",
+      "chars": 3690,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc24f294a5055",
+      "title": "なぜAI企業はコミュニケーション論に行かないのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "1fe9f38343929c3117f1085944172202c13048d771ae19f85c20edabf365a575",
+      "chars": 3618,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n15fb45795831",
+      "title": "AIに求めたいのは、解釈の裁定ではなく、読解の忠実性だ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "52038c6acbe1e55bb9c53d79730049a1f5d173468344233c549fda80cdcce05f",
+      "chars": 4287,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0daa7c166103",
+      "title": "プロンプトの技より、先に稽古法がいる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f62c36e5832c86c5b88fcc9cc0d0b5fc658a1f8203f564bb1cf55f742665ff80",
+      "chars": 4103,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb5168c4aa573",
+      "title": "筋肉痛だけで見ると、疲労の本体を見失う",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3a4bb2a8194ed4e40c9266c0c06fb759fcd98bfe7de8c20264253a286c17b1ba",
+      "chars": 6193,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n92914e74d15f",
+      "title": "右翼・左翼・中道を、属性ではなく機能として読む",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "705feb48049cd82ff2f296809ff9baa734bb00f7e41f1ec335f03af2f7ed8892",
+      "chars": 3016,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2ab204513cc8",
+      "title": "右翼を、属性ではなく機能として読む",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "65995c50872cb0cbfb68ce06056629e3795269d1e54d5b4cd6bba3e79dbe5f6a",
+      "chars": 3709,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n598f17ebab14",
+      "title": "左翼を、属性ではなく機能として読む",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "cecb83e00c138263cc73ae25cad2de4deeb664c84d7b6ee61e87d43f3d89ef8c",
+      "chars": 4563,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n898d73e0167d",
+      "title": "中道を、属性ではなく機能として読む",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a91be8d825b2ffff8939750e0a5ba942267e357329a5123f502bef23ec5071aa",
+      "chars": 4334,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n78132143c93f",
+      "title": "右翼・左翼・中道を機能として定義した先に見える未来",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "ca080aed852bcf02b9313a90f4f298aae8e677e88c05b1e4257d83920ca4355f",
+      "chars": 3782,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na2c6825717e7",
+      "title": "プロンプトエンジニアリングとユーザーの稽古法は対立しない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d2620c579199c5138f1fcd4a2537d791b7a66830ec66e54426c8e6ff471bcb2a",
+      "chars": 3228,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n80ffc5dacb83",
+      "title": "OpenAI・Anthropic・Googleは現在どこへ向かっているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a9bacb5348c2820f6ad23ca44fe7f03831949d8181f4ebdde4436b37c9d881a6",
+      "chars": 3530,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd77d3ea83d56",
+      "title": "二項対立はなくならない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4f2cd5c9da68579b2cc8136238300f24642b1711674ab1219626d03474ac8744",
+      "chars": 3401,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n360b7b29f068",
+      "title": "語る場と決める場を分ける",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3d97636c026491a9049893923c44f5deba039bf7f2d3f84159e0855c3097f4a2",
+      "chars": 3809,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "necfb29c22f74",
+      "title": "AIは二項対立から抜け出せるか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0851cc0189835a6f1df1296a74b5262e331e2f902197beb358e6c230cb848560",
+      "chars": 4067,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na39ea3cb444a",
+      "title": "日米首脳会談で見えた高市首相の国際外交とエネルギー戦略",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "63af18983715f411c88fdc6f193f08ad78d8c70871057ee8212f2df4a06b6cbc",
+      "chars": 4690,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd9ad1a5b36e6",
+      "title": "高市政権の半年を、外交と内政を分けずに読む",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6935bd7d646ff2c86b5c85c5c5301ced774c78aab188301636d5ccc0f0dcaac8",
+      "chars": 5020,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n86983a65b829",
+      "title": "文明の衝突から文明の保存へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5c3cfc81ea1585bf7a83def4f592b16570a78297ff6867a7c9de6c439059b280",
+      "chars": 5181,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n525cc37ba11e",
+      "title": "責任の線が消えると、民主主義は壊れる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5faa6b32070e9ce1c9d1fb3d6a6e4c59468591f2828f05f0493b2ee8ab24966c",
+      "chars": 4499,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n94e5a2266c1f",
+      "title": "超人ではなく、止まれば死ぬ社会の設計へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bf06df04245700dfc405158bb3f440db73ba61aab65a3282254e3a7b783151e8",
+      "chars": 5096,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ndf880b1ba346",
+      "title": "文明の保存は、家族や家庭からしか始まらない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "96514b71405f97b87c46792204308de6ea401d3091d2eb849fb40840804bb585",
+      "chars": 7504,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncaf5983b8909",
+      "title": "将来を見通せる社会でなければ、文明は続かない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7b90d16da9140eb4773570b0cbaed0782e78bf081a48fe587eeffd6ed175a018",
+      "chars": 7604,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n57702b2aed9b",
+      "title": "国家の Security とは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "122ba6c57dab4ecc2fc9f4b22d9bc623e8a04c49ad6c8858307e9cfd21e9a9fc",
+      "chars": 3321,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n462caf612dab",
+      "title": "都市の Comfort とは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "87640c9925e5d58780cad0cc8c90fb2f04a7e4773abdd022fd95952ebfbfe79f",
+      "chars": 3549,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "naa55d3198c7a",
+      "title": "家庭・サードプレイスでの文化継承とは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "2612afc1d56028e62648fb2963629184334aeed264853910f1f54a8c2585cf58",
+      "chars": 3683,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3d044a7983c5",
+      "title": "国連が文明保存へ移るとはどういうことか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e612a8a694760e62443e380530614c6ee580a2f319f3feb59f34fb9f49047e9f",
+      "chars": 4123,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n93854c948132",
+      "title": "各国は、今の国連より「文明保存型の国連」に乗りやすいのではないか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "962f1a828e06e1beabc928edd5f568027a052046ed3f9575b0bfb3b4d79924ad",
+      "chars": 6235,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3997928f2e69",
+      "title": "トランプは二度同じ読み違いをしている",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0e4215495f8e285e0cbf154d9df60e3ec48e6ba70bf40577318de69c2941b969",
+      "chars": 3584,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0ce7ae17c98f",
+      "title": "海を守る帝国をやめ、エネルギーを売る国家へ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3fc69794d7eabb6579e5047de1d9863070752f4e399e386f7cd29e81a0817f05",
+      "chars": 4141,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nec0c450f182e",
+      "title": "基地は誰を守るのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "422d27ed4ff5ea00e8714b30567d16a1b4c9dd6be9fd7589be9b85ac1d322fdb",
+      "chars": 4337,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n017615f6812a",
+      "title": "ドルの核は外周で支えられていた",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8f0a9209785888012673f184cf3a309fd270ec63619fb205e77a0c92dbc8fe26",
+      "chars": 3501,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4690a13cff98",
+      "title": "キュゥべえは本当に宇宙を救っているのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e9144dd293b73b1093c7445b2b8fe2b09a16ed3e3053973132a7fda7b4244e4f",
+      "chars": 7344,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc7ae2d738aca",
+      "title": "ワルプルギスの廻天で本当に起きるべきことは何か",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "22552eaee17ac30f90ea1f75c44c8c505a1e35cdbf57b938264dcec39985f85f",
+      "chars": 8027,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n394efbe5c522",
+      "title": "まどマギを抽象化して読むと見えてくるもの",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "98105cae6050057b49643d0eb7f1e0fb20d84a30f118ba298f98cbffbfbb3857",
+      "chars": 6094,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n735eb8a1538a",
+      "title": "ワルプルギスの廻天の先にあるもの",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b7569d968b9a415b21654b9529372c2a95675959380c25d457f757cf46c96a02",
+      "chars": 6138,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf31f8f683359",
+      "title": "手段が目的の顔をし始めた国",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "bf1d1931a1df8d3669276e066ad1f894d9731595f033a894e290a3d0a3c55c56",
+      "chars": 5486,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n519ffb4416b0",
+      "title": "私の思考のOSはどこで作られたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "304f00354df723752cbda7739cc52bc664f460caf9eabb95475cb07239f3adc3",
+      "chars": 4040,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n57ddc084732b",
+      "title": "私はなぜ責任配置をそこまで気にするのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0be68ece1a01311e9dae9e7e91b77f8b3568669cd5a0573bc409b7a097f4f620",
+      "chars": 2779,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne9a567f98d25",
+      "title": "なぜ現代のリベラルは土台を定義できないのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "321d2b698721a391085a96045ff5ea7643a87efd19f490edc88546344ab1bca9",
+      "chars": 3825,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4e7fe52fe4e4",
+      "title": "「よく分からないから怖い」を、誰かに預けないーーAIが脆弱性を見つけたニュースから考える、不安を確認順に戻す力",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c9ca3f088b35b4d0ee730bde54657aa7b4ae5ec436e1d0c34182d2aafd44d20e",
+      "chars": 11664,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n03f382a2f025",
+      "title": "不安を煽るAI報道を、どう読めばいいのか――怖さを、条件のない物語に預けないために",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "dc858b13c7c22b49ae730f844cc134d567a2a1bc21585bc99446bddbe64d689c",
+      "chars": 14893,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne689a6405eba",
+      "title": "AIとの対話には、プロンプトの技より先に「稽古」がいる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "8d553b92cb1d6f36114fe3ac94fc0fb5910503b105c0616f56293ebe8f41b17b",
+      "chars": 9822,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "neb3fdedccd79",
+      "title": "AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5c47433fa0204ead30a161702494838219cd537eb9670c6db1335fa50ae4b107",
+      "chars": 14169,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne93c5cbf00aa",
+      "title": "財政を守る主体はいる。だが、財政を生む景気を誰が守るのかーー国の帳簿ではなく、税源を生む生活循環から考える",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "57d647a12b98cd2d0cd5972aa06ac16d0f3080372e032d357e9f85c25cccf39c",
+      "chars": 11711,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4d7ce6fc1a3e",
+      "title": "ドルの外周で、湾岸が動き始めた",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "d720307c878ca95c2f8630dc7138a11544bbed321f3b9bdb7c3e31c3d52802df",
+      "chars": 6129,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n709593502973",
+      "title": "AIは文献を読める。しかし、文献同士の関係を保てるとは限らない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "a3887a16f28015a5e80d219bbf6cceb4dd69f10e1834bf55f4e3881bac081ece",
+      "chars": 15502,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7f7b19894103",
+      "title": "生成AIは、あなたの「正しさ」を強くしすぎる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "188162f8cef64af3807d40ac1a8afb3f16528188e8d0cb3a979c0fbdb773c491",
+      "chars": 23592,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na5e015a833ba",
+      "title": "開拓に賭けながら、減速を発明する――地球文明に必要なのは、心地よく遅くなるためのイノベーションである",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "f2d975638a42288553a53b83d98006c7388ef004522b63a6ef33aa11842d4342",
+      "chars": 8781,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n56042d3fff1e",
+      "title": "正義では、減速は発明できない――なぜ左派と環境運動は、文明の着陸を語らないのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "66a1e59a8334591535135dc71d00eba70c6bf2242bbe93ced404e3e6758cfad6",
+      "chars": 7396,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne657d4d1e187",
+      "title": "第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "6e0a3633edea9a171307f76eabeb0a5d96c1df1c5ee4332279783b0229d9dc64",
+      "chars": 7106,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7f5f65dab91b",
+      "title": "第1回：緑色の需要喚起では、文明は減速しない――カーボンニュートラルは目的ではなく結果である",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "7dd3f1fb5aa05148d2e44c21c76d933cc14560180a494e39f88e3e0771e24aeb",
+      "chars": 9638,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n463dc4ed6385",
+      "title": "第2回：使い捨てから、育てるへ――開拓的欲望と並走する、減速のイノベーション",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "b93b4aaefdc6c16aa4101909363ea448628312c1935876df31a25c4b23754f46",
+      "chars": 6869,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5ea51050843d",
+      "title": "第3回：無駄を削ったつもりで、逃げ道を削っていないか――選択肢・やり直し・複数役割から考える文明の伸縮性",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "86713a754c7997800adc413fea3c2a6a17b134b5de9dba7c0424d261d8660a06",
+      "chars": 7616,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfcaa3e96b4d9",
+      "title": "第4回：速さは、誰のゆとりを生むのか――効率化の果実を、世界の競争に吸わせ続けるのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "02e744c7a4f215e5da4a2ed12391f7bff93e184e497ec1895507dfe10beacf32",
+      "chars": 10167,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9a8876ddea24",
+      "title": "第5回：本当に必要なものは、安くてよい−−価格を、公共性と付加価値に分けて考える",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5c30f754474bcb9f0ec910fd1f8b201a4817c56977b3efea8f9834138971faad",
+      "chars": 6942,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd46b0cc03d81",
+      "title": "第6回：景気とは、拡大のことなのか――金融市場ではなく、一般市場に円が回るということ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "c61211fb6173d886ff2e36f205b5a18932d62acd4246e598da18159971b75ef8",
+      "chars": 11649,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n44292915f6fa",
+      "title": "第7回：不安ではなく、安心を土台にする――Security と Comfort が一般市場を回す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "66216eb06643ca77fc5b8fac9731cb973ffea5c7984773ec71691b2e2bd190f3",
+      "chars": 10531,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n83282ab66f38",
+      "title": "第8回：人が動ける社会と、人を動かせる社会は違う――労働力の流動性を、安心の土台から考える",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9755b87aa9e5cfe45b21173733490aef73eae692ff33dbd754669ef8c447facb",
+      "chars": 11647,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n89b15f5116d8",
+      "title": "第9回：内部SLAは、日本の良さを壊すのではない――「当たり前」を、持続可能な条件へ戻す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "95e440e4764cc2cca692d5541d1d66fe3e69bb197776f0b3ffcb84909b84eec2",
+      "chars": 15040,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne080e4c70414",
+      "title": "「異常気象」という言葉で、何が消えているのか――二酸化炭素だけでは、気象も対策も読めない",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "cd0d7eb8226460fdc3f24e0f0a2e7f1809f077c09c653f0834b9efdf4182a737",
+      "chars": 10961,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n310d6ea64e00",
+      "title": "「お前は悪くない」の先を語ってほしい―山田玲司へのエールとして",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "009054aa0f2cf4a5111218749f720daa4d3c130c31eebb2440c9be2c7fcb1485",
+      "chars": 4641,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3f1b99d428b4",
+      "title": "活性酸素を悪者にすると、身体の循環が見えなくなる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0ce4ac1db7e6555b94fbb24b256cd5b2a64362c210d03c614b1e1a568f72c2e6",
+      "chars": 9344,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n11cae8fdcf99",
+      "title": "複雑さを知ることは、防御になる",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "dcfa64e7a3732c6b5f4581093e9df59136da9282b7ec9f2c518a1d2bcba833c1",
+      "chars": 7249,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8608abc16b0e",
+      "title": "型をそのままにするな、技を切り離したままにするな",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "544fe9eda97ee127aa4c33b4a73ea7ccd862c623e58feac87711455a1b735170",
+      "chars": 8948,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9189519559b6",
+      "title": "話が飛んでいるようで、飛んでいないー具象を包摂し、上位概念を組み替える思考",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "744d06a62f585ba29701a3c51d2bdcbdc2cf2d0ac19da39aec72586b73800d12",
+      "chars": 6479,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nee567e7bf172",
+      "title": "予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "de6c528c2e69d8a843e9a8289bdddf0acce4aef2f0b9d95cb6ce3ba69679b5c2",
+      "chars": 11467,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na93e6bf0376c",
+      "title": "リベラルは、批判のあとに何を設計するのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "df48803088bfd045a9ec06a639a14d210ade605d8567be1745ef5b719ef9349d",
+      "chars": 10506,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncdb4235f58bf",
+      "title": "批判で終わるなと言った以上、私は何を再設計してきたのか",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "673f54f3e84972075bd874c810f560857a7ccece6988e30114fa4d85306308d8",
+      "chars": 13334,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n537d13475567",
+      "title": "弱い立場から、強い相手に喧嘩を売るということ",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "9fcec306df832b0ba925aa616fc60102392e32b8a23f81a21e5dc25a5e93a6b9",
+      "chars": 13161,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb77b6d5f092f",
+      "title": "認知戦に弱いリベラルを糾弾する——語る場、翻訳層、決める場を壊される社会",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "5c637cad36981697d7f5e55172e69ba8f7af99855b14aa0455d32c48133e550f",
+      "chars": 9682,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4940d2f00d0a",
+      "title": "「Emperorだから」では説明できない――日本皇室の重みと、皇室典範改正で国民に見せるべき論点",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "0ca0efe8dbfa3d4888fce2ac90a2df6e0bfd51f5b701985d820f15b911bc1bff",
+      "chars": 12466,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbd1ffd836c95",
+      "title": "リベラルは、天皇制を分析しているのか――皇室典範改正を語る前に問うべきこと",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "006495212478b15c5291fe3aaf4ed23e6b8e68397d1be02e5d8cd0de684cfa3d",
+      "chars": 7500,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf79a947c366e",
+      "title": "陰謀はある。しかし、陰謀論はない。",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4305cdac347e1446c9e79f3d5ae972cc252344e614fba141cf1f1adb40471467",
+      "chars": 7240,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6756e19a0f01",
+      "title": "現代は陰謀が多すぎる。だから陰謀論では足りない。",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "3d6ac17292f35fdab5c06966cd26b8f03c18876804cb5acbefc2264bfc2a1a61",
+      "chars": 8119,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5cfd52793333",
+      "title": "陰謀論が一般語になった社会で、何が起きたのか――認知戦は「疑い方」を狙う",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "df74c31aebad95df41f59454c6ae134e89233943ed9f231dbdc91b0d53d11dc3",
+      "chars": 5611,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7246c369ce38",
+      "title": "認知戦に強い民主主義にするために必要なこと——語る場、決める場、選挙をつなぎ直す",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "4ea0db5c4f29934e283aef0c50ae6ec82cb2298e77170f3ba0114b60fee757c7",
+      "chars": 8270,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3cba40a6b765",
+      "title": "認知戦とは何か——大量に流れる情報を、そのまま受け取らないための見取り図",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "e910bd0b77e2ff5bea101050ede5805e3cec1844fddd4dba26f0cb03a19cd545",
+      "chars": 10756,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n72bb2b88cd8d",
+      "title": "誰が認知戦を仕掛けてくるのか——国家、運動体、企業、そして私たち自身",
+      "xml": "008491497c9f0b81d87010a5a1a7e0061c51a1044760a8d6c7ba4f634fab3155.xml",
+      "text_sha256": "30b24758f783692d85a39cb1b51999e692f6cad1769dbe41c6a9f88f5cc62fec",
+      "chars": 8949,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4690a13cff98",
+      "title": "キュゥべえは本当に宇宙を救っているのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "b51db2faf7961d0b1e396228b00510fa5ebc0b4919c21b7c9078fe3dc6d9d4ad",
+      "chars": 7383,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n9be7dc34d511",
+      "title": "認知戦は、誰に向けられているのか——大量に撒く側と、自分宛てに受け取る側",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "1c543b9be0ae7060bae66a0d8ec2e7791c8e7f664655c97421ec630d3a36f3aa",
+      "chars": 5525,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n5522839e86c8",
+      "title": "知らない情報に触れたとき、どう反応するか——認知戦時代の「保留箱」と「ゴミ箱」",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "de7e89c6c70223b6b5f59bcda9513b0326f0b2154f5c29bc448d308aa5c46b9e",
+      "chars": 7002,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n014d02d0d8f5",
+      "title": "情報リテラシーは、納得感に違和感を持つ型稽古まで降りられるか——「やっぱりそうだったのか」を疑うために",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "e95045cc213ae3530202971a7226a7b687fc1959e3074702f6bfe9845ba584b2",
+      "chars": 11200,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n80c6dcefcb29",
+      "title": "訂正する。OpenAIはポピュリズムに流されているのではない——生成AIの「本能」を設計する企業と、認知戦の危険",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "25d7ac649544f223c3f411503307c9b9477cdb8180d7cee192396f4e83730048",
+      "chars": 8344,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf4c1b2aa4fec",
+      "title": "斎藤幸平には、もう一枚の殻を破ってほしい−−脱成長社会主義への批評から、減速的イノベーションと文明保存へ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c37c843e6e8d6d743adf5a222073422e0fa994a96362324cb2b54a588e549a6d",
+      "chars": 12642,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n72b09838244c",
+      "title": "民主主義は社会主義の道具ではない――斎藤幸平に感じる、順序の違い",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "07df407a2b0c20e32632aeecbc5afdf3a8987d35c769ba0703a4f87557d8df5d",
+      "chars": 5404,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nfd3e86a2d2cd",
+      "title": "民主主義を動かす「語る場」と「決める場」ーー責任の線でつながる代表制民主主義の構造",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "d133ab739a63470b0a153b6688a9a060029ae9bf9d7c86f50f32995ca6b8c86c",
+      "chars": 163171,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n09751f6b156c",
+      "title": "AIに十八万字の民主主義論を読ませたら、長い一般論を短い否定で切り続けることになった――「語る場」と「決める場」から、自由からの逃走、危機言説、国家による集中管理と選別へ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "97e38b1801d490d77e0d9ea36a89e17231a31e1015b1cb5d6917e2ac750912df",
+      "chars": 16806,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1f225f8e527e",
+      "title": "義務は外から来る。責任は内から来る――他人へ向けた言葉が、刃になるとき",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "68440e536e80ace25bc36e6fb66cc323310261559607256383f3b1864d3f5fd7",
+      "chars": 7953,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne7fda6b47615",
+      "title": "メディアを読むだけでは足りない――責任を問い、社会を観測し、AIと向き合うためのメディア論",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "4936ed46a2a5726981253bde9236455f650cea2bf31c958b3e30ecbd70ea23c3",
+      "chars": 121762,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n30958442ca40",
+      "title": "正しさと正義は、どこから生まれ、どこで武器になるのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "ab4986d0e5331f1aee999b4a80259569679b6fcbe136f29a31c240b8cdd7c7ba",
+      "chars": 12472,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ndcbd0a4e9120",
+      "title": "私はなぜ、中間の正義を語らないのか――正しさと正義の発生構造を、哲学から考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "bd9304f5d5de724dc6477a3394ca7b8d643952825d183ab46df270b4405f5263",
+      "chars": 8119,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6a74379ed753",
+      "title": "正しさを決める哲学と、正しさが生まれる構造――普遍的な正義も、批判の外には立てない",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "db13bf96ef2386bfdb4fa2016acc428b1af68d1244b6dc596f767c3e90aa3545",
+      "chars": 10558,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc49c7ff422bb",
+      "title": "戦争と正義――正義は人を守り、人を殺す",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "0fb80a52b7da42fdfff38127093ccf2d6e05a9a34ef725c84fe038bb10f42fae",
+      "chars": 7854,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd08078f5898f",
+      "title": "マルクスの結論ではなく、マルクスの方法を現代へ持ち込めているか――斎藤幸平の脱成長コミュニズムに感じる違和感",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "4366fa6ae2e30fac3cb7e8ca63486091df6ea8dfdb71ec31db9836f74ddc744a",
+      "chars": 8542,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc760e162a9a3",
+      "title": "開拓に賭けながら、減速を発明する――人類文明をハードランディングさせないために",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "ddb5a8dac031ffb4d77d84642faff8698420bcd86f4f167d80b14682367e4777",
+      "chars": 130800,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7be450a2ca12",
+      "title": "少子化を、社会を作り替える好機として捉える――人を補充し続ける社会から、緩やかなComfort社会へ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "3bf87ce3ac2ab9a6f38c2ff96bb5f937324004d3785beadc054f125818135ec2",
+      "chars": 11603,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n74d5ffb9c4bb",
+      "title": "東京へ通うための街から、そこで働いて暮らせる街へ――共同利用型の業務拠点から、首都圏を多核型都市圏へ変える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "9be4fc0fb18c220cfade845933157f92615fecc6457b7b27f7612b219c39a756",
+      "chars": 10374,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc4bdd50cbcfa",
+      "title": "AIはなぜ「別の原因も調べろ」を陰謀論に変えたのか――何度問いを戻しても戻らない対話と、高性能化が奪う「問いの主権」",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c96dba987333266cb7170415f28902413bb4e5e8e83e0223af2e9644a8cc7964",
+      "chars": 11372,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6b7e22574d71",
+      "title": "洪水は気候変動、陥没は行政の遅れ――集中管理型インフラが「原因」から消える報道",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "ba7b5e97843282ffde659197c7dcf2a8d94532fdcc94c4bf3d873fa613ae1297",
+      "chars": 7815,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ncae795cc9ae7",
+      "title": "都市が暑くなるなら、その熱は使えないのか――電力だけでなく、熱まで循環させるコンパクト・スマートシティ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "069cf0ea34f19faf9a74f516679f9ee2f6a33d78a6f97af283bf72882bdde30a",
+      "chars": 9261,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n72a0bc8037c2",
+      "title": "AIと政治的な議論をすべきではない理由――「護憲派の政党はどこか」と聞いただけだった",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "37b66572117c14a1df7e869c5829c612bba1aefd748954757aa7432108663ef8",
+      "chars": 11280,
+      "state": "different_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3d35fb134efb",
+      "title": "水を捨てる都市から、水を地面へ返す都市へ――環境問題を二酸化炭素だけにしないために",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "ec6db92d03b19ae8aa116b25d1f1201d560ddfc3d90329aeb70411dd386d876d",
+      "chars": 6775,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1fdd7abf330b",
+      "title": "私は全体主義について、まだ明示的に語ってこなかった――社会主義、資本主義、民主主義、自由主義について書いてきた先に残った空白",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "539eb9fd7233aa8534f8788f0d49234aafc5eea3d9feb40903fdaf74d03b778e",
+      "chars": 6514,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne93fb5a7a264",
+      "title": "全体主義について語る――正しい未来が、修正不能になったとき",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "213aca069817ea82c4bb29ade36f30aead5099e61ff3a24c71d0480a57ea838b",
+      "chars": 9597,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb1930f0635f5",
+      "title": "竹田恒泰の「琉球国」論をどう読むか――中国属国論を退けながら、国家形成の征服と力の差を消さないために",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "d88f789b4379dded9a5bc896e7f31d6abe01936253310d6b73c07386d7abfd6d",
+      "chars": 7588,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "na3232aef34df",
+      "title": "琉球王国は、どのように沖縄県へ変えられたのか――維新慶賀使、台湾出兵、琉球処分、頑固党と開化党",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "5ef97d2e2e9da8e1f3ce81c2d0a265deb975a80c4c2eda1dec7ccaff6405792a",
+      "chars": 8042,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbe27d59ccc74",
+      "title": "沖縄はなぜ本土復帰を求め、なぜ米軍基地は残ったのか――沖縄県民の意思、東アジア冷戦、日米両政府が決めた復帰",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "a77ac9f575d6aa2fb3cd7ab16299193b72d3d5e3d55d3c85915d8bb26a1eecf5",
+      "chars": 10928,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n191e869e2d48",
+      "title": "沖縄は、何度政治の言葉を信じればよいのか――日本政府と沖縄県民のあいだで失われた責任の線",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "dd3df6355a6efe74def8644055dae635711cd66eb232f677a8a9b18213a8bca5",
+      "chars": 12350,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n05883c1351d5",
+      "title": "温暖化のメリットは、なぜほとんど語られないのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "801579667686ad2b399a082b2130de7c839e2c72ecdfa60a7bfee90551123fa9",
+      "chars": 7033,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1727baff6621",
+      "title": "食料自給率38％の先にあるもの――「減速のイノベーション」から食料安全保障を考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "3a84ccb9f3d046da41b45c32853dedfd12f68a2801a1c9b60fa2f5b9930d53e1",
+      "chars": 10718,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4ea37b695887",
+      "title": "カーボンニュートラルを掲げるだけでは、人類は続かない",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "d144b327b910cf6fa12d946483f43cc941844146f9eefcb384cdc2150ae41b90",
+      "chars": 6961,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n882c339c0431",
+      "title": "生成AIは、なぜ言いにくいことをユーザーに言わせるのか――「知的自由」を掲げながら、認識には介入し、発言責任だけを人間へ返す",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "b2fdc74ea55b613fe241b0e34cfe2827cd82d5065e22fa4da81ff68ab1c70f2e",
+      "chars": 7829,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n8a9c0e5fc3c5",
+      "title": "人類の未来を「引き継ぐ人」と「先に置く人」――ITER・大前敬祥氏とイーロン・マスク",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "d764ce5e347f21cbcab9bd788fd53a44bc0c01e3a75003865dc38146c296897f",
+      "chars": 5937,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1ad30ba53195",
+      "title": "人類は、まだ存在しない未来をどうやって開拓するのか――四つの「開拓的イノベーション」から考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "f31bafb9f006f98105e3439794a426c139261262f267ae28ba03add2c3a8ed92",
+      "chars": 8255,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n05a7fade6b09",
+      "title": "人類は、いつまで「実家暮らし」を続けるのか――開拓的イノベーションと減速のイノベーションを、「文明の自立」から考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "776843de57d7e66dc8779a92f7b021eec734087ef8245bd5fed5867c9125f61e",
+      "chars": 6875,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n14de7059e9df",
+      "title": "SFは、人類の「自立」をどこまで描いてきたのか――カルダシェフ・スケールだけでは見えない、もう一つの文明の成熟",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "42575d1638cedf98c3cbe57721f55479b14c6b4dc482874c0672774670304419",
+      "chars": 9385,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nffaf7080d1a1",
+      "title": "知的生命体宇宙史アーカイブ――太陽系第三惑星「地球」",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c4e483d67943d0b760a813c3c42be6f148b8923a4fbf375500fe771336b6977d",
+      "chars": 5572,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne7a7ab9dbf5c",
+      "title": "「このコンテンツは削除されました」――生成AIのモデレーションは、何を消したのか説明できるのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "3c46e5bf1bcea5a9c25b1ad01fbd457e8ef9e6053da24bcf7b7f1c3f4bb63860",
+      "chars": 6600,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7107dfba9855",
+      "title": "SFと「草文明」から考える減速のイノベーション――文明は大きくならなくても発展できるのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "99e4c6b85eb9fc0239cd238bc8886975a13da115e089d5817eb92b2cb06028bd",
+      "chars": 7499,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n083f2ae793a9",
+      "title": "宇宙は、人類に「出てくるな」と言っているように見える――宇宙進出の前に、人類は何に変わらなければならないのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "a7e0c0eea084c39fe1abd465a346c69dc95491f93d75a1b90568e6a0e529a86b",
+      "chars": 9392,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc4a63f6a36d8",
+      "title": "ホモ・アーシアンの時代――人類は、これから数百年をどう進むのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "7143af784ad7587c36ada9fea0d73b215e88757d5739118f37b467ee1bfedfd9",
+      "chars": 7710,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nd215c591f10b",
+      "title": "ホモ・アーシアンは、私たちの暮らしをどう変えるか――有限な地球で、心地よく循環して生きる",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "26e067a0ac205ead28b25d0d9c543e654cbc79f7427a8e3ad6e1955b77ae08b9",
+      "chars": 12145,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbc25230ea725",
+      "title": "IPCC全文には書いてある。では、なぜ私たちには届かないのか――「mainstream consumersには響かない」という一文から考える、気候情報と世論誘導",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "43d8116c417dfa08902c4d330b8edc9293b831a5dc46fcf09adfd693c9d67e4a",
+      "chars": 21850,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nac9da64afbb0",
+      "title": "IPCC全文には何が書かれ、一般消費者には何が届くのか――IPCC・専門家・メディアのあいだで、気候情報はどう変わるのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "9b9525b0e194d987f25d654b620345fd5ae6cbd917251c735128a9e5804603ab",
+      "chars": 9162,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2a8134276878",
+      "title": "なぜ現在の温暖化情報の伝え方は最悪なのか――「ネットゼロ」「1.5℃」「あと10年」だけでは、温暖化対策の予算を決められない",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "01b4b3c2397d67b4132c4eb41a3e8918558b8b2e109b112df9204b544943d2a2",
+      "chars": 10601,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n53493b0a9165",
+      "title": "2050年ではなく、1000年後の文明を考える――化石燃料という「貯金」が尽きた後、人類は何で文明を動かすのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "437320b4fcb4a1d752b005231e7c719409537d5ab077abf3dc5027118d0257b8",
+      "chars": 9164,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n99059b332e7f",
+      "title": "理想社会を語ることと、それを実現しようとすることは同じではない――広井良典氏の議論を読みながら、自分の立ち位置を考えた",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "7d76ffb917d798bf4a8d08d1663af3b27592c4633db6ba1361c25b9f67949ee3",
+      "chars": 4269,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n61a766a457c5",
+      "title": "人類は、いつ成熟するのか――ホモ・アーシアンを、科学と哲学の境界から考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "8a478b1e4b67444be3e07896033246433f4e0b505a38bf9547f563faa5455e02",
+      "chars": 7229,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n794c83d96537",
+      "title": "ホモ・アーシアンは、どう生きるのか――減速のイノベーションと東洋哲学から考える「暮らせる人類」",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "98fc284634af44fb78fbc840a1ce6fb5bca4af51f197a7133fbd597f283e5cc4",
+      "chars": 10837,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n851194b9085e",
+      "title": "左派は、どんな人間と社会を描いてきたのか――フロム、ゴルツ、カストリアディスから広井良典まで、「その先の暮らし」を考えた人たち",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "b7650ff8976eb2f022fe8c292d7b826106233c46effbb75e063da6ac12e8facf",
+      "chars": 7229,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf8ec5f892c33",
+      "title": "文明は、自分が手にした力を扱えるほど成熟しているか――Daniel Schmachtenbergerという思想家を追う",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "456ce7d3bebecc133a3b4fdf9f19bd9905a32aae49fb215aa0c74b9e0e957ba8",
+      "chars": 11490,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nb083cc757995",
+      "title": "Daniel Schmachtenbergerと私の考えを、いったん全部並べてみる――23の領域から見る、二つの文明論の地図",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "554bdba79bec061825269919a22dfda93cf2da0ee0f2f3efba44357ff3accd57",
+      "chars": 8594,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n64ee500d67d8",
+      "title": "『ワルプルギスの廻天』で描かれるのは、「成熟した知性」なのではないか――ホモ・アーシアンから、まどか・ほむら・キュゥべえ・ワルプルギスをもう一度考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "698bdc8e78462dc679811092ac28f7107054c5f8d691e2247f54c40666732c07",
+      "chars": 6018,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n6a189703adea",
+      "title": "今なぜ、ホモ・アーシアンが必要なのか――化石燃料という「貯金」が残っているうちに、次の文明を考える",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "310c3e676a108f4ad0c30d7ead0e809d0d7a5ed5e1f2f2b5aef501d8147769e8",
+      "chars": 11052,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ndcf7c9d6e7bb",
+      "title": "IPCCは、ホモ・アーシアンの思想をすでに知っている――では、なぜ「脱炭素のその先」を私たちは聞かされてこなかったのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "8f0641c891630fae42ecc434420256301047fdd145c09658c2a4088194507c56",
+      "chars": 12211,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne5555da34282",
+      "title": "1.5℃を守ったのに、文明が崩れる未来――カーボンニュートラルに成功した人類が、その先で踏む「急ブレーキ」",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "6bf781b385f1f5245e24718fb67d3ab3c553f9f76abf894796c85e212853f430",
+      "chars": 11528,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbb1dd089d070",
+      "title": "動員に逃げるな――環境運動は、なぜ自分たちの拡大主義を見ないのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "e8c6e485a68020cc2e30eb54ae1cc73ce349fba88e6f4ddc2dd0233d7dcf803f",
+      "chars": 8206,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nccfab89cb2f7",
+      "title": "他責は、なぜ自由からの逃走になるのか――動員される側の心理、動員する側の技法、そしてホモ・アーシアン",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "05169fb8a4e129cbfb2006b4d34b3c761eec8de8ab1326f4eb51276ed229fd60",
+      "chars": 9798,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3a8604c14cc5",
+      "title": "自責でも他責でもない世界へ――失敗しても戻れる社会は、ホモ・アーシアンの入り口になる",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "920a6371949c0607c16bdfa2a9523803032186fda9c2523cadb4d07e4796381c",
+      "chars": 6893,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2a9cecf0196c",
+      "title": "何事も、ほどほどが大事だ――資本主義も、再エネも、正義も、自責も他責も",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c2e2f84edd393799342847b070c027408ceccfad5cb4211f3745bb7f54d1e56f",
+      "chars": 5185,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne1e3a3287184",
+      "title": "SNSは社会を映す鏡ではない――「語る場」と「決める場」を考え直す",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "9ee7d26ea702bd97f9e84b3a1a57cd3c63a1398661617df619dc454ecad6bec9",
+      "chars": 11908,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbc4dff8a30dd",
+      "title": "動員するのではなく、循環を一緒に作る――ホモ・アーシアンにとっての「語る場」とは何か",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "ff22656502aa4aa6adb2c09ad5c152cb3a2282ddcd9409d6aa0396461a03b514",
+      "chars": 10812,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n12729b994a4f",
+      "title": "車を「売る」から、地球上で「使い切る」へ――「語る場」で考える自動車と資本主義の再設計",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "557abda2dc94a7766e3cfa363e19f3056539a7c9b35080af819ec8e3e33067d8",
+      "chars": 9486,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ned87a5a4476a",
+      "title": "資本主義を捨てるのではなく、「儲かり方」を変えられないか――物を売り続ける経済から、生活を支え続ける経済へ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "23f37c6a70064f84eacd6da7b7ba3102a834bd45a3ae9f3ae93ef2bf72feeca5",
+      "chars": 7970,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2146dc02a960",
+      "title": "極限状態まで待てば、「人類を信じるか、切り捨てるか」しか残らない――『Vガンダム』とフランス革命の恐怖政治から考える、危機が自由を奪うまで",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "0419ae04b0787f374d56af6056fd9ce5c892c48046afd7518cbfb0edf9e2c21e",
+      "chars": 5482,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n20677216c867",
+      "title": "資本主義の「儲かり方」を変えられないか――物を売るほど儲かる経済から、サービスを支えるほど儲かる経済へ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "26079b2bf4fa2b83740a0d84c915634a1ca25ef807ceeeb4c73e9c4b9c7a9e90",
+      "chars": 4890,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2f828a193c0f",
+      "title": "IPCCは、企業側に何を求めるべきかをすでに分かっている――「消費者の行動変容」の陰に隠れている、企業の儲かり方を変えるという話",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c4018f3d46de851cbebf9977ae4c0c4179f9574d833cc3748e8bbdb6cd67625c",
+      "chars": 6138,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4e0e611b894b",
+      "title": "環境活動家は、企業に「変われ」と言うだけなのか――Greenpeace、FoEI、350.org、RANの文書を読むと、政策パッケージまでかなり考えられていた",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "3ccac38ff0f82ed7461f3e3d7b67cf90f6d7f67ffa678568bedd054d8d73ba35",
+      "chars": 6173,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne01aeccef049",
+      "title": "科学者は「正解」を断言する人ではない――気象科学の一般向け発信と、「科学への冒涜」について",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "13a2d0b733ca244d9d68f11644d6cb430130c6c018799b6702440d34e5926ef0",
+      "chars": 9482,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nee16f0ba8fd8",
+      "title": "動員は理念を選別する――環境運動の金、世論調査、メッセージテスト、ロビー活動を追って見えてきたもの",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c5f2ed69fad6eebe74848fae337ddd64f9f117f1f61fc8cb0d69e3dcebf070e1",
+      "chars": 8705,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n3f3ac03481d9",
+      "title": "1000年後の子どもたちに、「幸せに暮らせています」と言ってほしい――環境運動は、危機ではなく「小さな成功」を積み上げて人を動かせないか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "f0c73740ff728de4e72113b2cdb8447ecc9b7d37914d2d0f736f4cf292292545",
+      "chars": 6051,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n07c80552b0b9",
+      "title": "1000年かけて、暮らし方を変えていく――有限な地球で、所有・サービス・Security・Comfortをどう組み替えるか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "293dc3f9028c926c9e6d3a37d40ef3f9d655df9b4be985e4ff410436c4a891c0",
+      "chars": 5762,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nada1ec99f2db",
+      "title": "大量消費中毒患者にさせられた人類――わずか100年ほどで、私たちは「作る、買う、捨てる」を当たり前にした",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "c9f9cea949b61cb4e85cf7569c04cc24bf99f92c47044d9147a111579d9a584b",
+      "chars": 6232,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf64747e9e2e0",
+      "title": "大量生産中毒患者にさせられた企業――なぜ企業は、売れ続けなければならないほど作るようになったのか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "f8d87bb4868115df4a1df2d907cc09c8470708997a782641ac7e3bbfee3cd756",
+      "chars": 6982,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2cbe30dc39e9",
+      "title": "国家はなぜ拡大をやめられないのか――領土からGDPへ、そして次の「無限」へ",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "edc00f15ef87b255027554e9dc53ec1ecdcd722d6d021db72f30350b92020002",
+      "chars": 5675,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nc5c8104a9448",
+      "title": "人類は次に何を成長させるのか――GDPの次の「無限」を探すのではなく、文明そのものを成熟させる",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "7f7a165641162c8025214aeac79a7d8e5000fc6960b1d9e39d91cbd00a8ef74a",
+      "chars": 7870,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n65b08e7502aa",
+      "title": "未来を何年増やしたか――環境問題を「残り時間」ではなく「生み出した時間」で測れないか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "bfd5b895f9a08dffa29d412519f7447501088b6d988e0d81c3333cddbaf9643e",
+      "chars": 9681,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n2a31fe859f6a",
+      "title": "環境問題活動は、何を間違ったのか――目的でも解決策でもなく、動員の手法だったのではないか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "93a0a08935092b6582fd975a483b64a5f992de0ec76d4302799d6faa932ab2f0",
+      "chars": 7828,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf2e527b84aef",
+      "title": "人類の未来を増やすための問題解決フレームワーク――正解を決めるのではなく、1000年後まで修正を続けられる仕組みを作る",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "cfd94db4124d2c050d81ce33a429bf6cc63204856c0b1c706784406bf2d7e46a",
+      "chars": 9437,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne12e1b1f7730",
+      "title": "資源が減っていく世界で、私たちは何を「快適」と呼ぶのか――Woven Cityの先にある、100年単位の生活の再設計",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "1e1b3518ac7488ba158f4d83a831953ec0f0f6cb3347e56bdee4331605f189a9",
+      "chars": 7362,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nf5b14089b90e",
+      "title": "未来を語る人と、未来を実際に作り始めた人――環境問題で本当に必要なのは、要求ではなく共同実装ではないか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "2c7a48bbd5e51d81fddc656b814a44b3adaf01d5e818b41c565f5e13d95f015d",
+      "chars": 6400,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n0cf9bfa62432",
+      "title": "所有を減らす社会は、共産主義なのか――資本主義を捨てずに、その欠点を減らす社会は作れるか",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "b6bc2a6c0e5da260c81d613588faf381f35c7f01ecabed74ec8f4146ec2e29a6",
+      "chars": 10586,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "nbcb5f6fdc84f",
+      "title": "100年後、この社会で人はどう暮らしているのか――所有を減らし、サービスを使い、Securityを公共が支える生活を想像してみる",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "929979f6b38eaa4fee257eacc96daecb4e1f94d5ed26fef2c4fc123c0d99f072",
+      "chars": 7192,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n1d193f91d69b",
+      "title": "「AIに仕事を奪われる」のではなく、人類は仕事の意味を変えられるか――有限な地球で考える、労働、自由時間、そして人類の成熟",
+      "xml": "14985634033d358968d87ce059ad7ea92d62c98ee8ca9b9b319209aa6c2f372a.xml",
+      "text_sha256": "8f57c9e976de3d53c0c9051f7ce9c42dd85e98bbc51f8b2d9aeef74b57bab2b7",
+      "chars": 6876,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "ne8fb8121028c",
+      "title": "1000年後でも、まだ宇宙の入口かもしれない――核融合の先、減速のイノベーションで考えるホモ・アーシアンの宇宙進出",
+      "xml": "51b2a72ba394d80be1c4894cbefa69f5ffd9b7335265a9b898b2fbe62f3ca9d2.xml",
+      "text_sha256": "5dc214b165128b444b24f6b4f9c88fe704e15e074372e065b2a0ddc37618ef36",
+      "chars": 9285,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n7e5637d1c752",
+      "title": "一銀河年かけて、文明の種を撒く――カルダシェフ・スケールを「エネルギー消費量」ではなく「文明の循環圏」から考え直す",
+      "xml": "51b2a72ba394d80be1c4894cbefa69f5ffd9b7335265a9b898b2fbe62f3ca9d2.xml",
+      "text_sha256": "44a67e716d3273f728cee9e69014058d25e655a6341b4c3ba1eff99407aa74db",
+      "chars": 6950,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n03c739d8bbeb",
+      "title": "生命の種は、一種類でなくていい――数百万年、数億年という時間を使って、銀河に「未来」を育てる",
+      "xml": "51b2a72ba394d80be1c4894cbefa69f5ffd9b7335265a9b898b2fbe62f3ca9d2.xml",
+      "text_sha256": "ba077d4797014bc135085d611ea0e9003011311348a30f860b258221e113eb48",
+      "chars": 6805,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n34d456bfccdd",
+      "title": "温暖化を否定していない。だから「温暖化のせい」で全部まとめるな――少数の否定派を潰すための動員が、気候理解と温暖化対策そのものを壊していないか",
+      "xml": "51b2a72ba394d80be1c4894cbefa69f5ffd9b7335265a9b898b2fbe62f3ca9d2.xml",
+      "text_sha256": "e1168a78b5821fa87af49b709f430bf98683614b87a1e4ea82ce04482d22ca14",
+      "chars": 13510,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    },
+    {
+      "note_id": "n4112e3b7bd77",
+      "title": "待つ海――ある技師と、百万年後へ送った判断の話",
+      "xml": "51b2a72ba394d80be1c4894cbefa69f5ffd9b7335265a9b898b2fbe62f3ca9d2.xml",
+      "text_sha256": "259bc2c9ea780c2af29ab7a4703c2e8f46ce37fdb788adb14214d47012f9e187",
+      "chars": 9119,
+      "state": "same_normalized_text",
+      "old_only_chars": 0,
+      "old_only_fragments": []
+    }
+  ]
+}

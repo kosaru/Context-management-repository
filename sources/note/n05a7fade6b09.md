@@ -3,8 +3,8 @@ note_id: "n05a7fade6b09"
 title: "人類は、いつまで「実家暮らし」を続けるのか――開拓的イノベーションと減速のイノベーションを、「文明の自立」から考える"
 note_url: "https://note.com/shirokuma1970/n/n05a7fade6b09"
 published_at: "2026-08-12"
-fetched_at: "2026-08-13T22:10:56.406702+00:00"
-content_sha256: "476b4d7d9aac0fec1244120893f6447ff74c99ed07541b7abcdc1e08ee33eefb"
+fetched_at: "2026-10-08T13:42:29.938748+00:00"
+content_sha256: "982104be7110d13cfff2cc754fa7afa26481ce3962456c65aa02e73c23f04d5f"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -71,8 +71,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 だが、いつまでもそれでいいのだろうか。
 
 私は最近、「開拓的イノベーション」と「減速のイノベーション」を考えながら、この問題は結局、**人類が文明として自立できるのか**という話なのではないかと思うようになった。
-
-  
 
 ## 核融合は、人類が「仕事を得る」話なのではないか
 

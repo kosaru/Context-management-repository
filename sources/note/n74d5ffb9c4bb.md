@@ -3,8 +3,8 @@ note_id: "n74d5ffb9c4bb"
 title: "東京へ通うための街から、そこで働いて暮らせる街へ――共同利用型の業務拠点から、首都圏を多核型都市圏へ変える"
 note_url: "https://note.com/shirokuma1970/n/n74d5ffb9c4bb"
 published_at: "2026-07-25"
-fetched_at: "2026-07-26T06:14:08.273564+00:00"
-content_sha256: "6b6cd3f20a9641a3353ac3e584a3940a5a1e1f9cb037a79ac0bbf3ef70345b3d"
+fetched_at: "2026-10-08T13:42:56.194356+00:00"
+content_sha256: "037bb1379fd8b004a490ae1d5c3c8b4e5b89abbf82589cd769e850277d3432a0"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -15,8 +15,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 > このファイルは文脈解析用の取得時スナップショットです。
 
 ## 
-
-  
 
 ## はじめに――コンパクトシティを先に作っても、街は再生しない
 

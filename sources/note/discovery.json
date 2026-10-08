@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-08T07:01:47.423445+00:00",
+  "recorded_at": "2026-10-08T13:49:01.589351+00:00",
   "method": "creator-api",
   "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
   "pages": [
@@ -575,7 +575,7 @@
   "complete": true,
   "termination_reason": "explicit_last_page",
   "sync_report": {
-    "recorded_at": "2026-10-08T07:01:25+00:00",
+    "recorded_at": "2026-10-08T13:40:07+00:00",
     "profile": "https://note.com/shirokuma1970",
     "discovery": {
       "method": "creator-api",
@@ -1154,17 +1154,17 @@
       "termination_reason": "explicit_last_page"
     },
     "complete_discovery": true,
-    "verify_all": false,
+    "verify_all": true,
     "limit": 0,
     "bootstrapped_catalog_records": 0,
     "discovered_count": 481,
     "seen_note_ids": 481,
-    "fetched_count": 0,
-    "source_changed_count": 0,
+    "fetched_count": 481,
+    "source_changed_count": 86,
     "metadata_change_count": 0,
     "new_card_count": 0,
     "missing_from_public_index_count": 0,
-    "events_written": 0,
+    "events_written": 86,
     "failure_count": 0,
     "failures": []
   }

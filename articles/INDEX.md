@@ -6,6 +6,7 @@
 
 - 公開記事の最新件数と所在：[記事・解析索引](CARD_INDEX.md)
 - 2026-10-08の未反映確認：[照合・反映記録](../review/WRITING_REFLECTION_2026-10-08.md)
+- 2026-10-08の全件再照合：[6ファイル回収・原文追加・公開本文全件検証](../review/WRITING_REFLECTION_ALL_2026-10-08.md)
 - 公開前原稿・別稿・全文収録待ち：[別稿・収録待ち索引](../sources/note/variants/INDEX.md)
 - 公開note IDが未確認の原稿カードは、draft_idを使い、公開記事の機械索引・件数へ加えない。
 

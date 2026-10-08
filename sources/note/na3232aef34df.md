@@ -3,8 +3,8 @@ note_id: "na3232aef34df"
 title: "琉球王国は、どのように沖縄県へ変えられたのか――維新慶賀使、台湾出兵、琉球処分、頑固党と開化党"
 note_url: "https://note.com/shirokuma1970/n/na3232aef34df"
 published_at: "2026-08-04"
-fetched_at: "2026-08-09T04:34:57.735774+00:00"
-content_sha256: "0f32720168153e2560a90614f0411bcd040d943a74b016888237296a38550a20"
+fetched_at: "2026-10-08T13:42:39.890347+00:00"
+content_sha256: "b31c640590b0f1e62fdb20c940167f562e033d6f9ef237b59d733994aee83958"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -61,8 +61,6 @@ extraction_method: "css:.note-common-styles__textnote-body"
 そして、琉球の人々が、失われていく国家を前に何を残そうとしたのか。
 
 そこまで見る必要がある。
-
-  
 
 ## 最初に行われたのは、薩摩との関係を明治政府へ移すことだった
 

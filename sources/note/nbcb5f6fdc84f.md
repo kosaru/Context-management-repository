@@ -3,8 +3,8 @@ note_id: "nbcb5f6fdc84f"
 title: "100年後、この社会で人はどう暮らしているのか――所有を減らし、サービスを使い、Securityを公共が支える生活を想像してみる"
 note_url: "https://note.com/shirokuma1970/n/nbcb5f6fdc84f"
 published_at: "2026-08-29"
-fetched_at: "2026-08-29T12:40:22.006038+00:00"
-content_sha256: "b327a8a5683e0605e5787d6428ed04fb1bb639d9dce2d9bbaea875497434ce54"
+fetched_at: "2026-10-08T13:41:33.348519+00:00"
+content_sha256: "b932c9d680d58f0b7f40b0cd185b47a0a577219b20fceac5ad5a61d04d4d3287"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -77,8 +77,6 @@ BIは一人年間48万円。
 **地球のリソースをどの速度で消費し、どの程度再生産・回収できているか**
 
 に連動させる方が、この制度の目的には合っている。
-
-  
 
 ---
 

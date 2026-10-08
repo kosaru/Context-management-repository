@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：126件
+- 確認待ち：132件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -1000,6 +1000,14 @@
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/n60079aee7ede
 
+### [004.未来の安心を作る「消費税＋ベーシックインカム二段階安定装置」](../articles/cards/2026-01-31-nbe506f1f292b.md)
+
+- note ID：`nbe506f1f292b`
+- 公開日：2026-01-31
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-01-31-nbe506f1f292b.md
+- 公開本文：https://note.com/shirokuma1970/n/nbe506f1f292b
+
 ### [キュゥべえは本当に宇宙を救っているのか](../articles/cards/2026-04-06-n4690a13cff98.md)
 
 - note ID：`n4690a13cff98`
@@ -1008,13 +1016,53 @@
 - 既存解析：articles/cards/2026-04-06-n4690a13cff98.md
 - 公開本文：https://note.com/shirokuma1970/n/n4690a13cff98
 
-### [予算委員会は誰のものかー一つの音声断片が、週刊誌・国会・メディア・AIを通って「事実」になるまで](../articles/cards/2026-06-23-nee567e7bf172.md)
+### 「よく分からないから怖い」を、誰かに預けないーーAIが脆弱性を見つけたニュースから考える、不安を確認順に戻す力
 
-- note ID：`nee567e7bf172`
-- 公開日：2026-06-23
+- note ID：`n4e7fe52fe4e4`
+- 公開日：2026-04-25
 - 理由：body_changed_after_coverage
-- 既存解析：articles/cards/2026-06-23-nee567e7bf172.md
-- 公開本文：https://note.com/shirokuma1970/n/nee567e7bf172
+- 既存解析：analysis/PHASE_06_2026-03-23_TO_05-01.md
+- 公開本文：https://note.com/shirokuma1970/n/n4e7fe52fe4e4
+
+### 不安を煽るAI報道を、どう読めばいいのか――怖さを、条件のない物語に預けないために
+
+- note ID：`n03f382a2f025`
+- 公開日：2026-05-01
+- 理由：body_changed_after_coverage
+- 既存解析：analysis/PHASE_06_2026-03-23_TO_05-01.md
+- 公開本文：https://note.com/shirokuma1970/n/n03f382a2f025
+
+### [AIとの対話には、プロンプトの技より先に「稽古」がいる](../articles/cards/2026-05-05-ne689a6405eba.md)
+
+- note ID：`ne689a6405eba`
+- 公開日：2026-05-05
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-05-05-ne689a6405eba.md
+- 公開本文：https://note.com/shirokuma1970/n/ne689a6405eba
+
+### [AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている](../articles/cards/2026-05-06-neb3fdedccd79.md)
+
+- note ID：`neb3fdedccd79`
+- 公開日：2026-05-06
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-05-06-neb3fdedccd79.md
+- 公開本文：https://note.com/shirokuma1970/n/neb3fdedccd79
+
+### [生成AIは、あなたの「正しさ」を強くしすぎる](../articles/cards/2026-05-22-n7f7b19894103.md)
+
+- note ID：`n7f7b19894103`
+- 公開日：2026-05-23
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-05-22-n7f7b19894103.md
+- 公開本文：https://note.com/shirokuma1970/n/n7f7b19894103
+
+### [第0回：人類は続いてきた。だが、続くとは限らない――これまで書いてきた記事を、減速のイノベーションとして読み直す](../articles/cards/2026-05-29-ne657d4d1e187.md)
+
+- note ID：`ne657d4d1e187`
+- 公開日：2026-05-30
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-05-29-ne657d4d1e187.md
+- 公開本文：https://note.com/shirokuma1970/n/ne657d4d1e187
 
 ## 責任ある保留
 

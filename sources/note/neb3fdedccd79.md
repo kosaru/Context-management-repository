@@ -3,8 +3,8 @@ note_id: "neb3fdedccd79"
 title: "AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている"
 note_url: "https://note.com/shirokuma1970/n/neb3fdedccd79"
 published_at: "2026-05-06"
-fetched_at: "2026-06-23T13:10:48.181111+00:00"
-content_sha256: "3452c7959f2b5f013b52972f2e9341f7d5ba53f783c5de464d115efd4fda95ce"
+fetched_at: "2026-10-08T13:44:14.427799+00:00"
+content_sha256: "362c7842191428ec03d84693492e1257434899d6b1a52b39105cd0a7e26116fa"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -78,8 +78,6 @@ AIを比べるとき、つい「どれが賢いか」で見てしまいます。
 そして、ズレたときの戻し方を、どこに保存できるのか。
 
 今回は、そのことについて考えてみたいと思います。
-
-  
 
 ## 問題は「どのAIが賢いか」ではなく「文脈をどこに置けるか」
 
@@ -725,7 +723,7 @@ ChatGPTが上で、ClaudeやGeminiが下という話でもない。
 
 整理すると、今の私の感覚ではこうなります。
 
-![](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=1200)
+[![画像](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=1200)](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90)
 
 ChatGPTでは、稽古ログを育てる。
 

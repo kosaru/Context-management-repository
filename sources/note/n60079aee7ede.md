@@ -1,14 +1,14 @@
 ---
 note_id: "n60079aee7ede"
-title: "政権交代は、政策の次でいい――高市政権と、もう一度「政策」で闘う政治へ"
+title: "【動画解説】政権交代は、政策の次でいい――高市政権と、もう一度「政策」で闘う政治へ"
 note_url: "https://note.com/shirokuma1970/n/n60079aee7ede"
 published_at: "2026-10-07"
-fetched_at: "2026-10-08T06:46:39.402800+00:00"
+fetched_at: "2026-10-11T09:56:46.154484+00:00"
 content_sha256: "db4829cb1ab2ffef48d83209607f87350809ffd26abff0d1a0da25e55ad2f766"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
-# 政権交代は、政策の次でいい――高市政権と、もう一度「政策」で闘う政治へ
+# 【動画解説】政権交代は、政策の次でいい――高市政権と、もう一度「政策」で闘う政治へ
 
 > 公開本文の正本：https://note.com/shirokuma1970/n/n60079aee7ede
 >

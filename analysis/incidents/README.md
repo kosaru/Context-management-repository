@@ -6,3 +6,4 @@
 
 - `INCIDENT_005_AI_REPACKAGED_USER_PROPOSITIONS.md`：ユーザー命題をAIの補助線として再包装し、未提示の極端命題を作って補正した事故。2026-09-19。
 - `INCIDENT_006_AI_REDEFINED_AND_REFUTED_USER_OBSERVATION.md` — AIが「ダラダラ」を「均等」へ変形して支持データのある観察を否定し、指摘後の原因説明でも後付け説明を繰り返した事故。2026-10-02。
+- `INCIDENT_007_AI_FAILED_TO_DISCOVER_MISSING_MEDIATORS.md` — ユーザーの問いを保持しつつ分析に必要な未提示要因（メディア等の媒介）を自力で探せず、研究追加・自己監査を前進と取り違えた事故。2026-10-14。

@@ -11,7 +11,6 @@
 - [SNS文脈確認の添付稿](2026-09-25-environmental-movement-selection-device-attached-draft.md) — 既存raw原文保存済み、`variant-pending-user`。
 - [2026-09-04 添付別稿](2026-09-04-nbc25230ea725-attached-draft.md) — 既存の添付版。公開版と区別する。
 - [ワルプルギス新稿の公開本文取得記録](2026-09-24-walpurgis-faust-buddhism-japanese-myth-scientific-rationality-capture.md) — 公開スナップショットの保存を再確認。
-- [未来を見せる政治・実装責任の収録待ち](2026-09-20-future-politics-implementation-responsibility-capture.md) — `PENDING-RAW-RECOVERY`。全文未取得。
 
 - [野党は、自分たちのイデオロギーを語れ（2026-10-15 改訂稿・本文＋補記）](2026-10-15-opposition-ideology-reform-draft.md) — 原文保存済み、`variant-pending-user`。公開note台帳には未計上。
 
@@ -23,3 +22,7 @@
 - [全件再照合・追加反映記録](../../../review/WRITING_REFLECTION_ALL_2026-10-08.md)
 - [第三者参照資料](../../reference/README.md)
 - [AI関連テキスト](../../conversation/README.md)
+
+## 閉鎖済みの旧収録待ち記録（作業対象外）
+
+- [「未来を見せる政治は、どうすれば現実になるのか」の旧管理記録](2026-09-20-future-politics-implementation-responsibility-capture.md) — 2026-10-15ユーザー判断により、**存在しない文章・反映不要**。旧`PENDING-RAW-RECOVERY`は終了。

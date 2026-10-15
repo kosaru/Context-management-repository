@@ -13,6 +13,8 @@
 - [ワルプルギス新稿の公開本文取得記録](2026-09-24-walpurgis-faust-buddhism-japanese-myth-scientific-rationality-capture.md) — 公開スナップショットの保存を再確認。
 - [未来を見せる政治・実装責任の収録待ち](2026-09-20-future-politics-implementation-responsibility-capture.md) — `PENDING-RAW-RECOVERY`。全文未取得。
 
+- [野党は、自分たちのイデオロギーを語れ（2026-10-15 改訂稿・本文＋補記）](2026-10-15-opposition-ideology-reform-draft.md) — 原文保存済み、`variant-pending-user`。公開note台帳には未計上。
+
 ## 2026-10-08 全件再照合による追加
 
 - [保存原稿・構成稿・派生台本の原文一覧](2026-10-08-saved-manuscripts.md)

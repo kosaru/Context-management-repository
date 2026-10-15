@@ -1,5 +1,7 @@
 # START HERE
 
+> **2026-10-15 ユーザー訂正（現在有効）**：「未来を見せる政治は、どうすれば現実になるのか」は存在しない・反映不要。旧`PENDING-RAW-RECOVERY`は終了し、未回収件数に含めない。以下の過去の「完成稿存在確認」「全文回収待ち」は当時のAI側の記録であり、現在の作業指示ではない。[閉鎖記録](sources/note/variants/2026-09-20-future-politics-implementation-responsibility-capture.md)参照。
+
 ## 2026-10-15 文章の追加反映・現在の所在
 
 2026-10-15作成の匿名note改訂稿「野党は、自分たちのイデオロギーを語れ――他人の評判を落としても、未来は見えない」の[本文＋補記 raw原文](sources/note/raw/2026-10-15-野党は自分たちのイデオロギーを語れ-改訂稿.md)を保存した。[別稿の来歴・検収状態](sources/note/variants/2026-10-15-opposition-ideology-reform-draft.md)、[追加反映記録](review/WRITING_REFLECTION_2026-10-15.md)を参照。公開前・ユーザー検収前であり、公開記事台帳に追加しない。

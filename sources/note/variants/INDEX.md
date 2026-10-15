@@ -15,6 +15,8 @@
 
 - [野党は、自分たちのイデオロギーを語れ（2026-10-15 改訂稿・本文＋補記）](2026-10-15-opposition-ideology-reform-draft.md) — 原文保存済み、`variant-pending-user`。公開note台帳には未計上。
 
+- [URL提示記事 ne49f193f5521（本文未取得）](2026-10-15-ne49f193f5521-pending-public-capture.md) — `PUBLIC-URL-PROVIDED-PENDING-RAW-CAPTURE`。公開台帳未登録、本文未保存。
+
 ## 2026-10-08 全件再照合による追加
 
 - [保存原稿・構成稿・派生台本の原文一覧](2026-10-08-saved-manuscripts.md)

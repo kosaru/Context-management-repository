@@ -521,7 +521,12 @@
       "note_id": "nfa0071d3cb3b",
       "path": "articles/cards/2026-10-09-nfa0071d3cb3b.md",
       "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "ne49f193f5521",
+      "path": "articles/cards/2026-10-15-ne49f193f5521.md",
+      "reason": "not_covered_elsewhere"
     }
   ],
-  "preserved_unreviewed_count": 104
+  "preserved_unreviewed_count": 105
 }

@@ -16,6 +16,8 @@
 
 - [URL提示記事 ne49f193f5521（本文未取得）](2026-10-15-ne49f193f5521-pending-public-capture.md) — `PUBLIC-URL-PROVIDED-PENDING-RAW-CAPTURE`。公開台帳未登録、本文未保存。
 
+- [アメリカの信用が揺らぐとき、世界はどう動くのか（2026-10-22 本文＋補記・採用稿）](2026-10-22-american-trust-world-order-adopted-draft.md) — 原稿全文保存済み、ユーザー検収済み。note公開URL未確認・公開台帳には未計上。
+
 ## 2026-10-08 全件再照合による追加
 
 - [保存原稿・構成稿・派生台本の原文一覧](2026-10-08-saved-manuscripts.md)

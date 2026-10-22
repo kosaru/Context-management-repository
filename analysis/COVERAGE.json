@@ -5305,21 +5305,21 @@
       "role": ""
     },
     "na8f5e4fd699d": {
-      "analysis_label": "未割り当て",
-      "analysis_ref": "",
-      "analysis_state": "pending",
-      "analysis_unit": "unassigned",
-      "coverage_type": "unassigned",
-      "covered_at": "",
-      "covered_content_hash": "",
-      "covered_public_status": "",
-      "covered_published_at": "",
-      "covered_title": "",
+      "analysis_label": "統合稿（暫定）",
+      "analysis_ref": "articles/cards/2026-10-22-na8f5e4fd699d.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-10-22T05:34:04+00:00",
+      "covered_content_hash": "32fc60a4f54d525b190db8ab355da01032d65335d23145fd8f50a92437d9c1c6",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-10-22",
+      "covered_title": "アメリカの信用が揺らぐとき、世界はどう動くのか――「血と金」で築いた国際秩序と、各国が始めた選択",
       "defer_reason": "",
       "note_id": "na8f5e4fd699d",
       "recheck_after": "",
       "recheck_condition": "",
-      "role": ""
+      "role": "統合稿（暫定）"
     },
     "na91e344c8231": {
       "analysis_label": "第3期：2026-03-02〜03-13",
@@ -8264,5 +8264,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-22T05:10:18+00:00"
+  "updated_at": "2026-10-22T05:34:04+00:00"
 }

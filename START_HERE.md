@@ -1,5 +1,7 @@
 # START HERE
 
+> **2026-10-22 新規採用稿**：匿名note用「アメリカの信用が揺らぐとき、世界はどう動くのか――『血と金』で築いた国際秩序と、各国が始めた選択」は、ユーザーが本文＋補記を受け入れ済み。[採用稿の全文](sources/note/raw/2026-10-22-アメリカの信用が揺らぐとき世界はどう動くのか-採用稿.md)、[来歴・検収状態](sources/note/variants/2026-10-22-american-trust-world-order-adopted-draft.md)、[反映記録](review/WRITING_REFLECTION_2026-10-22.md)を参照。**公開前原稿**として保存した。note URL未確認、公開台帳には未登録、記事カード強度監査はPENDING。画像実体のGitHub保存とnote公開は未実施。
+
 > **2026-10-15 ユーザー訂正（現在有効）**：「未来を見せる政治は、どうすれば現実になるのか」は存在しない・反映不要。旧`PENDING-RAW-RECOVERY`は終了し、未回収件数に含めない。以下の過去の「完成稿存在確認」「全文回収待ち」は当時のAI側の記録であり、現在の作業指示ではない。[閉鎖記録](sources/note/variants/2026-09-20-future-politics-implementation-responsibility-capture.md)参照。
 
 ## 2026-10-15 文章の追加反映・現在の所在

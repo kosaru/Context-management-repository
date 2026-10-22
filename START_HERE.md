@@ -1,6 +1,6 @@
 # START HERE
 
-> **2026-10-22 新規採用稿**：匿名note用「アメリカの信用が揺らぐとき、世界はどう動くのか――『血と金』で築いた国際秩序と、各国が始めた選択」は、ユーザーが本文＋補記を受け入れ済み。[採用稿の全文](sources/note/raw/2026-10-22-アメリカの信用が揺らぐとき世界はどう動くのか-採用稿.md)、[来歴・検収状態](sources/note/variants/2026-10-22-american-trust-world-order-adopted-draft.md)、[反映記録](review/WRITING_REFLECTION_2026-10-22.md)を参照。**同日ユーザーがnoteへの公開を報告済み**。ただし公開URL・note ID・掲載本文は未確認のため公開記事台帳は未更新。記事カード強度監査はPENDING。[公開後の確認状況](review/WRITING_REFLECTION_2026-10-22.md)を参照。サムネイルは文字入り修正版を会話上で作成済み、掲載画像の同一性は未確認。
+> **2026-10-22 公開・取込済み**：[「アメリカの信用が揺らぐとき、世界はどう動くのか――『血と金』で築いた国際秩序と、各国が始めた選択」](https://note.com/shirokuma1970/n/na8f5e4fd699d)（note ID `na8f5e4fd699d`）。[公開本文スナップショット](sources/note/na8f5e4fd699d.md)、[公開後の分析カード](articles/cards/2026-10-22-na8f5e4fd699d.md)、[採用稿原文](sources/note/raw/2026-10-22-アメリカの信用が揺らぐとき世界はどう動くのか-採用稿.md)、[来歴](sources/note/variants/2026-10-22-american-trust-world-order-adopted-draft.md)、[最終後処理記録](review/WRITING_REFLECTION_2026-10-22.md)を参照。公開本文と採用稿の差は補記の書式7行のみ。公開台帳登録済み、文脈分析済み、強度監査PENDING。サムネイル・タグの実掲載状況は未照合。
 
 > **2026-10-15 ユーザー訂正（現在有効）**：「未来を見せる政治は、どうすれば現実になるのか」は存在しない・反映不要。旧`PENDING-RAW-RECOVERY`は終了し、未回収件数に含めない。以下の過去の「完成稿存在確認」「全文回収待ち」は当時のAI側の記録であり、現在の作業指示ではない。[閉鎖記録](sources/note/variants/2026-09-20-future-politics-implementation-responsibility-capture.md)参照。
 

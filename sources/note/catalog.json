@@ -4995,6 +4995,22 @@
       "source_updated_at": "",
       "title": "観察してから境界線を引く：職場編（部下）"
     },
+    "nb4690629da6d": {
+      "analysis_status": "analyzed",
+      "card_path": "cards/2026-10-24-nb4690629da6d.md",
+      "content_hash": "c0380fe1b094fb9d1d026ab0cb19b86634fb27df770885f857126ce8df75a89e",
+      "first_seen_at": "2026-10-23T23:13:41+00:00",
+      "last_checked_at": "2026-10-23T23:13:41+00:00",
+      "last_seen_at": "2026-10-23T23:13:41+00:00",
+      "note_id": "nb4690629da6d",
+      "note_url": "https://note.com/shirokuma1970/n/nb4690629da6d",
+      "public_status": "public",
+      "published_at": "2026-10-24",
+      "snapshot_path": "sources/note/nb4690629da6d.md",
+      "source_updated_at": "",
+      "title": "「やっぱり斎藤幸平も分かっている」から、「意図的に確信した素人を装っているのか」へ――AIとの対話が、私をそこまで追い込んだ記録",
+      "source_kind": "user_pasted_note_page"
+    },
     "nb4e3737893d9": {
       "analysis_status": "covered",
       "card_path": "",
@@ -7292,5 +7308,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-22T05:33:23+00:00"
+  "updated_at": "2026-10-23T23:13:41+00:00"
 }

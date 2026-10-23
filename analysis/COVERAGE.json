@@ -5661,6 +5661,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "nb4690629da6d": {
+      "analysis_label": "AIとの対話記録（暫定）",
+      "analysis_ref": "articles/cards/2026-10-24-nb4690629da6d.md",
+      "analysis_state": "covered",
+      "analysis_unit": "individual_card",
+      "coverage_type": "individual_card",
+      "covered_at": "2026-10-23T23:13:41+00:00",
+      "covered_content_hash": "c0380fe1b094fb9d1d026ab0cb19b86634fb27df770885f857126ce8df75a89e",
+      "covered_public_status": "public",
+      "covered_published_at": "2026-10-24",
+      "covered_title": "「やっぱり斎藤幸平も分かっている」から、「意図的に確信した素人を装っているのか」へ――AIとの対話が、私をそこまで追い込んだ記録",
+      "defer_reason": "",
+      "note_id": "nb4690629da6d",
+      "recheck_after": "",
+      "recheck_condition": "Native note scrape unavailable; coverage is based on user-pasted public text. Recompare hash when native sync fetches article.",
+      "role": "AIとの対話記録（暫定）"
+    },
     "nb4e3737893d9": {
       "analysis_label": "第1期：2026-01-24〜02-10",
       "analysis_ref": "analysis/PHASE_01_2026-01-24_TO_02-10.md",
@@ -8264,5 +8281,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-22T05:34:04+00:00"
+  "updated_at": "2026-10-23T23:13:41+00:00"
 }

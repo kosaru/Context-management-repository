@@ -2975,6 +2975,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "n5944f6c690ff": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n5944f6c690ff",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "n5968f6dee1ef": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-02-02-n5968f6dee1ef.md",
@@ -4824,6 +4841,23 @@
       "covered_title": "",
       "defer_reason": "",
       "note_id": "n9616b191ab46",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
+    "n9672ecb289ea": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "n9672ecb289ea",
       "recheck_after": "",
       "recheck_condition": "",
       "role": ""
@@ -7429,6 +7463,23 @@
       "recheck_condition": "",
       "role": ""
     },
+    "ne9673c99241d": {
+      "analysis_label": "未割り当て",
+      "analysis_ref": "",
+      "analysis_state": "pending",
+      "analysis_unit": "unassigned",
+      "coverage_type": "unassigned",
+      "covered_at": "",
+      "covered_content_hash": "",
+      "covered_public_status": "",
+      "covered_published_at": "",
+      "covered_title": "",
+      "defer_reason": "",
+      "note_id": "ne9673c99241d",
+      "recheck_after": "",
+      "recheck_condition": "",
+      "role": ""
+    },
     "ne9a567f98d25": {
       "analysis_label": "個別記事カード",
       "analysis_ref": "articles/cards/2026-04-08-ne9a567f98d25.md",
@@ -8281,5 +8332,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-23T23:13:41+00:00"
+  "updated_at": "2026-10-25T08:21:13+00:00"
 }

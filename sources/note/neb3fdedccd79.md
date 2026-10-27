@@ -3,8 +3,8 @@ note_id: "neb3fdedccd79"
 title: "AIとの稽古は、モデルごとに「文脈の置き場所」を変えた方がいい気がしている"
 note_url: "https://note.com/shirokuma1970/n/neb3fdedccd79"
 published_at: "2026-05-06"
-fetched_at: "2026-10-08T13:44:14.427799+00:00"
-content_sha256: "362c7842191428ec03d84693492e1257434899d6b1a52b39105cd0a7e26116fa"
+fetched_at: "2026-10-27T08:18:36.173537+00:00"
+content_sha256: "93c097fbb3ede1f2dc8e45e939d26ed5dca190e5a9b26ae64a9b241c94aee07a"
 extraction_method: "css:.note-common-styles__textnote-body"
 ---
 
@@ -723,7 +723,7 @@ ChatGPTが上で、ClaudeやGeminiが下という話でもない。
 
 整理すると、今の私の感覚ではこうなります。
 
-[![画像](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=1200)](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=4000&height=4000&fit=bounds&format=jpg&quality=90)
+[![画像](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=1200)](https://assets.st-note.com/img/1778038349-ed1HsFz5qxYT3NKVtSUOCPrw.png?width=1200)
 
 ChatGPTでは、稽古ログを育てる。
 

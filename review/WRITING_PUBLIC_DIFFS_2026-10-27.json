@@ -1,0 +1,61 @@
+{
+  "checked_date": "2026-10-27",
+  "snapshot_updates": [
+    {
+      "note_id": "naa883246cf5e",
+      "snapshot_path": "sources/note/naa883246cf5e.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "nb083cc757995",
+      "snapshot_path": "sources/note/nb083cc757995.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "nb4690629da6d",
+      "snapshot_path": "sources/note/nb4690629da6d.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "nbe506f1f292b",
+      "snapshot_path": "sources/note/nbe506f1f292b.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "ne7fda6b47615",
+      "snapshot_path": "sources/note/ne7fda6b47615.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "neb3fdedccd79",
+      "snapshot_path": "sources/note/neb3fdedccd79.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "nf7556e99d1a4",
+      "snapshot_path": "sources/note/nf7556e99d1a4.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    },
+    {
+      "note_id": "nfd3e86a2d2cd",
+      "snapshot_path": "sources/note/nfd3e86a2d2cd.md",
+      "normalization": "body only; ignore blank lines, image lines, Markdown emphasis/heading/list-rule markers; compare displayed link text",
+      "narrative_lines_equal": true,
+      "remaining_differences": []
+    }
+  ]
+}

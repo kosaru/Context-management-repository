@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：139件
+- 確認待ち：140件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -1119,6 +1119,14 @@
 - 理由：body_changed_after_coverage
 - 既存解析：articles/cards/2026-05-29-ne657d4d1e187.md
 - 公開本文：https://note.com/shirokuma1970/n/ne657d4d1e187
+
+### [「やっぱり斎藤幸平も分かっている」から、「意図的に確信した素人を装っているのか」へ――AIとの対話が、私をそこまで追い込んだ記録](../articles/cards/2026-10-24-nb4690629da6d.md)
+
+- note ID：`nb4690629da6d`
+- 公開日：2026-10-24
+- 理由：body_changed_after_coverage
+- 既存解析：articles/cards/2026-10-24-nb4690629da6d.md
+- 公開本文：https://note.com/shirokuma1970/n/nb4690629da6d
 
 ## 責任ある保留
 

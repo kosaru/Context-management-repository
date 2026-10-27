@@ -14,11 +14,18 @@
 
 - [野党は、自分たちのイデオロギーを語れ（2026-10-15 改訂稿・本文＋補記）](2026-10-15-opposition-ideology-reform-draft.md) — 原文保存済み、`variant-pending-user`。公開note台帳には未計上。
 
-- [URL提示記事 ne49f193f5521（本文未取得）](2026-10-15-ne49f193f5521-pending-public-capture.md) — `PUBLIC-URL-PROVIDED-PENDING-RAW-CAPTURE`。公開台帳未登録、本文未保存。
+- [野党論 ne49f193f5521 の公開本文取得記録](2026-10-15-ne49f193f5521-pending-public-capture.md) — `PUBLIC-SNAPSHOT-STORED`。公開台帳・本文・記事カードへの登録を2026-10-27に確認。
 
 - [アメリカの信用が揺らぐとき、世界はどう動くのか（2026-10-22 本文＋補記・採用稿）](2026-10-22-american-trust-world-order-adopted-draft.md) — 原稿全文保存済み、ユーザー検収済み。2026-10-22公開済み（note ID `na8f5e4fd699d`）。[公開本文](../na8f5e4fd699d.md)・[公開カード](../../../articles/cards/2026-10-22-na8f5e4fd699d.md)へ接続。公開台帳登録済み・文脈分析済み、強度監査PENDING。
 
-- [2026-10-24 ユーザー公開報告・URL提示記事（note ID `nb4690629da6d`）](2026-10-24-nb4690629da6d-pending-public-capture.md) — 公開報告・URL記録済み。公開本文・正式題名・掲載画像・タグは取得待ち。公開台帳未登録。
+- [2026-10-24 ユーザー公開報告・URL提示記事（note ID `nb4690629da6d`）](2026-10-24-nb4690629da6d-pending-public-capture.md) — 公開台帳登録済み。note直接取得本文とユーザー貼付け由来本文を双方保存。強度監査PENDING。
+
+## 2026-10-27 未収録原稿の追加
+
+- [2026-10-16 分野別インデックス初稿19稿＋概要付き統合稿](2026-10-16-field-index-drafts.md)
+- [2026-10-09 大雨・台風の保存稿と調査報告](2026-10-09-rain-typhoon-saved-draft.md)
+- [メディア論の7月18日保存版・動員論のHTML版](2026-10-27-earlier-saved-variants.md)
+- [今回の照合・反映記録](../../../review/WRITING_REFLECTION_2026-10-27.md)
 
 ## 2026-10-08 全件再照合による追加
 

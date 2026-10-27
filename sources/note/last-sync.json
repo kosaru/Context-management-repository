@@ -585,17 +585,17 @@
     ],
     "termination_reason": "explicit_last_page"
   },
-  "events_written": 8,
+  "events_written": 0,
   "failure_count": 0,
   "failures": [],
-  "fetched_count": 490,
+  "fetched_count": 0,
   "limit": 0,
   "metadata_change_count": 0,
   "missing_from_public_index_count": 0,
   "new_card_count": 0,
   "profile": "https://note.com/shirokuma1970",
-  "recorded_at": "2026-10-27T08:15:41+00:00",
+  "recorded_at": "2026-10-27T08:32:20+00:00",
   "seen_note_ids": 490,
-  "source_changed_count": 8,
-  "verify_all": true
+  "source_changed_count": 0,
+  "verify_all": false
 }

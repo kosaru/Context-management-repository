@@ -556,7 +556,37 @@
       "note_id": "ne04d5c58e541",
       "path": "articles/cards/2026-10-31-ne04d5c58e541.md",
       "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "n1da7ac8ffab7",
+      "path": "articles/cards/2026-11-02-n1da7ac8ffab7.md",
+      "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "n97b1833cd61b",
+      "path": "articles/cards/2026-11-03-n97b1833cd61b.md",
+      "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "n967620423e73",
+      "path": "articles/cards/2026-11-05-n967620423e73.md",
+      "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "nb523af561fb4",
+      "path": "articles/cards/2026-11-05-nb523af561fb4.md",
+      "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "n930a482ca15c",
+      "path": "articles/cards/2026-11-06-n930a482ca15c.md",
+      "reason": "not_covered_elsewhere"
+    },
+    {
+      "note_id": "nea691f127dd2",
+      "path": "articles/cards/2026-11-07-nea691f127dd2.md",
+      "reason": "not_covered_elsewhere"
     }
   ],
-  "preserved_unreviewed_count": 111
+  "preserved_unreviewed_count": 117
 }

@@ -1,10 +1,10 @@
 {
   "bootstrapped_catalog_records": 0,
   "complete_discovery": true,
-  "discovered_count": 492,
+  "discovered_count": 498,
   "discovery": {
     "complete": true,
-    "discovered_count": 492,
+    "discovered_count": 498,
     "endpoint": "https://note.com/api/v2/creators/shirokuma1970/contents",
     "method": "creator-api",
     "pages": [
@@ -576,26 +576,33 @@
         "status_code": 200
       },
       {
-        "is_last_page": true,
+        "is_last_page": false,
         "items_found": 6,
         "new_note_ids": 6,
         "page": 82,
+        "status_code": 200
+      },
+      {
+        "is_last_page": true,
+        "items_found": 6,
+        "new_note_ids": 6,
+        "page": 83,
         "status_code": 200
       }
     ],
     "termination_reason": "explicit_last_page"
   },
-  "events_written": 0,
+  "events_written": 6,
   "failure_count": 0,
   "failures": [],
-  "fetched_count": 492,
+  "fetched_count": 6,
   "limit": 0,
   "metadata_change_count": 0,
   "missing_from_public_index_count": 0,
-  "new_card_count": 0,
+  "new_card_count": 6,
   "profile": "https://note.com/shirokuma1970",
-  "recorded_at": "2026-11-01T10:48:57+00:00",
-  "seen_note_ids": 492,
-  "source_changed_count": 0,
-  "verify_all": true
+  "recorded_at": "2026-11-08T10:13:11+00:00",
+  "seen_note_ids": 498,
+  "source_changed_count": 6,
+  "verify_all": false
 }

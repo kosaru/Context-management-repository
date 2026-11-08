@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：142件
+- 確認待ち：148件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -1071,6 +1071,54 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/ne04d5c58e541
+
+### [解決策を示す前に、問いの構造を示してほしい――CO₂削減のその先を、誰が考え続けるのか](../articles/cards/2026-11-02-n1da7ac8ffab7.md)
+
+- note ID：`n1da7ac8ffab7`
+- 公開日：2026-11-02
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n1da7ac8ffab7
+
+### [問題は、暮らしの中で見つかる――生活者と人類の永続性、私の思考を支える二つの軸](../articles/cards/2026-11-03-n97b1833cd61b.md)
+
+- note ID：`n97b1833cd61b`
+- 公開日：2026-11-03
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n97b1833cd61b
+
+### [温暖化対策は、なぜ巨額の投資を続けても「まだ足りない」のか――IPCCが先に置いた「足るを知る」と、科学者の責任](../articles/cards/2026-11-05-n967620423e73.md)
+
+- note ID：`n967620423e73`
+- 公開日：2026-11-05
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n967620423e73
+
+### [専門家は、前提を省いてはいけない――護身術と気候変動対策から考える、人命と資金の責任](../articles/cards/2026-11-05-nb523af561fb4.md)
+
+- note ID：`nb523af561fb4`
+- 公開日：2026-11-05
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nb523af561fb4
+
+### [BEVに逃げていないか――「15年・20万km・CO₂50％削減」の机上の空論と、歴史が教える本当に必要なこと](../articles/cards/2026-11-06-n930a482ca15c.md)
+
+- note ID：`n930a482ca15c`
+- 公開日：2026-11-06
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n930a482ca15c
+
+### [「確信した素人」が言論空間にもたらす混乱――生成AIとの14時間の膠着から考える、専門家の責任](../articles/cards/2026-11-07-nea691f127dd2.md)
+
+- note ID：`nea691f127dd2`
+- 公開日：2026-11-07
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nea691f127dd2
 
 ### [004.未来の安心を作る「消費税＋ベーシックインカム二段階安定装置」](../articles/cards/2026-01-31-nbe506f1f292b.md)
 

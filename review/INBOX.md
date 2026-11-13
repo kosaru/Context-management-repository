@@ -2,7 +2,7 @@
 
 このファイルは自動生成する。新着カードの件数ではなく、既存の解析カバレッジとの差分だけを表示する。
 
-- 確認待ち：148件
+- 確認待ち：154件
 - 責任ある保留：0件
 - 直近同期の取得失敗：0件
 
@@ -1119,6 +1119,54 @@
 - 理由：new_or_unassigned
 - 既存解析：なし
 - 公開本文：https://note.com/shirokuma1970/n/nea691f127dd2
+
+### [護身術は、目突きや金的に頼るな――世界の危機回避教育と、最後の抵抗を選ぶ覚悟](../articles/cards/2026-11-12-n4b493270838d.md)
+
+- note ID：`n4b493270838d`
+- 公開日：2026-11-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n4b493270838d
+
+### [護身術は、詰んでから始めるものではない――「誰でも何歳からでも強くなれる」という言葉の危うさ](../articles/cards/2026-11-12-n9218c87b9a70.md)
+
+- note ID：`n9218c87b9a70`
+- 公開日：2026-11-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n9218c87b9a70
+
+### [護身のつもりが、加害者になるかもしれない――急所攻撃が招く「選択肢のないハードモード」](../articles/cards/2026-11-12-nff6cbca9df46.md)
+
+- note ID：`nff6cbca9df46`
+- 公開日：2026-11-12
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/nff6cbca9df46
+
+### [「問題が起きない組織」より、「問題に正しく対応する組織」を評価したい――行政横断の通報システムと、実績によって上がる認定レベル](../articles/cards/2026-11-13-n5d2563797eeb.md)
+
+- note ID：`n5d2563797eeb`
+- 公開日：2026-11-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n5d2563797eeb
+
+### [それは「密告システム」なのか――組織内通報を、行政の横串でつなぎ直すという発想](../articles/cards/2026-11-13-n80367349ac82.md)
+
+- note ID：`n80367349ac82`
+- 公開日：2026-11-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/n80367349ac82
+
+### [いじめは犯罪である――なぜ罪のない被害者が、解決まで背負わなければならないのか](../articles/cards/2026-11-13-na2e390ca8df1.md)
+
+- note ID：`na2e390ca8df1`
+- 公開日：2026-11-13
+- 理由：new_or_unassigned
+- 既存解析：なし
+- 公開本文：https://note.com/shirokuma1970/n/na2e390ca8df1
 
 ### [004.未来の安心を作る「消費税＋ベーシックインカム二段階安定装置」](../articles/cards/2026-01-31-nbe506f1f292b.md)
 
